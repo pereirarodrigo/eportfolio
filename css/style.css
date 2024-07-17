@@ -169,7 +169,7 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
-    flex-direction: column; 
+    flex-direction: column;
     font-style: normal;
     display: flex;
     backdrop-filter: blur(2px);
@@ -298,6 +298,7 @@ body {
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     border-right: #121224 solid 2px;
+    padding-bottom: 30px;
     overflow: hidden;
 }
 
@@ -332,7 +333,7 @@ body {
 
 .summaryContent {
     width: 77%;
-    height: 450px;
+    height: 100%;
     padding: 20px;
     background: rgba(255, 255, 255, 0.164);
     display: flex;
@@ -434,7 +435,6 @@ body {
 
     .summaryContent {
         width: 70%;
-        height: 95%;
     }
 }
 
@@ -472,7 +472,6 @@ body {
 
     .summaryContent {
         width: 70%;
-        height: 360px;
     }
 
     #pages .divSummary:hover {
@@ -679,7 +678,7 @@ body {
         padding: 0;
     }
 
-    .summaryContent .swiper-slide{
+    .summaryContent .swiper-slide {
         padding: 0 10px;
     }
 

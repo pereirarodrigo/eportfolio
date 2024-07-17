@@ -35,6 +35,7 @@ function confg(pg) {
             page.classList.add('page-special');
             page.classList.remove('page-about');
             page.classList.remove('page-home');
+            page.style.paddingBottom = "30px";
             break;
         default:
             console.log("No return!");

@@ -196,7 +196,13 @@
                 
 
             <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>WIP.</p><br><br>
+                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
+                
+                <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
+                
+                <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
+                
+                </p><br><br>
         
     
         <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>

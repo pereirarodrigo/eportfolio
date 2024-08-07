@@ -2,15 +2,10 @@
 <h2 class="verticalText">Summary</h2>
 <ul class="summary">
     <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#data-activities">Data Activities</a>
+        <li><a href="#data-activity1">Data Activity 1</a>
         </li>
-        <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
-            <ul class="sect">
-                <li><a href="#colab-21">Peer feedback</a></li>
-                <li><a href="#colab-22">Summary post</a></li>
-                <li><a href="#colab-23">Tutor feedback</a></li>
-            </ul>
-        </li>data-activity1
+        <li><a href="#data-activity2">Data Activity 2</a>
+        </li>
         <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
         </li>
         <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
@@ -37,8 +32,8 @@
             <p>With Dr. Russell Kabir as our tutor, the "Numerical Analysis" module introduced students to concepts and principles in the field of statistics and the R language. The module's goal of providing students with enhanced critical thinking regarding the source and procedures behind the numbers being presented to us, as well as teaching about data manipulation and graphical display, were met and resulted in a clear and comprehensive overview of how important statistics is not only in artificial intelligence (AI) but beyond.</p><br><br>
 
 
-        <h2 id="data-activities">Data Activities</h2>
-            <p>The data activities (1.1 and 1.2) were oriented around gathering a summary statistic in the <b>antisocx</b> column of the "Crime and Survey for England and Wales, 2013-2014: Unrestricted Access Teaching Dataset", available from <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8011#!/details">this</a> catalogue page. Loading the dataset with the alias "dataset" and using the right R command resulted in the following:<br><br>
+        <h2 id="data-activity1">Data Activity 1</h2>
+            <p>The first data activity (with subtasks 1.1 and 1.2) was oriented around gathering a summary statistic in the <b>antisocx</b> column of the "Crime and Survey for England and Wales, 2013-2014: Unrestricted Access Teaching Dataset", available from <a href="https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8011#!/details">this</a> catalogue page. Loading the dataset with the alias "dataset" and using the right R command resulted in the following:<br><br>
             
             <center><img src="img/numerical_analysis/antisocx_summary.png" height="150" width="700"><br>
             
@@ -49,52 +44,18 @@
             </p><br><br>
 
 
-        <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
-            <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
-
-            <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>
-
-            Your discussion could consider:<br><br>
-
-            a) Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution? <br>
-            b)The strengths and weaknesses of this approach to learning.<br><br>
+        <h2 id="data-activity2">Data Activity 2</h2>
+            <p>The second data activity was focused on exploring, using the same dataset and the column <b>bcsvictim</b>, whether survey respondents experienced any crime in the past 12 months prior to the survey and deciding if the variable should be converted into a factor. Loading the dataset with the alias "dataset" and using the right R command resulted in the following:<br><br>
             
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth."</i><br><br>
+            <center><img src="img/numerical_analysis/bcsvictim_table.png" height="150" width="700"><br>
             
-            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
+            <font size="2">Figure 2: The results of using the <i>table(dataset$bcsvictim)</i> command on the dataset</font></center><br><br>
 
+            The image shows that the number of people who experienced any crime in the last 12 months is 1383, while 7460 did not.  
             
-            <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
-                
-                <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
-
-                <font size="2">Figure 5: Pëllumb's peer response to my initial post</font></center><br><br>
-
-                As for Guilherme, his response was the following:<br><br><br>
-
-                <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
-                
-                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center><br><br>
-                
-                </p><br><br>
-
-
-            <h3 id="colab-22"><br>Summary post</h3>
-                <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
-                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
-                
-                <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
-
-                
-            <h3 id="colab-23"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback was, once more, very informative and allowed me to verify that I was on the right track in the module. His response was as follows: <br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_disc2.png" height="800" width="800"><br>
-                
-                <font size="2">Figure 8: Tutor feedback based on my performance in the second discussion forum</font></center><br><br>
-                
-                </p><br><br>
+            Regarding the variable's conversion, given it holds binary values (0 or 1) and denotes a category ("not a victim of crime" and "victim of crime"), it seems sensible to convert it into a factor as this data type is meant to represent categorical data.
+            
+            </p><br><br>
 
 
         <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>

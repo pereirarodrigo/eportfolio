@@ -2,143 +2,233 @@
 <h2 class="verticalText">Summary</h2>
 <ul class="summary">
     <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#chapter-1">Chapter 1</a>
+        <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
             <ul class="sect">
-                <li><a href="#section-11">Section 1.1</a></li>
-                <li><a href="#section-12">Section 1.2</a></li>
+                <li><a href="#colab-11">Peer feedback</a></li>
+                <li><a href="#colab-12">Summary post</a></li>
+                <li><a href="#colab-13">Tutor feedback</a></li>
             </ul>
         </li>
-        <li><a href="#chapter-2">Chapter 2</a>
+        <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
-                <li><a href="#section-21">Section 2.1</a></li>
-                <li><a href="#section-22">Section 2.2</a></li>
+                <li><a href="#colab-21">Peer feedback</a></li>
+                <li><a href="#colab-22">Summary post</a></li>
+                <li><a href="#colab-23">Tutor feedback</a></li>
             </ul>
         </li>
-        <li><a href="#chapter-3">Chapter 3</a>
+        <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
+        </li>
+        <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
             <ul class="sect">
-                <li><a href="#section-31">Section 3.1</a></li>
-                <li><a href="#section-32">Section 3.2</a></li>
+                <li><a href="#assess1-feedback">Tutor feedback</a></li>
             </ul>
         </li>
-        <li><a href="#chapter-4">Chapter 4</a>
+        <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
-                <li><a href="#section-41">Section 4.1</a></li>
-                <li><a href="#section-42">Section 4.2</a></li>
+                <li><a href="#assess2-feedback">Tutor feedback</a></li>
             </ul>
         </li>
-        <li><a href="#chapter-5">Chapter 5</a>
-            <ul class="sect">
-                <li><a href="#section-51">Section 5.1</a></li>
-                <li><a href="#section-52">Section 5.2</a></li>
-            </ul>
+        <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
         </li>
-        <li><a href="#chapter-6">Chapter 6</a>
-            <ul class="sect">
-                <li><a href="#section-61">Section 6.1</a></li>
-                <li><a href="#section-62">Section 6.2</a></li>
-            </ul>
+        <li><a href="#reflection">Reflective Piece</a>
         </li>
-        <li><a href="#chapter-7">Chapter 7</a>
-            <ul class="sect">
-                <li><a href="#section-71">Section 7.1</a></li>
-                <li><a href="#section-72">Section 7.2</a></li>
-            </ul>
-        </li>
-        <li><a href="#chapter-8">Chapter 8</a>
-            <ul class="sect">
-                <li><a href="#section-81">Section 8.1</a></li>
-                <li><a href="#section-82">Section 8.2</a></li>
-            </ul>
-        </li>
-        <li><a href="#chapter-9">Chapter 9</a>
-            <ul class="sect">
-                <li><a href="#section-91">Section 9.1</a></li>
-                <li><a href="#section-92">Section 9.2</a></li>
-            </ul>
-        </li>
-        <li><a href="#chapter-10">Chapter 10</a>
-            <ul class="sect">
-                <li><a href="#section-101">Section 10.1</a></li>
-                <li><a href="#section-102">Section 10.2</a></li>
-            </ul>
-        </li>
-        <li><a href="#conclusion">Conclusão</a></li>
-</ul>
 </div>
 
 <main class="summaryContent">
 <div class="swiper mySwiper">
   <div class="swiper-wrapper">
     <div class="swiper-slide">
-      <h2 id="introduction">Introduction</h2>
-    <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae facere eum ut recusandae beatae tempore facilisatque fugit, ipsa eveniet aliquid, minima totam a tempora culpa neque repudiandae temporibus magni.<br><br>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae facere eum ut recusandae beatae tempore facilisatque fugit, ipsa eveniet aliquid, minima totam a tempora culpa neque repudiandae temporibus magni.<br><br>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae facere eum ut recusandae beatae tempore facilisatque fugit, ipsa eveniet aliquid, minima totam a tempora culpa neque repudiandae temporibus magni.<br><br>
-      </p>
+        <h2 id="introduction">Introduction</h2>
+            <p>With Dr. Steph Palladini as our tutor, the "Machine Learning" module added more depth to students' understanding of artificial intelligence (AI). It delved into the theoretical and practical aspects of machine learning, one of AI's most prolific fields, while also emphasising the role of data analytics in enabling data professionals to understand the data that they're working with. The module was instrumental in equipping students not only with practical and theoretical skills, but also the necessary mindset to engage in mature critical discussions regarding this increasingly important field.</p><br><br>
 
-      <h2 id="chapter-1">Chapter 1</h2>
-      <h3 id="section-11"><br>Section 1.1</h3>
-      <p>Conteúdo da section 1.1.</p>
-      <h3 id="section-12">Section 1.2</h3>
-      <p>Conteúdo da section 1.2.</p>
 
-      <h2 id="chapter-2"><br>Chapter 2</h2>
-      <h3 id="section-21"><br>Section 2.1</h3>
-      <p>Conteúdo da section 2.1.</p>
-      <h3 id="section-22">Section 2.2</h3>
-      <p>Conteúdo da section 2.2.</p>
+        <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
+            <p>The first collaborative learning discussion served as a way for students to warm up to the module by discussing one of AI's peripheral themes. For it, we had the following topic to elaborate on:<br><br>
+            
+            "<i>Read the Schwab (2016) article from World Economic Forum and discuss the impact of industry 4.0 on the sector in which you are involved or interested.<br><br>
 
-      <h2 id="chapter-3">Chapter 3</h2>
-      <h3 id="section-31"><br>Section 3.1</h3>
-      <p>Conteúdo da section 3.1.</p>
-      <h3 id="section-32">Section 3.2</h3>
-      <p>Conteúdo da section 3.2.</p>
+            Instructions:<br><br>
+                
+                a) Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.<br>
+                b) Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.<br>
+                c) Review lecturecast 1 and read papers provided in the references list.<br>
+                d) Go to the discussion forum and create an initial post of your contribution to the discussion.<br><br>
 
-      <h2 id="chapter-4">Chapter 4</h2>
-      <h3 id="section-41"><br>Section 4.1</h3>
-      <p>Conteúdo da section 4.1.</p>
-      <h3 id="section-42">Section 4.2</h3>
-      <p>Conteúdo da section 4.2.</p>
+            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.)."</i><br><br>
 
-      <h2 id="chapter-5">Chapter 5</h2>
-      <h3 id="section-51"><br>Section 5.1</h3>
-      <p>Conteúdo da section 5.1.</p>
-      <h3 id="section-52">Section 5.2</h3>
-      <p>Conteúdo da section 5.2.</p>
+            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Finance's Double-Edged Sword", was as follows.<br><br>
+            
+            <center><img src="img/machine_learning/initial_post.png" height="600" width="1200"><br>
 
-      <h2 id="chapter-6">Chapter 6</h2>
-      <h3 id="section-61"><br>Section 6.1</h3>
-      <p>Conteúdo da section 6.1.</p>
-      <h3 id="section-62">Section 6.2</h3>
-      <p>Conteúdo da section 6.2.</p>
+            <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>
 
-      <h2 id="chapter-7">Chapter 7</h2>
-      <h3 id="section-71"><br>Section 7.1</h3>
-      <p>Conteúdo da section 7.1.</p>
-      <h3 id="section-72">Section 7.2</h3>
-      <p>Conteúdo da section 7.2.</p>
+            
+            <h3 id="colab-11"><br>Peer feedback</h3>
+                <p>The peer responses from Mateusz Niewczas and Guilherme Pessoa-Amorim, two of my peers, were instrumental in building upon my initial post. For Mateusz, his response was as follows.<br><br>
+                
+                <center><img src="img/understanding_ai/mateusz_disc1.png" height="400" width="1200"><br>
 
-      <h2 id="chapter-8">Chapter 8</h2>
-      <h3 id="section-81"><br>Section 8.1</h3>
-      <p>Conteúdo da section 8.1.</p>
-      <h3 id="section-82">Section 8.2</h3>
-      <p>Conteúdo da section 8.2.</p>
+                <font size="2">Figure 1: Mateusz's peer response to my initial post</font></center><br><br>
 
-      <h2 id="chapter-9">Chapter 9</h2>
-      <h3 id="section-91"><br>Section 9.1</h3>
-      <p>Conteúdo da section 9.1.</p>
-      <h3 id="section-92">Section 9.2</h3>
-      <p>Conteúdo da section 9.2.</p>
+                As for Guilherme, his response was the following:<br><br><br>
 
-      <h2 id="chapter-10">Chapter 10</h2>
-      <h3 id="section-101"><br>Section 10.1</h3>
-      <p>Conteúdo da section 10.1.</p>
-      <h3 id="section-102">Section 10.2</h3>
-      <p>Conteúdo da section 10.2.</p>
+                <center><img src="img/understanding_ai/guilherme_disc1.png" height="700" width="1200"><br>
+                
+                <font size="2">Figure 2: Guilherme's peer response to my initial post</font></center><br><br>
 
-      <h2 id="conclusion"><br>Conclusion</h2>
-      <p>Esta é a conclusion do documento.</p>
+
+            <h3 id="colab-12"><br>Summary post</h3>
+                <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+
+                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
+                
+                <font size="2">Figure 3: My summary post in the first discussion forum</font></center><br><br>
+
+
+            <h3 id="colab-13"><br>Tutor feedback</h3>
+                <p>Dr. Samuel Danso's feedback was very informative and greatly allowed me to evaluate my own progress in the module. His response was as follows: <br><br>
+                
+                <center><img src="img/understanding_ai/tutor_feedback_disc1.png" height="800" width="800"><br>
+                
+                <font size="2">Figure 4: Tutor feedback based on my performance in the first discussion forum</font></center><br><br>
+                
+                </p><br><br>
+
+
+        <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
+            <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
+
+            <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>
+
+            Your discussion could consider:<br><br>
+
+            a) Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution? <br>
+            b)The strengths and weaknesses of this approach to learning.<br><br>
+            
+            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth."</i><br><br>
+            
+            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
+
+            
+            <h3 id="colab-21"><br>Peer feedback</h3>
+                <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
+                
+                <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
+
+                <font size="2">Figure 5: Pëllumb's peer response to my initial post</font></center><br><br>
+
+                As for Guilherme, his response was the following:<br><br><br>
+
+                <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
+                
+                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center><br><br>
+                
+                </p><br><br>
+
+
+            <h3 id="colab-22"><br>Summary post</h3>
+                <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
+                
+                <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
+
+                
+            <h3 id="colab-23"><br>Tutor feedback</h3>
+                <p>Dr. Samuel Danso's feedback was, once more, very informative and allowed me to verify that I was on the right track in the module. His response was as follows: <br><br>
+                
+                <center><img src="img/understanding_ai/tutor_feedback_disc2.png" height="800" width="800"><br>
+                
+                <font size="2">Figure 8: Tutor feedback based on my performance in the second discussion forum</font></center><br><br>
+                
+                </p><br><br>
+
+
+        <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>
+            <p>The collaborative learning discussions allowed me to engage with my peers in informative and respectful discussions regarding the proposed topics, thus contributing to my growth in two very important aspects:<br><br><br>
+            
+            a) <b>Critical thinking:</b> The topics were, by nature, geared towards instigating students to work on identifying and addressing their positive and negative aspects. By the time that we had to take part in the second discussion forum, I was much more proficient at thinking critically and this skill only improved by the end of the second collaborative learning discussion;<br><br>
+            
+            b) <b>Collaboration:</b> I interacted with several students' posts and directly addressed the content present in them. Not only did I agree or disagree as required but I also provided further material that could be of interest to my peers, such as articles and papers, thus collaborating with them in broadening our perspective of a given topic.<br><br>
+            
+            </p><br><br>
+
+
+        <h2 id="assess1">Assessment: Artificial Intelligence and its Applications</h2>
+            <p>The first assessment involved coming up with a report that would convince the leadership of a ficticious finance startup to adopt AI technologies. The company that I created had the following profile:<br><br> 
+            
+            <i>Orion is a recently established finance company that specialises in efficient and secure payment processing operations and investment management, offering customers a team of investment specialists to optimise their portfolios and perform quantitative trading. Founded by industry veterans and academics, the company seeks to combine corporate and research-based methods to bring innovation to the finance industry, which is known for its high stakes and competitive nature.</i><br><br>
+
+            The report contained the positive and negative aspects behind AI adoption, the challenges involved in such an action (such as dataset gathering and infrastructure requirements) and the potential boons that could be unlocked by Orion should it make use of this technology responsibly and ethically. Three key areas were identified that could be significantly enhanced by AI adoption, which were:<br><br><br>
+
+            a) <b>Investment planning and execution</b>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
+
+            b) <b>Fraud detection</b>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
+
+            c) <b>Customer service</b>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
+            
+            </p><br><br>
+            
+
+            <h3 id="assess1-feedback"><br>Tutor feedback</h3>
+                <p>Dr. Samuel Danso's feedback allowed me to see the flaws in my report, such as the lack of reference-backed examples. His response was instrumental in allowing me to improve my report for the next assignment, and was as follows<br><br>
+                
+                <center><img src="img/understanding_ai/tutor_feedback_assign1.png" height="500" width="1200"><br>
+                
+                <font size="2">Figure 9: Tutor feedback on the first assignment</font></center><br><br>
+                
+                </p><br><br>
+
+
+        <h2 id="assess2">Assessment: AI Application Solution</h2>
+            <p>The second assignment was a direct continuation of the previous one. In this report, we had to come up with an experiment using one of the previously defined three key areas to demonstrate that our AI claims were achievable. My experiment focused on identifying fraudulent credit card transactions via machine learning (ML) algorithms, more specifically supervised learning approaches. To make the experiment as organised and reproducible as possible, the CRISP-DM process was employed.<br><br>
+
+            <center><img src="https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png" height="500" width="600"><br>
+                
+            <font size="2">Figure 10: The CRISP-DM process (<a href="https://www.sv-europe.com/crisp-dm-methodology/">Smart Vision Europe</a>)</font></center><br><br>
+
+            As such, the experiment focused on business understanding, data understanding and preparation, modelling and evaluation. Deployment was not addressed as it was out of scope, but recommendations were made when it comes to monitoring data and model drift.<br><br>
+            
+            When it comes to the candidate models that were considered, the following research-backed options were evaluated:<br><br>
+            
+            a) J48 (decision tree);<br> 
+            b) Naive Bayes;<br>
+            c) Random forest;<br>
+            d) Logistic regression;<br>
+            e) Multilayer perceptron.<br><br>
+            
+            The models were trained and evaluated using stratified k-fold cross-validation, and the best-fit model underwent a limited hyperparameter tuning process to ascertain if it could be improved even further. 
+            
+            </p><br><br>
+                
+
+            <h3 id="assess2-feedback"><br>Tutor feedback</h3>
+                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
+                
+                <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
+                
+                <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
+                
+                </p><br><br>
+        
+    
+        <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>
+            <p>The assignments were incredibly useful in demonstrating to students that, in industry (and even in academia), hard skills (such as programming) alone are not enough. Soft skills (such as communication) will always be required, especially for the following reasons:<br><br><br>
+            
+            a) <b>Technical barrier:</b> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
+
+            b) <b>Politics:</b> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
+
+            c) <b>Collaboration:</b> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
+
+            d) <b>Conflict resolution:</b> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
+
+            </p><br><br>
+
+
+        <h2 id="reflection">Reflective Piece</h2>
+            <p>The "Understanding Artificial Intelligence" module was instrumental in not only introducing students to the world of AI, but also in enabling us to engage in meaningful and reference-backed discussions and conducting independent experiments. All of the tasks in the module required us to think independently and critically, evaluating all possible actions and outcomes in an impartial manner and choosing the best path based on the available constraints. The module was designed in such a way that it allowed even newcomers to the field to understand how complex implementing and maintaining AI systems is, both from technical and business perspectives.<br><br> 
+            
+            Additionally, the legal, ethical and professional principles behind AI are vast and were carefully addressed in the module, allowing students to grasp just how large of an impact this technology is making in modern society. This field is evolving in such a rapid pace that indiscriminate usage, both by individuals and companies alike, will result in substantial damage should it not be monitored and regulated effectively. Balancing this regulatory process will be important in allowing innovative creations to help shape the future of AI while blocking nefarious practices that may arise out of it.</p>
     </div>
   </div>
 </div>

@@ -10,6 +10,10 @@
         </li>
         <li><a href="#data-activity4">Data Activity 4</a>
         </li>
+        <li><a href="#data-activity5">Data Activity 5</a>
+        </li>
+        <li><a href="#data-activity6">Data Activity 6</a>
+        </li>
         <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
             <ul class="sect">
                 <li><a href="#assess1-feedback">Tutor feedback</a></li>
@@ -77,7 +81,7 @@
             
             <center><img src="img/numerical_analysis/antisocx_boxplot.png" height="750" width="700"><br>
             
-            <font size="2">Figure 4: The resulting boxplot, using the <i>ggplot2</i> package</font></center><br><br>
+            <font size="2">Figure 4: The resulting box plot, using the <i>ggplot2</i> package</font></center><br><br>
             
             It can be seen that most anti-social behaviour levels are concentrated in the plot's lower ranges, with some outliers belonging to higher levels. This shows that most individuals in the survey are, at the very least, relatively social UK citizens.<br><br>
 
@@ -85,11 +89,63 @@
 
             <center><img src="img/numerical_analysis/bcsvictim_barplot.png" height="750" width="700"><br>
             
-            <font size="2">Figure 5: The resulting barplot, using the <i>ggplot2</i> package</font></center><br><br>
+            <font size="2">Figure 5: The resulting bar plot, using the <i>ggplot2</i> package</font></center><br><br>
 
             The bar plot shows, as seen previously, that most people in the survey were not victims of crime in the past 12 months. Yet, despite the large difference, it also highlights how almost two thousand people did become victims of crime. 
             
             </p><br><br>
+
+
+        <h2 id="data-activity5">Data Activity 5</h2>
+            <p>The fifth data activity was focused on obtaining the five-figure summary for several variables, plotting the results and running a suitable hypothesis test in the <a href="https://www.my-course.co.uk/pluginfile.php/1201624/mod_page/content/5/Health%20Data.sav">Health_Data</a> dataset. The first subsection had, as its goal, the calculation of the mean, median and mode of the <b>sbp</b>, <b>dbp</b> and <b>income</b> variables. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+            
+            <center><img src="img/numerical_analysis/mean_median_mode.png" height="250" width="700"><br>
+            
+            <font size="2">Figure 6: The mean, median and mode of the <b>sbp</b>, <b>dbp</b> and <b>income</b> variables</font></center><br><br>
+            
+            The second subsection, on the other hand, had as its goal the creation of a box plot for the summary of the <b>income</b> variable. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+
+            <center><img src="img/numerical_analysis/income_boxplot.png" height="600" width="700"><br>
+            
+            <font size="2">Figure 7: The resulting box plot, using the <i>dplyr</i> package</font></center><br><br>
+
+            It can be seen that most income levels are concentrated in the plot's mid range. This shows that the income is relatively balanced amongst the individuals whose data were used in the dataset.<br><br>
+
+            For the third subsection, a t-test was used to verify if there is any association between systolic blood pressure and presence and absence of peptic ulcer. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+
+            <center><img src="img/numerical_analysis/t_test_peptic_ulcer.png" height="300" width="750"><br>
+            
+            <font size="2">Figure 7: The t-test result, produced with the <i>dplyr</i> package</font></center><br><br>
+
+            The t-test, with a p value of 0.2296 (which is less than 0.05, thus making us reject the null hypothesis), implies that there is an significant difference in systolic blood pressure between individuals with and without a peptic ulcer. 
+            
+            </p><br><br>
+
+
+        <h2 id="data-activity6">Data Activity 6</h2>
+            <p>The fifth data activity was focused on obtaining the five-figure summary for several variables, plotting the results and running a suitable hypothesis test in the <a href="https://www.my-course.co.uk/pluginfile.php/1201624/mod_page/content/5/Health%20Data.sav">Health_Data</a> dataset. The first subsection had, as its goal, the calculation of the mean, median and mode of the <b>sbp</b>, <b>dbp</b> and <b>income</b> variables. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+            
+            <center><img src="img/numerical_analysis/mean_median_mode.png" height="250" width="700"><br>
+            
+            <font size="2">Figure 6: The mean, median and mode of the <b>sbp</b>, <b>dbp</b> and <b>income</b> variables</font></center><br><br>
+            
+            The second subsection, on the other hand, had as its goal the creation of a box plot for the summary of the <b>income</b> variable. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+
+            <center><img src="img/numerical_analysis/income_boxplot.png" height="600" width="700"><br>
+            
+            <font size="2">Figure 7: The resulting box plot, using the <i>dplyr</i> package</font></center><br><br>
+
+            It can be seen that most income levels are concentrated in the plot's mid range. This shows that the income is relatively balanced amongst the individuals whose data were used in the dataset.<br><br>
+
+            For the third subsection, a t-test was used to verify if there is any association between systolic blood pressure and presence and absence of peptic ulcer. Loading the same dataset as before and using the right R commands resulted in the following:<br><br>
+
+            <center><img src="img/numerical_analysis/t_test_peptic_ulcer.png" height="300" width="750"><br>
+            
+            <font size="2">Figure 7: The t-test result, produced with the <i>dplyr</i> package</font></center><br><br>
+
+            The t-test, with a p value of 0.2296 (which is less than 0.05, thus making us reject the null hypothesis), implies that there is an significant difference in systolic blood pressure between individuals with and without a peptic ulcer. 
+            
+            </p><br><br>>
 
 
         <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>

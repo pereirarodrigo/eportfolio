@@ -9,6 +9,8 @@
                 <li><a href="#colab-13">Tutor feedback</a></li>
             </ul>
         </li>
+        <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
+        </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
@@ -94,6 +96,56 @@
                 
                 </p><br><br>
 
+
+        <h2 id="unit2-seminar-prep"><br>Unit 2 Seminar Preparation</h2>
+            <p>The second seminar consisted of an introduction to exploratory data analysis (EDA). To prepare us for it, the preparatory task consisted of exploring the <a href="https://www.kaggle.com/datasets/uciml/autompg-dataset/data">auto-mpg</a> dataset and using the following topics as a guide:<br><br>
+
+            <i>
+            a) Identify missing values;<br>
+            b) Estimate skewness and kurtosis;<br>
+            c) Correlation heat map;<br>
+            d) Scatter plot for different parameters;<br>
+            e) Replace categorical values with numerical ones (i.e., America 1, Europe 2 etc.).</i><br><br>
+            
+            Taking an initial look at the dataset revealed that one of the columns, <i>horsepower</i>, had question marks scattered throughout it, essentially counting as missing values. I proceeded to identify and correct this in the following manner:<br><br>
+            
+            <center><img src="img/machine_learning/auto_mpg_missing_values.png" height="600" width="700"><br>
+
+            <font size="2">Figure 2: Treating the missing values in the <i>horsepower</i> column</font></center><br><br>
+
+            Afterwards, I proceeded to estimate the skewness and kurtosis of the dataset's numerical columns through an unbiased estimator for both, which I did in the following manner:<br><br>
+            
+            <center><img src="img/machine_learning/skewness_and_kurtosis.png" height="600" width="600"><br>
+
+            <font size="2">Figure 3: Calculating skewness and kurtosis for the dataset's numerical columns</font></center><br><br>
+
+            Moving on to the third topic, I verified, in a visual manner, if the data followed a normal distribution before computing the correlation, with the results being as follows:<br><br>
+            
+            <center><img src="img/machine_learning/data_distribution.png" height="500" width="700"><br>
+
+            <font size="2">Figure 4: The overall distribution of the dataset, produced with <i>Seaborn</i></font></center><br><br>
+            
+            As the results implied that the data was right-skewed, Pearson's correlation coefficient would not be suitable here. As such, I proceeded to use Spearman's rank correlation, with the results being as follows:<br><br>
+
+            <center><img src="img/machine_learning/correlation_plot.png" height="600" width="700"><br>
+
+            <font size="2">Figure 5: A correlation plot of the dataset's variables (columns), produced with <i>Seaborn</i></font></center><br><br> 
+            
+            This correlation plot shows some interesting relationships, such as the strong positive correlation between horsepower and displacement, displacement and weight and weight and cylinders. It also shows that the correlation for weight and MPG, for instance, is strongly negative.<br><br>
+
+            Subsequently, I tackled the fourth topic by producing a pairplot for all columns in the dataset. The results were as follows:<br><br>
+
+            <center><img src="img/machine_learning/pairwise_plot.png" height="700" width="1000"><br>
+
+            <font size="2">Figure 6: The pairwise plot of all variables, produced with <i>Seaborn</i></font></center><br><br> 
+
+            For the fifth and last topic, I noticed that the only column that did not use numerical values was <i>car name</i>. As such, I proceeded to convert it to the proper format, which produced the following results:<br><br>
+
+            <center><img src="img/machine_learning/categorical_to_numerical.png" height="300" width="700"><br>
+
+            <font size="2">Figure 7: The categorical to numerical conversion in the <i>car name</i> column</font></center><br><br>
+
+            </p>  
 
         <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>

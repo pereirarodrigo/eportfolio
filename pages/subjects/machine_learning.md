@@ -10,6 +10,10 @@
         </li>
         <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
         </li>
+        <li><a href="#unit3-activity">Unit 3 Activity</a>
+        </li>
+        <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
+        </li>
 </div>
 
 <main class="summaryContent">
@@ -118,6 +122,21 @@
             <font size="2">Figure 11: The categorical to numerical conversion in the <i>car name</i> column</font></center><br><br>
 
             </p>
+
+        <h2 id="#unit3-activity"><br>Unit 3 Activity</h2>
+            <p>The unit 3 activity consisted of running three separate Jupyter notebooks and changing their numerical values to ascertain the impact that such actions have on correlation and regression.<br><br>
+            
+            In the first notebook, which included covariance and Pearson's correlation coefficient, I decided to focus on the first constant value in the <i>data1</i> equation (20). Changing it to 40 results in both the covariance and correlation increasing from 389.755 and 0.888 to 873.632 and 0.945, respectively, as shown in the example below:<br><br>
+            
+            <center><img src="img/machine_learning/unit_3_cov_cor_increase.png" height="550" width="600"><br>
+
+            <font size="2">Figure 12: The resulting covariance and correlation after increasing a constant value from 20 to 40</font></center><br><br>  
+
+            Conversely, decreasing the value resulted in smaller covariance and correlation values.<br><br>
+
+            For the second notebook, which included Pearson's correlation coefficient and a linear regression, decreasing the x values results in the correlation value increasing, while doing the opposite decreases it. Conversely, decreasing or increasing the y values results in the correlation value increasing. Meanwhile, for the linear regression section, increasing the x values increases the predicted value, while doing the opposite decreases it. The same relationship can be observed in the y values.<br><br>
+
+            For the third and final notebook, changing the x and y values in a dramatic manner (such as increasing a y value from 55 to 110) will result in the line changing its overall shape, making the changed value become an outlier and completely removing it from the fitted line's general direction. Additionally, the R² score will also decrease, thus meaning that dramatically increasing or decreasing x and y values weakens their relationship.
     </div>
   </div>
 </div>

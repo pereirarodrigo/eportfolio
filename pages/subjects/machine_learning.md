@@ -142,6 +142,29 @@
 
         <h2 id="#unit4-seminar-prep"><br>Unit 4 Seminar Preparation</h2>
             <p>The unit 4 seminar preparation consisted of analysing two datasets containing global GDP and population data, respectively, and verifying how feasible it would be to predict the mean per capita GDP by using the mean population as the sole feature.<br><br>
+
+            After pre-processing the data to a proper format, and starting with correlation analysis, it becomes fairly evident that the mean population and mean per capita GDP have a very weak negative correlation of almost 0, as shown in the image below:<br><br> 
+            
+            <center><img src="img/machine_learning/unit_4_negative_corr.png" height="120" width="700"><br>
+
+            <font size="2">Figure 13: The resulting correlation between mean population and mean per capita GDP</font></center><br><br>
+            
+            This already shows that fitting a linear model with mean population as a feature would not be ideal, as there is no meaningful relationship between it and mean per capita GDP. This is made evident upon fitting a linear regression model and evaluating it, which produces the following results:<br><br> 
+
+            <center><img src="img/machine_learning/unit_4_linear_reg.png" height="550" width="700"><br>
+
+            <font size="2">Figure 14: The resulting correlation between mean population and mean per capita GDP</font></center><br><br>
+            
+            Using a polynomial linear regression model produces only marginal improvements, and the fitted model is still very poor. Out of curiosity, using a more complex model, like a random forest regressor, produces a model that is reasonably better than anything so far but which is still mediocre, as shown below:<br><br> 
+
+            <center><img src="img/machine_learning/unit_4_rf_reg.png" height="550" width="700"><br>
+
+            <font size="2">Figure 15: The resulting correlation between mean population and mean per capita GDP</font></center><br><br>
+
+            As such, we can conclude that, even with a robust model that is competent at data understanding, poor feature selection can significantly hamper its efficiency.     
+
+            </p>      
+
     </div>
   </div>
 </div>

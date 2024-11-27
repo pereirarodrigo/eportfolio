@@ -211,7 +211,7 @@
 
             <font size="2">Figure 20: Clustering results for the AUS weather dataset</font></center><br><br>
 
-            The results of these clustering experiments show that, generally, the best results are obtained when the number of clusters corresponds to the number of distinct classes or their combinations (as observed in the AUS weather dataset).
+            The results of these k-means clustering experiments reveal that, generally, the best results for these specific datasets is obtained when the number of clusters corresponds to the number of distinct classes or their combinations (as observed in the AUS weather dataset). For other datasets, this alignment may depend on other factors, such as the clustering algorithm used and data separability, 
     </div>
   </div>
 </div>

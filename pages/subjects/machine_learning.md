@@ -18,6 +18,8 @@
         </li>
         <li><a href="#unit6-seminar-prep">Unit 6 Seminar Preparation</a>
         </li>
+        <li><a href="#development-team-project">Development Team Project: Project Report</a>
+        </li>
 </div>
 
 <main class="summaryContent">
@@ -211,7 +213,19 @@
 
             <font size="2">Figure 20: Clustering results for the AUS weather dataset</font></center><br><br>
 
-            The results of these k-means clustering experiments reveal that, generally, the best results for these specific datasets is obtained when the number of clusters corresponds to the number of distinct classes or their combinations (as observed in the AUS weather dataset). For other datasets, this alignment may depend on other factors, such as the clustering algorithm used and data separability, 
+            The results of these k-means clustering experiments reveal that, generally, the best results for these specific datasets is obtained when the number of clusters corresponds to the number of distinct classes or their combinations (as observed in the AUS weather dataset). For other datasets, this alignment may depend on other factors, such as the clustering algorithm used and data separability.</p><br><br>
+
+
+        <h2 id="development-team-project"><br>Development Team Project: Project Report</h2>
+            <p>The goal behind this team project was to develop a data science-backed approach to conduct business analysis on the 2019 New York City rentals dataset from AirBnb. This project had to consist of a answering a question that would be relevant to the company through data analysis, and which would culminate in the creation of an analytical report.<br><br>
+
+            The group I was a part of, named "Global Insights", introduced not one but three business questions that would be of interest to AirBnb. These were:<br><br>
+            
+            <i>
+            1. How does location and room type affect the cost of the room?;<br>
+            2. How does availability over the next year correlate to room type and location?;<br>
+            3. What is the distribution of listings between hosts and property types?</i><br><br>
+
     </div>
   </div>
 </div>

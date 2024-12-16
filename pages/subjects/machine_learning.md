@@ -1,25 +1,37 @@
 <div class="divSummary">
 <h2 class="verticalText">Summary</h2>
 <ul class="summary">
-    <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
-            <ul class="sect">
-                <li><a href="#colab-11">Peer feedback</a></li>
-                <li><a href="#colab-12">Summary post</a></li>
-            </ul>
-        </li>
-        <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
-        </li>
-        <li><a href="#unit3-activity">Unit 3 Activity</a>
-        </li>
-        <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
-        </li>
-        <li><a href="#unit5-jaccard-coef">Jaccard Coefficient Calculations</a>
-        </li>
-        <li><a href="#unit6-seminar-prep">Unit 6 Seminar Preparation</a>
-        </li>
-        <li><a href="#development-team-project">Development Team Project: Project Report</a>
-        </li>
+    <li><a href="#introduction">Introduction</a>
+    </li>
+    <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
+        <ul class="sect">
+            <li><a href="#colab-11">Peer feedback</a></li>
+            <li><a href="#colab-12">Summary post</a></li>
+        </ul>
+    </li>
+    <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
+    </li>
+    <li><a href="#unit3-activity">Unit 3 Activity</a>
+    </li>
+    <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
+    </li>
+    <li><a href="#unit5-jaccard-coef">Jaccard Coefficient Calculations</a>
+    </li>
+    <li><a href="#unit6-seminar-prep">Unit 6 Seminar Preparation</a>
+    </li>
+    <li><a href="#development-team-project">Development Team Project: Project Report</a>
+    </li>
+    <li><a href="#unit7-perceptron">Perceptron Activities<a>
+    <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
+        <ul class="sect">
+            <li><a href="#colab-21">Peer feedback</a></li>
+            <li><a href="#colab-22">Summary post</a></li>
+        </ul>
+    </li>
+    </li>
+    <li><a href="#unit8-gradient-descent">Gradient Cost Function<a>
+    </li>
+    <li><a href="#unit9-cnn">CNN Model Activity<a>
 </div>
 
 <main class="summaryContent">
@@ -54,7 +66,7 @@
             <h3 id="colab-11"><br>Peer feedback</h3>
                 <p>The peer responses from Natali Nikolic, Yuji Watanabe and Stuart Gibb, three of my peers, were instrumental in building upon my initial post. For Natali, her response was as follows.<br><br>
                 
-                <center><img src="img/machine_learning/natali_disc1.png" height="600" width="1100"><br>
+                <center><img src="img/machine_learning/natali_disc1.png" height="550" width="1100"><br>
 
                 <font size="2">Figure 2: Natali's peer response to my initial post</font></center><br><br>
 
@@ -219,13 +231,124 @@
         <h2 id="development-team-project"><br>Development Team Project: Project Report</h2>
             <p>The goal behind this team project was to develop a data science-backed approach to conduct business analysis on the 2019 New York City rentals dataset from AirBnb. This project had to consist of a answering a question that would be relevant to the company through data analysis, and which would culminate in the creation of an analytical report.<br><br>
 
-            The group I was a part of, named "Global Insights", introduced not one but three business questions that would be of interest to AirBnb. These were:<br><br>
+            The group I was a part of, named "Global Insights", was comprised of Munro Ross, myself, Yuji Watanabe and Zhu Zhang, all of whom reside in different corners of the world.
+            
+            <center><img src="img/machine_learning/team_contract_snippet.png" height="600" width="600"><br>
+
+            <font size="2">Figure 21: A snippet of the team contract</font></center><br><br>
+
+            Group discussions and alignments led the group to introduce not one but three business questions that would be of interest to AirBnb. These were:<br><br>
             
             <i>
-            1. How does location and room type affect the cost of the room?;<br>
-            2. How does availability over the next year correlate to room type and location?;<br>
+            1. How does location and room type affect the cost of the room?<br>
+            2. How does availability over the next year correlate to room type and location?<br>
             3. What is the distribution of listings between hosts and property types?</i><br><br>
 
+            <center><img src="img/machine_learning/airbnb_analysis_snippet.png" height="500" width="600"><br>
+
+            <font size="2">Figure 22: A snippet of the Jupyter notebook used for the data analysis step</font></center><br><br>
+
+            The team developed a Jupyter notebook to conduct data analysis on the AirBnb dataset. In it, we conducted data cleaning to address null rows, performed categorical to numerical conversions on some columns and also mapped these to numbers, thus allowing for correlation to be calculated and clustering to be performed.<br><br>
+
+            <center><img src="img/machine_learning/report_snippet.png" height="600" width="600"><br>
+
+            <font size="2">Figure 23: A snippet of the analytical report, with a bar plot taken from the data analysis Jupyter notebook</font></center><br><br>
+
+            The report incorporated the insights gained during the data analysis step, providing definitive answers to the questions that were posed by the group. There was also an emphasis on making the content in the report easy to understand and direct, as the idea of it was to make it resemble an actual report that company executives were expected to go through. As such, we had to prioritise providing concise and clear information.<br><br>
+
+
+        <h2 id="unit7-perceptron"><br>Perceptron Activities</h2>
+            <p>The unit 7 e-portfolio activity consisted of analysing the output of three perceptron-focused Jupyter notebooks once their initial values had been changed.<br><br>
+
+            The first notebook consisted of a simple perceptron with inputs and weights, as well as the dot product that's characteristic of perceptron output layers. Changing the weight values produces the most impact in the dot product calculation, as is expected, and can be observed below:<br><br>
+            
+            <center><img src="img/machine_learning/unit_7_first_perceptron.png" height="400" width="700"><br>
+
+            <font size="2">Figure 24: The first notebook's perceptron results, which was originally 34, after the weights were changed from [0.7, 0.1] to [1.2, 0.7]. The original input values of [45, 25] were not modified</font></center><br><br>
+
+            The second notebook, on the other hand, consisted of a more elaborate perceptron implementation with a training function and classification section. Focusing on the training function, and given the data being used in this particular notebook, it is possible to obtain zero error, something that is virtually unheard of in real-world applications. This function can be changed to run for a number of epochs instead, thus meaning that the function will run for a determinate amount of steps instead of until the error is zero, which is more realistic. Additionally, by making the weights random with values between a certain range, and changing the learning rate to 0.001, the outcome now closely resembles real-world training procedures for artificial neural networks, which can be seen as follows:<br><br>
+
+            <center><img src="img/machine_learning/unit_7_second_perceptron.png" height="850" width="600"><br>
+
+            <font size="2">Figure 25: The second notebook's training function, where it now runs for fifty epochs instead of aiming for an error rate of zero</font></center><br><br>
+
+            The third notebook encapsulates everything seen so far, as it culminates in the creation of a complete multi-layer perceptron with a training function and classification section. This notebook shows how the perceptron is able to handle the complexity of XOR operations after being trained for four hundred thousand epochs. Indeed, if we increase the number of epochs even further to two million, the error rate decreases even further, as shown below:<br><br>
+
+            <center><img src="img/machine_learning/unit_7_third_perceptron.png" height="850" width="600"><br>
+
+            <font size="2">Figure 26: The third notebook's training function, where it now runs for two million epochs, showing how the error keeps decreasing but at a slower pace now. At some point, and regardless of how many epochs, the error rate will not decrease any further</font></center><br><br>
+    
+    
+        <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
+            <p>The second collaborative learning discussion served as a way for students to deepen their understanding of AI by discussing about LLMs, one of the most prevalent AI systems today. For it, we had the following topic to elaborate on:<br><br>
+            
+            "<i>Read/listen to the article by Hutson (2021) in Nature on Robo-writers. This week, post your thoughts on the risks and benefits of the use AI writers at different levels, from administrative work to creative writing.<br><br>
+
+            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.)"</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 2 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Human-like or Stochastic Parrots?", was as follows.<br><br>
+            
+            <center><img src="img/machine_learning/initial_post_2.png" height="600" width="1200"><br>
+
+            <font size="2">Figure 27: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
+
+            
+            <h3 id="colab-21"><br>Peer feedback</h3>
+                <p>The peer responses from Natali Nikolic, Yuji Watanabe and Stuart Gibb, three of my peers, were instrumental in building upon my initial post. For Natali, her response was as follows.<br><br>
+                
+                <center><img src="img/machine_learning/natali_disc1.png" height="600" width="1000"><br>
+
+                <font size="2">Figure 28: Natali's peer response to my initial post</font></center><br><br>
+
+                As for Yuji, his response was the following:<br><br><br>
+
+                <center><img src="img/machine_learning/yuji_disc1.png" height="500" width="1100"><br>
+                
+                <font size="2">Figure 29: Yuji's peer response to my initial post</font></center><br><br>
+                
+                Finally, for Stuart, his response was the following:<br><br><br>
+
+                <center><img src="img/machine_learning/stuart_disc1.png" height="600" width="1100"><br>
+                
+                <font size="2">Figure 30: Stuart's peer response to my initial post</font></center></p><br><br>
+
+
+            <h3 id="colab-22"><br>Summary post</h3>
+                <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+
+                <center><img src="img/machine_learning/summary_post_disc1.png" height="600" width="1100"><br>
+                
+                <font size="2">Figure 31: My summary post in the first discussion forum</font></center></p><br><br>
+
+
+        <h2 id="unit8-gradient-descent"><br>Gradient Cost Function</h2>
+            <p>The unit 8 e-portfolio activity consisted of evaluating the output of a gradient descent function when using different values for the learning rate and number of epochs. The goal was to understand the impact of these two parameters in an optimisation function that is very often used by artificial neural networks for learning.<br><br>
+
+            When modifying the gradient descent's learning rate and number of epochs, a relationship between them becomes evident. The learning rate must be chosen carefully depending on how many epochs the algorithm will run for. Should the learning rate be too high, an unstable optimisation procedure will result in the cost, or error, decreasing erratically before suddenly increasing as the learning rate will be large enough for the gradient steps to overshoot the minima. This can be seen in the image below:<br><br>
+            
+            <center><img src="img/machine_learning/unit_8_lr_too_high.png" height="850" width="600"><br>
+
+            <font size="2">Figure 32: The results of the gradient descent function when the learning rate is too high</font></center><br><br>
+            
+            Conversely, should the learning rate be too low, the function will be extremely slow as the cost will decrease slowly before possibly stalling at a sub-optimal point without much improvement. This can be seen in the image below:<br><br>
+
+            <center><img src="img/machine_learning/unit_8_lr_too_low.png" height="850" width="600"><br>
+
+            <font size="2">Figure 33: The results of the gradient descent function when the learning rate is too low</font></center><br><br>
+
+
+        <h2 id="unit9-cnn"><br>CNN Model Activity</h2>
+            <p>The unit 9 e-portfolio activity consisted of reading the Wall (2019) article, recording my thoughts on the ethical and social implications of convolutional neural networks (CNNs) and running a CNN model to evaluate its output based on which image is being provided to it.
+
+            Matthew Wall's article explores how facial recognition technology presents innumerous concerns, most notably amongst them being privacy and the incorporation of biases present in the training data. Dr. Timnit Gebru's statement of how about a hundred and thirty million US adults are already in face recognition databases, with most of such records belonging to white and male individuals, already showcases a bias towards people of color and makes them more liable to be identified as someone they're not. As facial recognition systems become more widespread, stricter regulations and considerations need to be put in place so that, if such systems truly need to be adopted, classification failures don't end up ruining an innocent's life.<br><br>
+
+            Regarding the CNN section, the default image (or object) being predicted is a dog. Changing the image provided to the model (to a ship or truck, for instance) for inference resulted in the CNN correctly identifying the object in question.<br><br>
+
+            <center><img src="img/machine_learning/unit_9_cnn_inference.png" height="650" width="600"><br>
+
+            <font size="2">Figure 34: The CNN correctly identifying the object in the image as a truck</font></center><br><br>
+            
+            The CNN is able to correctly identify all of the object classes due to the dataset that was used to train it, CIFAR-10, which contains the same amount of samples (six thousand) for each object. Should there have been an imbalance in the dataset, as is the case with most real-world data, it's possible that model predictions wouldn't have been as flawless as they were in this example.<br><br>
     </div>
   </div>
 </div>

@@ -28,10 +28,12 @@
             <li><a href="#colab-22">Summary post</a></li>
         </ul>
     </li>
-    </li>
     <li><a href="#unit8-gradient-descent">Gradient Cost Function<a>
     </li>
     <li><a href="#unit9-cnn">CNN Model Activity<a>
+    </li>
+    <li><a href="#unit11-performance">Model Performance Measurement<a>
+    </li>
 </div>
 
 <main class="summaryContent">
@@ -349,6 +351,23 @@
             <font size="2">Figure 34: The CNN correctly identifying the object in the image as a truck</font></center><br><br>
             
             The CNN is able to correctly identify all of the object classes due to the dataset that was used to train it, CIFAR-10, which contains the same amount of samples (six thousand) for each object. Should there have been an imbalance in the dataset, as is the case with most real-world data, it's possible that model predictions wouldn't have been as flawless as they were in this example.<br><br>
+
+
+        <h2 id="unit11-performance"><br>Model Performance Measurement</h2>
+            <p>The unit 11 e-portfolio activity consisted of running a model performance measurement Jupyter notebook, changing different parameters and observing their impact on area under the curve (AUC) and the R-squared (R²) error.
+
+            Starting with AUC and focusing on the one-vs-all classifier, its original value is 0.79, which indicates that the model is reasonably good at discriminating between positive and negative cases. Changing the kernel method of the support vector classification (SVC) model being used from "linear" to "poly" (polynomial), for instance, results in a better ROC AUC value of 0.85, as shown below:
+
+            <center><img src="img/machine_learning/unit_11_auc.png" height="500" width="600"><br>
+
+            <font size="2">Figure 35: The ROC AUC produced after changing the SVC's kernel method</font></center><br><br>
+
+            As for the R² score, a set of true values, (3, -0.5, 2, 7) is matched up against the predicted set of values, (2.5, 0.0, 2, 8). The original value was of ~0.9486, which indicates that this fake model was able to explain roughly 95% of the variance in the data. Changing predicted set of values to be closer to the true values in the real set results in a better R² value, as shown below:<br><br>    
+
+            <center><img src="img/machine_learning/unit_11_r2.png" height="500" width="500"><br>
+
+            <font size="2">Figure 36: The new R² score after making the predicted set of values closer to the real one</font></center><br><br>
+         
     </div>
   </div>
 </div>

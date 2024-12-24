@@ -350,7 +350,7 @@
 
             <font size="2">Figure 34: The CNN correctly identifying the object in the image as a truck</font></center><br><br>
             
-            The CNN is able to correctly identify all of the object classes due to the dataset that was used to train it, CIFAR-10, which contains the same amount of samples (six thousand) for each object. Should there have been an imbalance in the dataset, as is the case with most real-world data, it's possible that model predictions wouldn't have been as flawless as they were in this example.<br><br>
+            The CNN is able to correctly identify a majority of the object classes due to its high accuracy. Despite CIFAR-10 being a fairly complex dataset, the convolutional layers in the CNN manage to essentially "dissect" the images into distinct features that contribute to correct identification.<br><br>
 
 
         <h2 id="unit11-performance"><br>Model Performance Measurement</h2>

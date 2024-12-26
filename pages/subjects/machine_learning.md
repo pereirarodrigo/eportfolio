@@ -296,31 +296,19 @@
 
             
             <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>The peer responses from Natali Nikolic, Yuji Watanabe and Stuart Gibb, three of my peers, were instrumental in building upon my initial post. For Natali, her response was as follows.<br><br>
+                <p>The peer responses from Natali Nikolic were instrumental in building upon my initial post. Her response was as follows.<br><br>
                 
-                <center><img src="img/machine_learning/natali_disc1.png" height="600" width="1000"><br>
+                <center><img src="img/machine_learning/natali_disc2.png" height="550" width="1000"><br>
 
                 <font size="2">Figure 28: Natali's peer response to my initial post</font></center><br><br>
 
-                As for Yuji, his response was the following:<br><br><br>
-
-                <center><img src="img/machine_learning/yuji_disc1.png" height="500" width="1100"><br>
-                
-                <font size="2">Figure 29: Yuji's peer response to my initial post</font></center><br><br>
-                
-                Finally, for Stuart, his response was the following:<br><br><br>
-
-                <center><img src="img/machine_learning/stuart_disc1.png" height="600" width="1100"><br>
-                
-                <font size="2">Figure 30: Stuart's peer response to my initial post</font></center></p><br><br>
-
 
             <h3 id="colab-22"><br>Summary post</h3>
-                <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+                <p>My initial entry was significantly enhanced by Natali's feedback. Her comments were addressed by my summary post, which was as follows:<br><br>
 
-                <center><img src="img/machine_learning/summary_post_disc1.png" height="600" width="1100"><br>
+                <center><img src="img/machine_learning/summary_post_disc2.png" height="600" width="1100"><br>
                 
-                <font size="2">Figure 31: My summary post in the first discussion forum</font></center></p><br><br>
+                <font size="2">Figure 31: My summary post in the second discussion forum</font></center></p><br><br>
 
 
         <h2 id="unit8-gradient-descent"><br>Gradient Cost Function</h2>

@@ -21,6 +21,8 @@
     </li>
     <li><a href="#development-team-project">Development Team Project: Project Report</a>
     </li>
+    <li><a href="#reflective-piece1">Mid-Module Reflective Piece</a>
+    </li>
     <li><a href="#unit7-perceptron">Perceptron Activities<a>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
@@ -33,6 +35,10 @@
     <li><a href="#unit9-cnn">CNN Model Activity<a>
     </li>
     <li><a href="#unit11-performance">Model Performance Measurement<a>
+    </li>
+    <li><a href="#final-project">Individual Presentation<a>
+    </li>
+    <li><a href="#reflective-piece2">Final Reflective Piece<a>
     </li>
 </div>
 
@@ -259,6 +265,12 @@
             The report incorporated the insights gained during the data analysis step, providing definitive answers to the questions that were posed by the group. There was also an emphasis on making the content in the report easy to understand and direct, as the idea of it was to make it resemble an actual report that company executives were expected to go through. As such, we had to prioritise providing concise and clear information.<br><br>
 
 
+        <h2 id="reflective-piece1"><br>Mid-Module Reflective Piece</h2>
+            <p>The module starts off by slowly introducing students to the world of deep learning, before progressively allowing us to have free reign in investigating and exploring various algorithms. As someone familiar with many concepts in both machine learning and deep learning, such as gradient descent, activation functions and neural network architectures, the various activities served as a refresher. Additionally, the focus on EDA served as a complement to my own professional activities, given I'm expected to be able to provide visuals that will be used to offer a more intuitive way to understand what I may be working on.<br><br>
+
+            In the module's subsequent units, working as a team started to become a theme and culminated in unit 6's group project. As I'm accostumed to working with individuals in other time zones, adapting to group members' availability was a quick process, yet the extreme time zone difference with some members was still complex to maneuvre. Regardless, I was the one who brought the team members together and organised a chat for us to interact with each other, crafted the initial version of the team contract and set up the main notebook for us to work on. Overall, the project was very interesting, despite its challenges, as it allowed me to work with talented individuals and implement several interesting ideas that would've proven too time-consuming if done alone. 
+
+
         <h2 id="unit7-perceptron"><br>Perceptron Activities</h2>
             <p>The unit 7 e-portfolio activity consisted of analysing the output of three perceptron-focused Jupyter notebooks once their initial values had been changed.<br><br>
 
@@ -324,7 +336,7 @@
 
             <center><img src="img/machine_learning/unit_8_lr_too_low.png" height="850" width="600"><br>
 
-            <font size="2">Figure 33: The results of the gradient descent function when the learning rate is too low</font></center><br><br>
+            <font size="2">Figure 33: The results of the gradient descent function when the learning rate is too low</font></center></p><br><br>
 
 
         <h2 id="unit9-cnn"><br>CNN Model Activity</h2>
@@ -338,7 +350,7 @@
 
             <font size="2">Figure 34: The CNN correctly identifying the object in the image as a truck</font></center><br><br>
             
-            The CNN is able to correctly identify a majority of the object classes due to its high accuracy. Despite CIFAR-10 being a fairly complex dataset, the convolutional layers in the CNN manage to essentially "dissect" the images into distinct features that contribute to correct identification.<br><br>
+            The CNN is able to correctly identify a majority of the object classes due to its high accuracy. Despite CIFAR-10 being a fairly complex dataset, the convolutional layers in the CNN manage to essentially "dissect" the images into distinct features that contribute to correct identification.</p><br><br>
 
 
         <h2 id="unit11-performance"><br>Model Performance Measurement</h2>
@@ -354,8 +366,18 @@
 
             <center><img src="img/machine_learning/unit_11_r2.png" height="500" width="500"><br>
 
-            <font size="2">Figure 36: The new R² score after making the predicted set of values closer to the real one</font></center><br><br>
-         
+            <font size="2">Figure 36: The new R² score after making the predicted set of values closer to the real one</font></center></p><br><br>
+
+
+        <h2 id="final-project"><br>Individual Presentation</h2>
+            <p>The final assignment in the module consisted of developing an artificial neural network using the CIFAR-10 dataset for image recognition and then recording a 20-minute presentation to explain the solution. </p>
+
+
+            
+        
+        <h2 id="reflective-piece2"><br>Final Reflective Piece</h2>
+            <p></p>
+
     </div>
   </div>
 </div>

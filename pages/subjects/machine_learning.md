@@ -382,9 +382,9 @@
 
             Additionally, to make things more realistic, I imposed a limitation on my own solution, where I wouldn't be allowed to use a large model in order to mirror resource constraints. This forced me to optimise my solution as best as I could, while also avoiding the use of a neural network architecture that may have proven too simplistic for the CIFAR-10 dataset. Additionally, I enforced the use of a manual seed component to make the experiment reproducible.<br><br>
             
-            <center><img src="img/machine_learning/cnn_architecture.png" height="550" width="900"><br>
+            <center><img src="img/machine_learning/cnn_architecture.png" height="750" width="700"><br>
 
-            <font size="2">Figure 38: The </font></center><br><br>
+            <font size="2">Figure 38: The architecture used for the neural network. It represents a convolutional neural network (CNN), which is a type of neural network inspired by the human visual cortex</font></center><br><br>
 
             Overall, the final assignment culminates in the use of essentially everything we've learned throughout the module, providing a major application that's solely dependent on the student's ability to leverage all of the units' content. Given a presentation was also required for this task, it also enabled us to build confidence and improve our knowledge-sharing methods, which is essential not only for roles in academia but in industry as well.
 

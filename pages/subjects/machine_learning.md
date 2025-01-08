@@ -264,6 +264,8 @@
 
             The report incorporated the insights gained during the data analysis step, providing definitive answers to the questions that were posed by the group. There was also an emphasis on making the content in the report easy to understand and direct, as the idea of it was to make it resemble an actual report that company executives were expected to go through. As such, we had to prioritise providing concise and clear information.<br><br>
 
+            Overall, the project allowed us to work as a team, tackling the task in a similar manner to professional environments. Time management, orsanisational skills, collaboration and dedication were key, allowing us to not only deliver a functioning solution but a well-documented one as well. For instance, we used the limitations imposed on us in the analytical report section to build a concise document that would be of significant value to AirBnb executives, highlighting data insights that could only be obtained through in-depth data analysis and modelling.</p><br><br>
+
 
         <h2 id="reflective-piece1"><br>Mid-Module Reflective Piece</h2>
             <p>The module starts off by slowly introducing students to the world of deep learning, before progressively allowing us to have free reign in investigating and exploring various algorithms. As someone familiar with many concepts in both machine learning and deep learning, such as gradient descent, activation functions and neural network architectures, the various activities served as a refresher. Additionally, the focus on EDA served as a complement to my own professional activities, given I'm expected to be able to provide visuals that will be used to offer a more intuitive way to understand what I may be working on.<br><br>
@@ -370,10 +372,22 @@
 
 
         <h2 id="final-project"><br>Individual Presentation</h2>
-            <p>The final assignment in the module consisted of developing an artificial neural network using the CIFAR-10 dataset for image recognition and then recording a 20-minute presentation to explain the solution. </p>
+            <p>The final assignment in the module consisted of developing an artificial neural network using the CIFAR-10 dataset for image recognition and then recording a twenty-minute presentation to explain the solution.<br><br>
 
-
+            Interestingly, this assignment was similar to the one from unit 6, as there'd once more be the need for both the coding and documentation aspects that real-world projects require. However, given students would be working alone in this task, it essentially served as a way for us to leverage what we learned from prior units, and from working together in the prior assignment, to structure how we'd tackle this challenge. I decided to go into detail regarding the dataset's structure, its partitioning into subsets, data transformations, the neural network architecture and more, with the goal of offering a comprehensive overview of not only the experiment itself but also of how deep learning solutions are usually approached and developed.<br><br>
             
+            <center><img src="img/machine_learning/final_assignment_slide.png" height="550" width="900"><br>
+
+            <font size="2">Figure 37: One of the slides from the presentation, showing the training and validation losses</font></center><br><br>
+
+            Additionally, to make things more realistic, I imposed a limitation on my own solution, where I wouldn't be allowed to use a large model in order to mirror resource constraints. This forced me to optimise my solution as best as I could, while also avoiding the use of a neural network architecture that may have proven too simplistic for the CIFAR-10 dataset. Additionally, I enforced the use of a manual seed component to make the experiment reproducible.<br><br>
+            
+            <center><img src="img/machine_learning/cnn_architecture.png" height="550" width="900"><br>
+
+            <font size="2">Figure 38: The </font></center><br><br>
+
+            Overall, the final assignment culminates in the use of essentially everything we've learned throughout the module, providing a major application that's solely dependent on the student's ability to leverage all of the units' content. Given a presentation was also required for this task, it also enabled us to build confidence and improve our knowledge-sharing methods, which is essential not only for roles in academia but in industry as well.
+
         
         <h2 id="reflective-piece2"><br>Final Reflective Piece</h2>
             <p></p>

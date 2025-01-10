@@ -386,12 +386,15 @@
 
             <font size="2">Figure 38: The architecture used for the neural network. It represents a convolutional neural network (CNN), which is a type of neural network inspired by the human visual cortex</font></center><br><br>
 
-            Overall, the final assignment culminates in the use of essentially everything we've learned throughout the module, providing a major application that's solely dependent on the student's ability to leverage all of the units' content. Given a presentation was also required for this task, it also enabled us to build confidence and improve our knowledge-sharing methods, which is essential not only for roles in academia but in industry as well.
+            Overall, the final assignment culminates in the use of essentially everything we've learned throughout the module, providing a major application that's solely dependent on the student's ability to leverage all of the units' content. Given a presentation was also required for this task, it allowed me to improve my confidence and knowledge-sharing methods, which is essential not only for roles in academia but in industry as well.</p>
 
         
         <h2 id="reflective-piece2"><br>Final Reflective Piece</h2>
-            <p></p>
+            <p>The module was essential in allowing me to refine my own understanding of not only machine learning, but deep learning as well, offering several impactful and elaborate tasks and assignments. Additionally, the importance of EDA and understanding the data that's being used was emphasised, which is often not treated seriously enough in both academic and professional environments.<br><br>
 
+            Working as a team was also something that the module placed an importance on, as evidenced by the group assignment. Academic debates were also present throughout the collaborative forums, highlighting the need for critical yet respectful interactions about topics of importance in science. Furthermore, such interactions were instrumental in improving my soft skills like communication, leadership and time management skills, which I've been able to successfully integrate into my professional endeavours.<br><br>
+
+            Overall, the "Machine Learning" module was a multifaceted one where focus was placed on theoretical and practical applications, while also highlighting the need for effective and cooperative relationships with others. Not only did it allow me to practice my understanding of various topics I've already had contact with, but also enabled me to improve the way I communicate with others and even lead them, paving the way for my own continued growth in an accelerated manner.</p>
     </div>
   </div>
 </div>

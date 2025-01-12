@@ -237,7 +237,7 @@
 
 
         <h2 id="development-team-project"><br>Development Team Project: Project Report</h2>
-            <p>The goal behind this team project was to develop a data science-backed approach to conduct business analysis on the 2019 New York City rentals dataset from AirBnb. This project had to consist of a answering a question that would be relevant to the company through data analysis, and which would culminate in the creation of an analytical report.<br><br>
+            <p>The goal behind this team project was to develop a data science-backed approach to conduct business analysis on the 2019 New York City rentals dataset from Airbnb. This project had to consist of a answering a question that would be relevant to the company through data analysis, and which would culminate in the creation of an analytical report.<br><br>
 
             The group I was a part of, named "Global Insights", was comprised of Munro Ross, myself, Yuji Watanabe and Zhu Zhang, all of whom reside in different corners of the world.
             
@@ -245,7 +245,7 @@
 
             <font size="2">Figure 21: A snippet of the team contract</font></center><br><br>
 
-            Group discussions and alignments led the group to introduce not one but three business questions that would be of interest to AirBnb. These were:<br><br>
+            Group discussions and alignments led the group to introduce not one but three business questions that would be of interest to Airbnb. These were:<br><br>
             
             <i>
             1. How does location and room type affect the cost of the room?<br>
@@ -256,7 +256,7 @@
 
             <font size="2">Figure 22: A snippet of the Jupyter notebook used for the data analysis step</font></center><br><br>
 
-            The team developed a Jupyter notebook to conduct data analysis on the AirBnb dataset. In it, we conducted data cleaning to address null rows, performed categorical to numerical conversions on some columns and also mapped these to numbers, thus allowing for correlation to be calculated and clustering to be performed.<br><br>
+            The team developed a Jupyter notebook to conduct data analysis on the Airbnb dataset. In it, we conducted data cleaning to address null rows, performed categorical to numerical conversions on some columns and also mapped these to numbers, thus allowing for correlation to be calculated and clustering to be performed.<br><br>
 
             <center><img src="img/machine_learning/report_snippet.png" height="600" width="600"><br>
 
@@ -264,7 +264,7 @@
 
             The report incorporated the insights gained during the data analysis step, providing definitive answers to the questions that were posed by the group. There was also an emphasis on making the content in the report easy to understand and direct, as the idea of it was to make it resemble an actual report that company executives were expected to go through. As such, we had to prioritise providing concise and clear information.<br><br>
 
-            Overall, the project allowed us to work as a team, tackling the task in a similar manner to professional environments. Time management, orsanisational skills, collaboration and dedication were key, allowing us to not only deliver a functioning solution but a well-documented one as well. For instance, we used the limitations imposed on us in the analytical report section to build a concise document that would be of significant value to AirBnb executives, highlighting data insights that could only be obtained through in-depth data analysis and modelling.</p><br><br>
+            Overall, the project allowed us to work as a team, tackling the task in a similar manner to professional environments. Time management, orsanisational skills, collaboration and dedication were key, allowing us to not only deliver a functioning solution but a well-documented one as well. For instance, we used the limitations imposed on us in the analytical report section to build a concise document that would be of significant value to Airbnb executives, highlighting data insights that could only be obtained through in-depth data analysis and modelling.</p><br><br>
 
 
         <h2 id="reflective-piece1"><br>Mid-Module Reflective Piece</h2>

@@ -78,20 +78,17 @@
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
             <p>The first collaborative learning discussion served as a way for students to warm up to the module by discussing one of AI's peripheral themes. For it, we had the following topic to elaborate on:<br><br>
             
-            "<i>Read the Schwab (2016) article from World Economic Forum and discuss the impact of industry 4.0 on the sector in which you are involved or interested.<br><br>
+            "<i>Read the paper by Weststeijn, T. (2011) and then join the collaborative discussion below.<br><br>
 
-            Instructions:<br><br>
-                
-                a) Identify a specific incident (not covered in your reading list) where the failure of an information system has had a significant impact.<br>
-                b) Your post could consider a range of impacts of the failure, including: the implications to customers, the economic cost, the reputational cost, or any other relevant impacts.<br>
-                c) Review lecturecast 1 and read papers provided in the references list.<br>
-                d) Go to the discussion forum and create an initial post of your contribution to the discussion.<br><br>
+            Knowledge Representation is a recent phenomenon – it only became a topic of discussion with the development of computing technology and the need to represent knowledge in computer systems.<br><br>
 
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.)."</i><br><br>
+            a. Discuss this assertion. Do you agree or disagree with this opinion? Justify your position, supported with at least two academics references.<br>
 
-            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Finance's Double-Edged Sword", was as follows.<br><br>
+            b. How is reasoning related to knowledge representation (KR)? Is KR still useful without reasoning support? Justify your answer supported by two academic references."</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Psychology, Logic, And Knowledge Representation", was as follows:<br><br>
             
-            <center><img src="img/machine_learning/initial_post.png" height="600" width="1200"><br>
+            <center><img src="img/knowledge_repr_and_reasoning/initial_post.png" height="600" width="1200"><br>
 
             <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>
 

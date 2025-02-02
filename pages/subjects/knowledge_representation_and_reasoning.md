@@ -10,7 +10,7 @@
                 <li><a href="#colab-12">Summary post</a></li>
             </ul>
         </li>
-        <li><a href="unit2-seminar-prep">Unit 2 Seminar Preparation</a>
+        <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
         </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
@@ -118,14 +118,13 @@
             "<i>1. Read Partee et al (1993) Chapter 1 and then attempt exercises 1 and 4, located at the end of the chapter.
 
             2. Read the wiki at Sharma et al (2022) and then attempt the exercises below:<br>
-                i. For each clause (a) - (f) below, create truth tables for each to answer the question of when each statement is false.<br><br>
-            
-                    a. ~ P<br>
+                i. For each clause (a) - (f) below, create truth tables for each to answer the question of when each statement is false.<br>
+                    a. ~P<br>
                     b. P ∧ Q<br>
                     c. P v Q<br>
                     d. P → Q<br>
                     e. P ←→ Q<br>
-                    f. P → (~ Q)<br><br>
+                    f. P → (~Q)<br><br>
 
                 ii. Consider the statement (~Q) -> (~P).<br>
                     a. When is it false?<br>
@@ -136,13 +135,115 @@
                 iii. Construct the truth table for P XOR Q.<br><br>
 
                 iv. Construct truth tables for the following statements.<br>
-                    a. ~ (P ∧ Q)<br>
+                    a. ~(P ∧ Q)<br>
                     b. P v (Q ∧ R)<br>
                     c. P v (Q v R)<br>
                     d. (P v Q) v R (Compare to the previous statement.)<br>
                     e. (P → Q) ∧ (Q → P)</i>"<br><br>
                     
-            aaaaaa</p><br><br>
+            Starting from exercises 1 and 4 in Partee et al. (1993), we have the following:<br><br>
+
+            1. (X ∧ Y) ∧ (X v Y)<br>
+            X ∧ Y (idempotence)<br><br>
+
+            4. ((X ∧ X) ∧ Y) v ((X ∧ Y) ∧ Y)<br>
+            ((X ∧ Y) v ((X ∧ Y) ∧ Y) (idempotence)<br>
+            ((X ∧ Y) v (X ∧ (Y ∧ Y))) (associativity)<br>
+            (X ∧ Y) v (X ∧ Y) (idempotence)<br>
+            X ∧ Y (idempotence)<br><br>
+
+            For exercise 2, we have:<br><br>
+            
+            i.a. ~P<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_not_p.png" height="100" width="200"><br>
+                
+            <font size="2">Figure 6: The truth table for ~P</font></center><br><br>
+
+            i.b. P ∧ Q<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_and_q.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 7: The truth table for P ∧ Q</font></center><br><br>
+
+            i.c. P v Q<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_or_q.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 8: The truth table for P v Q</font></center><br><br>
+
+            i.d. P → Q<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_then_q.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 9: The truth table for P → Q</font></center><br><br>
+
+            i.e. P ←→ Q<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_ifandonlyif_q.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 10: The truth table for P ←→ Q</font></center><br><br>
+
+            i.f. P → (~Q)<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_then_not_q.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 11: The truth table for P → (~Q)</font></center><br><br>
+
+            Now, for exercise ii., we have:<br><br>
+
+            a. The statement (~Q) -> (~P) is false when ~P is True and ~Q is False.<br>
+            b. The statement P → Q is false when P is True and Q is False.<br>
+            c. In essence, yes. Both P → Q and (~Q) → (~P) wield the same results, but in different order.<br>
+            d. The truth table for (~Q) → (~P) is:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/not_q_then_not_p.png" height="150" width="250"><br>
+                
+            <font size="2">Figure 12: The truth table for (~Q) → (~P)</font></center><br><br>
+
+            Comparing this truth table to the one from P → Q shows that the compound statements wield the same results, though in different order.<br><br>
+            
+            For exercise iii., we have:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_xor_q.png" height="150" width="300"><br>
+                
+            <font size="2">Figure 13: The truth table for P XOR Q</font></center><br><br>
+
+            Finally, for exercise iv., we have:<br><br>
+
+            a. ~(P ∧ Q)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/not_p_and_q.png" height="150" width="300"><br>
+                
+            <font size="2">Figure 14: The truth table for ~(P ∧ Q)</font></center><br><br>
+
+            b. P v (Q ∧ R)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_or_q_and_r.png" height="250" width="500"><br>
+                
+            <font size="2">Figure 15: The truth table for P v (Q ∧ R)</font></center><br><br>
+
+            c. P v (Q v R)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/p_or_q_or_r.png" height="250" width="500"><br>
+                
+            <font size="2">Figure 16: The truth table for P v (Q v R)</font></center><br><br>
+
+            d. (P v Q) v R (Compare to the previous statement.)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/porq_or_r.png" height="250" width="500"><br>
+                
+            <font size="2">Figure 17: The truth table for P v (Q v R)</font></center><br><br>
+
+            As can be seen, (P v Q) v R yields the same results as P v (Q v R). This is because (P v Q) v R = P v (Q v R) due to association.<br><br>
+
+            e. (P → Q) ∧ (Q → P)<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/p_then_q_and_q_then_p.png" height="150" width="550"><br>
+                
+            <font size="2">Figure 18: The truth table for (P → Q) ∧ (Q → P)</font></center><br><br>
+
+            </p><br><br>
 
 
         <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>

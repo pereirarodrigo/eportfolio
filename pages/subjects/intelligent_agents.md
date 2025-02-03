@@ -2,6 +2,8 @@
 <h2 class="verticalText">Summary</h2>
 <ul class="summary">
     <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#team-discussions1">Initial Team Discussions</a>
+        </li>
         <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
             <ul class="sect">
                 <li><a href="#colab-11">Peer feedback</a></li>
@@ -40,6 +42,10 @@
     <div class="swiper-slide">
         <h2 id="introduction">Introduction</h2>
             <p>With Dr. Stelios Sotiriadis as our tutor, the "Intelligent Agents" module introduced students to intelligent agents and its various interconnected applications, such as first-order logic, agent-based modelling, and natural language processing (NLP). It placed an emphasis on uniting the theoretical and practical components of intelligent agent systems while stimulating critical thinking and fostering collaboration, promoting an environment where students had to work together to tackle its diverse activities.</p><br><br>
+
+
+        <h2 id="team-discussions1">Initial Team Discussions</h2>
+            <p>Initial contact with my team, Group C, began immediately after the module became available. Guilherme, Mohammad, Haris, and I began planning when we'd meet for our first discussion and how communication would occur (such as through Teams, WhatsApp, or Discord). While time zone differences did ultimately factor in as a challenge, we effectively managed to communicate our schedules and ideas so that we'd remain mindful of all members' available time.</p><br><br>
 
 
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>

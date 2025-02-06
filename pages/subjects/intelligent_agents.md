@@ -10,6 +10,8 @@
                 <li><a href="#colab-12">Summary post</a></li>
             </ul>
         </li>
+        <li><a href="#team-discussions2">Team Project Formulations: Contract and Roles</a>
+        </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
@@ -45,7 +47,7 @@
 
 
         <h2 id="team-discussions1">Initial Team Discussions</h2>
-            <p>Initial contact with my team, Group C, began immediately after the module became available. Guilherme, Mohammad, Haris, and I began planning when we'd meet for our first discussion and how communication would occur (such as through Teams, WhatsApp, or Discord). While time zone differences did ultimately factor in as a challenge, we effectively managed to communicate our schedules and ideas so that we'd remain mindful of all members' available time.</p><br><br>
+            <p>Initial contact with my team, Group C, began immediately after the module became available. Guilherme, Mohammad, Haris, and I began planning when we'd meet for our first discussion and how communication would occur (such as through Teams, WhatsApp, or Discord). While time zone differences did ultimately factor in as a challenge, we effectively managed to communicate our schedules and ideas so that we'd remain mindful of all members' available time. Ultimately, we settled on Discord and created a group chat for our discussions, while also using BigBlueButton for our meetings.</p><br><br>
 
 
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
@@ -86,6 +88,16 @@
                 <center><img src="img/machine_learning/summary_post_disc1.png" height="600" width="1100"><br>
                 
                 <font size="2">Figure 5: My summary post in the first discussion forum</font></center></p><br><br>
+
+        
+        <h2 id="team-discussions2">Team Project Formulations: Contract and Roles</h2>
+            <p>The group (minus Haris, who was unable to join) met on February 6th for an initial discussion and to agree on roles and terms for the team contract. Although a fairly quick meeting, it allowed us to have a proper initial contact with each other and brainstorm possible ideas for the project.<br><br>
+            
+            <center><img src="img/intelligent_agents/first_meeting_minutes.png" height="300" width="1000"><br>
+
+            <font size="2">Figure 5: The first meeting minutes of the group, highlighting the topics that were discussed</font></center></p><br><br>
+            
+            </p><br><br>
 
 
         <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>

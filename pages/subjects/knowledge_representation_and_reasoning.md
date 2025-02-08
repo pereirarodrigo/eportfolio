@@ -12,6 +12,8 @@
         </li>
         <li><a href="#unit2-seminar-prep">Unit 2 Seminar Preparation</a>
         </li>
+        <li><a href="#unit3-activity">Unit 3 Activity</a>
+        </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
@@ -48,7 +50,7 @@
         <h2 id="unit1-activity">Unit 1 Activity</h2>
             <p>The first module activity consisted of addressing the following questions:<br><br>
 
-            "<i>Look at the seven topics described briefly below. Which of them would you consider yourself as ‘knowing’, and which would you consider yourself as having information about?<br><br>
+            "<i>Look at the seven topics described briefly below. Which of them would you consider yourself as 'knowing', and which would you consider yourself as having information about?<br><br>
 
             a) A second language in which you are fluent.<br>
             b) The content of a television news programme.<br>
@@ -229,7 +231,158 @@
             
             <center><img src="img/knowledge_repr_and_reasoning/p_then_q_and_q_then_p.png" height="150" width="550"><br>
                 
-            <font size="2">Figure 16: The truth table for (P → Q) ∧ (Q → P)</font></center><br><br>
+            <font size="2">Figure 16: The truth table for (P → Q) ∧ (Q → P)</font></center>
+
+            </p><br><br>
+        
+        
+        <h2 id="unit3-activity">Unit 3 Activity</h2>
+            <p>The third module activity consisted of the following:<br><br>
+
+            "<i><b>Activity 1</b><br>
+            Attempt the following questions from the module core text:<br><br>
+
+            Chapter 2 Question 4 - The barber's paradox.<br>
+            Chapter 3 Question 4 - A Canadian variant of an old puzzle.<br><br>
+
+            <b>Activity 2</b><br>
+            Read the paper by Palomino et al (2005) and review the 'crossing problem' diagram provided in the Lecturecast.<br><br>
+
+            Create a set of statements in first-order logic (FOL) that represent the states shown - for example you may define two functions left and right and therefore the first state could be represented as: Left(F) and left(W) and Left(G) and left(C). Define your own set of FOL statements for the entire diagram.<br>
+            You have been provided with solutions to the 'crossing problem' written in Lisp (here), Prolog (here) and Maude (here). Compare your FOL clauses with the various implementations - which of the implementations provides the closest match to your FOL version?</i>"<br><br>
+
+            The chapter 2 question 4 question consists of the following:<br><br>
+
+            "<i>In a certain town, there are the following regulations concerning the town barber:<br><br>
+
+            a) Anyone who does not shave himself must be shaved by the barber.<br>
+            b) Whomever the barber shaves, must not shave himself.<br><br>
+
+            Show that no barber can fulfill these requirements. That is, formulate the requirements as sentences of FOL and show that in any interpretation where the first regulation is true, the second one must be false. (This is called the barber's paradox and was formulated by Bertrand Russell.)</i>"<br><br>
+
+            For the first sentence, its FOL equivalent can be represented as:<br><br>
+
+            ∀x(LivesInTown(x)) → (~Shaves(x, x) → Shaves(Barber, x))<br><br>
+
+            As for the second sentence, its FOL equivalent is:<br><br>
+
+            ∀x(LivesInTown(x)) → (Shaves(Barber, x) → ~Shaves(x, x))<br><br>
+
+            This is an impossible scenario because, due to these regulations, the following happens:<br><br>
+
+            a) If the barber does not shave himself, then by the first rule, he must be shaved by a barber, which means that he must shave himself.<br>
+            b) If the barber does shave himself, then by the second rule, he must not shave himself.<br><br>
+
+            The chapter 3 question 4 consists of the following:<br><br>
+
+            "<i>A Canadian variant of an old puzzle:<br><br>
+
+            A traveler in remote Quebec comes to a fork in the road and does not know which way to go to get to Chicoutimi. Henri and Pierre are two local inhabitants nearby who do know the way. One of them always tells the truth, and the other one never does, but the traveler does not know which is which. Is there a single question the traveler can ask Henri (in French, of course) that will be sure to tell him which way to go?<br>
+
+            We will formalize this problem in FOL. Assume there are only two sorts of objects in our domain: inhabitants, denoted by the constants henri and pierre; and French questions, which Henri and Pierre can answer. These questions are denoted by the following terms:<br><br>
+
+            * gauche, which asks if the traveler should take the left branch of the fork to get to Chicoutimi;<br>
+            * dit_oui(x, q), which asks if inhabitant x would answer yes to the French question q;<br>
+            * dit_non(x, q), which asks if inhabitant x would answer no to the French question q.<br><br>
+            
+            Obviously this is a somewhat impoverished dialect of French, although a philosophically interesting one. For example, the term<br><br>
+            
+            dit_non(henri, dit_oui(pierre, gauche))<br><br>
+            
+            represents a French question that might be translated as, “Would Henri answer no if I asked him if Pierre would say yes I should go to the left to get to Chicoutimi?” The predicate symbols of our language are the following:<br><br>
+
+            * Truth_teller(x), which holds when inhabitant x is a truth-teller;<br>
+            * Answer_yes(x, q), which holds when inhabitant x will answer yes to French question q;<br>
+            * True(q), which holds when the correct answer to the question q is yes;<br>
+            * Go_left, which holds if the direction to get to Chicoutimi is to go left.<br><br>
+
+            For purposes of this puzzle, these are the only constant, function, and predicate symbols.<br><br>
+
+            (a) Write FOL sentences for each of the following:<br><br>
+
+            * One of Henri or Pierre is a truth-teller, and one is not.<br>
+            * An inhabitant will answer yes to a question if and only if he is a truth teller and the correct answer is yes, or he is not a truth teller and the correct answer is not yes.<br>
+            * The gauche question is correctly answered yes if and only if the proper direction is to go is left.<br>
+            * A dit_oui(x, q) question is correctly answered yes if and only if x will answer yes to question q.<br>
+            * A dit_non(x, q) question is correctly answered yes if and only if x will not answer yes to q.<br><br>
+
+            Imagine that these facts make up the entire KB of the traveler.<br><br>
+            
+            (b) Show that there is a ground term t such that<br><br>
+
+            KB |= (Answer_yes(henri, t) = Go_left)<br><br>
+
+            In other words, there is a question t that can be asked to Henri (and there is an analogous one for Pierre) that will be answered yes if and only if the proper direction to get to Chicoutimi is to go left.<br>
+
+            (c) Show that this KB does not entail which direction to go, that is, show that there is an interpretation satisfying the KB where Go_left is true, and another one where it is false.</i>"<br><br>
+
+            For a), we have:<br><br>
+
+            <b>* One of Henri or Pierre is a truth-teller, and one is not.</b><br><br>
+
+            Truth_teller(henri) ⊕ Truth_teller(pierre)<br><br>
+
+            <b>* An inhabitant will answer yes to a question if and only if he is a truth teller and the correct answer is yes, or he is not a truth teller and the correct answer is not yes.</b><br><br>
+
+            Answer_yes(x, q) ←→ (Truth_teller(x) ∧ True(q)) v (~Truth_teller(x) ∧ ~True(q))<br><br>
+
+            <b>* The gauche question is correctly answered yes if and only if the proper direction is to go is left.</b><br><br>
+
+            True(gauche) ←→ Go_left<br><br>
+
+            <b>* A dit_oui(x, q) question is correctly answered yes if and only if x will answer yes to question q.</b><br><br>
+
+            True(dit_oui(x, q)) ←→ Answer_yes(x, q)<br><br>
+
+            <b>* A dit_non(x, q) question is correctly answered yes if and only if x will not answer yes to q.</b><br><br>
+
+            True(dit_non(x, q)) ←→ ~Answer_yes(x, q)<br><br>
+
+            As for b), we have to recall that Henri can speak the truth as a truth-teller or lie if he isn't. To ascertain this, we could ask him if he would say yes to going left if Pierre would also say yes, which we can formulate as:<br><br>
+
+            dit_oui(henri, dit_oui(pierre, gauche))<br><br>
+
+            So, we have:<br><br>
+
+            i. If Henri is the truth-teller, then Pierre is a liar. Pierre would say no to the correct answer if the correct direction is left. Henri would truthfully report Pierre's response, which is no.<br>
+            ii. If Henri is a liar, then Pierre is truthful and would say yes to the correct answer. Being a liar, Henri would say the opposite.<br>
+            iii. If the correct direction is to go left, the answer will be yes.<br>
+            iv. If the correct direction is to go right, the answer will be no.<br><br>
+
+            Thus, we can set:<br><br>
+
+            t = dit_oui(henri, dit_oui(pierre, gauche))<br><br>
+
+            This satisfies:<br><br>
+
+            KB |= (Answer_yes(henri, t) = Go_left)<br><br>
+
+            This proves that the traveller can ask this question to determine the correct path.<br><br>
+
+            Finally, for c), since Go_left is a predicate and not a logical consequence of any other predicates in the KB, it can be assigned independently. Thus, we have the following:<br><br>
+
+            i. A model where Go_left is true, meaning left is correct.<br>
+            i. A model where Go_left is false, meaning right is correct.<br><br>
+
+            Both models satisfy the KB, proving that it does not entail whether the correct direction is left or right.<br><br>
+
+            For the second part of the exercise, the following is a diagram of the crossing problem:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/diagram.png" height="400" width="650"><br>
+                
+            <font size="2">Figure 17: The crossing problem diagram</font></center><br><br>
+
+            We can see a sequence of states and movements required to get to each of them. We could use the following FOL statements for each state:<br><br>
+
+            <b>state (w, w, w, w):</b> West(F) ∧ West(W) ∧ West(G) ∧ West(C)<br><br>
+            <b>state (e, w, e, w):</b> East(F) ∧ West(W) ∧ East(G) ∧ West(C)<br><br>
+            <b>state (w, w, e, w):</b> West(F) ∧ West(W) ∧ East(G) ∧ West(C)<br><br>
+            <b>state (e, w, e, e):</b> East(F) ∧ West(W) ∧ East(G) ∧ East(C)<br><br>
+            <b>state (w, w, w, e):</b> West(F) ∧ West(W) ∧ West(G) ∧ East(C)<br><br>
+            <b>state (e, e, w, e):</b> East(F) ∧ East(W) ∧ West(G) ∧ East(C)<br><br>
+            <b>state (w, e, w, e):</b> West(F) ∧ East(W) ∧ West(G) ∧ East(C)<br><br>
+
+            As can be seen in the solutions, the closest match to my FOL version is offered by the one written in Prolog, being closely followed by the Maude version.
 
             </p><br><br>
 

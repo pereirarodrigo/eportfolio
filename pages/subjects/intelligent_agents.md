@@ -63,23 +63,11 @@
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>
-                <p>The peer responses from Natali Nikolic, Yuji Watanabe and Stuart Gibb, three of my peers, were instrumental in building upon my initial post. For Natali, her response was as follows.<br><br>
+                <p>The peer response from Abdulhakim Bashir was instrumental in building upon my initial post. Their response was as follows:<br><br>
                 
-                <center><img src="img/machine_learning/natali_disc1.png" height="550" width="1100"><br>
+                <center><img src="img/intelligent_agents/abdulhakim_disc1.png" height="500" width="1100"><br>
 
-                <font size="2">Figure 2: Natali's peer response to my initial post</font></center><br><br>
-
-                As for Yuji, his response was the following:<br><br><br>
-
-                <center><img src="img/machine_learning/yuji_disc1.png" height="500" width="1100"><br>
-                
-                <font size="2">Figure 3: Yuji's peer response to my initial post</font></center><br><br>
-                
-                Finally, for Stuart, his response was the following:<br><br><br>
-
-                <center><img src="img/machine_learning/stuart_disc1.png" height="600" width="1100"><br>
-                
-                <font size="2">Figure 4: Stuart's peer response to my initial post</font></center></p><br><br>
+                <font size="2">Figure 2: Abdulhakim's peer response to my initial post</font></center></p><br><br>
 
 
             <h3 id="colab-12"><br>Summary post</h3>

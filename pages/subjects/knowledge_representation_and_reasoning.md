@@ -87,11 +87,17 @@
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>
-                <p>The peer response from James Adams was instrumental in building upon my initial post, which was as follows:<br><br>
+                <p>The peer responses from James Adams and Zhu Zhang were instrumental in building upon my initial post. For James, his response was as follows:<br><br>
                 
-                <center><img src="img/intelligent_agents/james_response.png" height="550" width="1100"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/james_response.png" height="550" width="1100"><br>
 
-                <font size="2">Figure 2: James' peer response to my initial post</font></center><br><br></font></center></p><br><br>
+                <font size="2">Figure 2: James' peer response to my initial post</font></center><br><br></font></center><br><br>
+                
+                As for Zhu, his response was:
+                
+                <center><img src="img/knowledge_repr_and_reasoning/zhu_response.png" height="350" width="950"><br>
+
+                <font size="2">Figure 3: Zhu's peer response to my initial post</font></center></p><br><br>
 
 
             <h3 id="colab-12"><br>Summary post</h3>
@@ -99,7 +105,7 @@
 
                 <center><img src="img/machine_learning/summary_post_disc1.png" height="600" width="1100"><br>
                 
-                <font size="2">Figure 3: My summary post in the first discussion forum</font></center></p><br><br>
+                <font size="2">Figure 4: My summary post in the first discussion forum</font></center></p><br><br>
 
             
         <h2 id="unit2-seminar-prep"><br>Unit 2 Seminar Preparation</h2>
@@ -148,37 +154,37 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/p_not_p.png" height="100" width="200"><br>
                 
-            <font size="2">Figure 4: The truth table for ~P</font></center><br><br>
+            <font size="2">Figure 5: The truth table for ~P</font></center><br><br>
 
             i.b. P ∧ Q<br><br> 
 
             <center><img src="img/knowledge_repr_and_reasoning/p_and_q.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 5: The truth table for P ∧ Q</font></center><br><br>
+            <font size="2">Figure 6: The truth table for P ∧ Q</font></center><br><br>
 
             i.c. P v Q<br><br> 
 
             <center><img src="img/knowledge_repr_and_reasoning/p_or_q.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 6: The truth table for P v Q</font></center><br><br>
+            <font size="2">Figure 7: The truth table for P v Q</font></center><br><br>
 
             i.d. P → Q<br><br> 
 
             <center><img src="img/knowledge_repr_and_reasoning/p_then_q.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 7: The truth table for P → Q</font></center><br><br>
+            <font size="2">Figure 8: The truth table for P → Q</font></center><br><br>
 
             i.e. P ←→ Q<br><br> 
 
             <center><img src="img/knowledge_repr_and_reasoning/p_ifandonlyif_q.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 8: The truth table for P ←→ Q</font></center><br><br>
+            <font size="2">Figure 9: The truth table for P ←→ Q</font></center><br><br>
 
             i.f. P → (~Q)<br><br> 
 
             <center><img src="img/knowledge_repr_and_reasoning/p_then_not_q.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 9: The truth table for P → (~Q)</font></center><br><br>
+            <font size="2">Figure 10: The truth table for P → (~Q)</font></center><br><br>
 
             Now, for exercise ii., we have:<br><br>
 
@@ -189,7 +195,7 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/not_q_then_not_p.png" height="150" width="250"><br>
                 
-            <font size="2">Figure 10: The truth table for (~Q) → (~P)</font></center><br><br>
+            <font size="2">Figure 11: The truth table for (~Q) → (~P)</font></center><br><br>
 
             Comparing this truth table to the one from P → Q shows that the compound statements wield the same results, though in different order.<br><br>
             
@@ -197,7 +203,7 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/p_xor_q.png" height="150" width="300"><br>
                 
-            <font size="2">Figure 11: The truth table for P XOR Q</font></center><br><br>
+            <font size="2">Figure 12: The truth table for P XOR Q</font></center><br><br>
 
             Finally, for exercise iv., we have:<br><br>
 
@@ -205,25 +211,25 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/not_p_and_q.png" height="150" width="300"><br>
                 
-            <font size="2">Figure 12: The truth table for ~(P ∧ Q)</font></center><br><br>
+            <font size="2">Figure 13: The truth table for ~(P ∧ Q)</font></center><br><br>
 
             b. P v (Q ∧ R)<br><br>
 
             <center><img src="img/knowledge_repr_and_reasoning/p_or_q_and_r.png" height="250" width="500"><br>
                 
-            <font size="2">Figure 13: The truth table for P v (Q ∧ R)</font></center><br><br>
+            <font size="2">Figure 14: The truth table for P v (Q ∧ R)</font></center><br><br>
 
             c. P v (Q v R)<br><br>
 
             <center><img src="img/knowledge_repr_and_reasoning/p_or_q_or_r.png" height="250" width="500"><br>
                 
-            <font size="2">Figure 14: The truth table for P v (Q v R)</font></center><br><br>
+            <font size="2">Figure 15: The truth table for P v (Q v R)</font></center><br><br>
 
             d. (P v Q) v R (Compare to the previous statement.)<br><br>
 
             <center><img src="img/knowledge_repr_and_reasoning/porq_or_r.png" height="250" width="500"><br>
                 
-            <font size="2">Figure 15: The truth table for P v (Q v R)</font></center><br><br>
+            <font size="2">Figure 16: The truth table for P v (Q v R)</font></center><br><br>
 
             As can be seen, (P v Q) v R yields the same results as P v (Q v R). This is because (P v Q) v R = P v (Q v R) due to association.<br><br>
 
@@ -231,7 +237,7 @@
             
             <center><img src="img/knowledge_repr_and_reasoning/p_then_q_and_q_then_p.png" height="150" width="550"><br>
                 
-            <font size="2">Figure 16: The truth table for (P → Q) ∧ (Q → P)</font></center>
+            <font size="2">Figure 17: The truth table for (P → Q) ∧ (Q → P)</font></center>
 
             </p><br><br>
         

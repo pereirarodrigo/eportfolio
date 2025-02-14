@@ -63,19 +63,27 @@
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>
-                <p>The peer response from Abdulhakim Bashir was instrumental in building upon my initial post. Their response was as follows:<br><br>
+                <p>The peer responses from Abdulhakim Bashir and Georgios Papachristou were instrumental in building upon my initial post. For Abdulhakim, his response was as follows:<br><br>
                 
                 <center><img src="img/intelligent_agents/abdulhakim_disc1.png" height="500" width="1100"><br>
 
-                <font size="2">Figure 2: Abdulhakim's peer response to my initial post</font></center></p><br><br>
+                <font size="2">Figure 2: Abdulhakim's peer response to my initial post</font></center><br><br>
+                
+                As for Georgios, his response was:
+
+                <center><img src="img/intelligent_agents/georgios_disc1.png" height="500" width="1100"><br>
+
+                <font size="2">Figure 3: Georgios' peer response to my initial post</font></center><br><br>
+                
+                </p><br><br>
 
 
             <h3 id="colab-12"><br>Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
 
-                <center><img src="img/machine_learning/summary_post_disc1.png" height="600" width="1100"><br>
+                <center><img src="img/intelligent_agents/summary_post_disc1.png" height="550" width="1100"><br>
                 
-                <font size="2">Figure 5: My summary post in the first discussion forum</font></center></p><br><br>
+                <font size="2">Figure 4: My summary post in the first discussion forum</font></center></p><br><br>
 
         
         <h2 id="team-discussions2">Team Project Formulations: Contract and Roles</h2>

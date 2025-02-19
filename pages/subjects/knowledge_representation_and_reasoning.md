@@ -14,6 +14,8 @@
         </li>
         <li><a href="#unit3-activity">Unit 3 Activity</a>
         </li>
+        <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
+        </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
@@ -115,7 +117,7 @@
 
             
         <h2 id="unit2-seminar-prep"><br>Unit 2 Seminar Preparation</h2>
-            <p>The second seminar consisted of answering the following questions on truth tables and logic:<br><br>
+            <p>The second seminar activity consisted of answering the following questions on truth tables and logic:<br><br>
 
             "<i>1. Read Partee et al (1993) Chapter 1 and then attempt exercises 1 and 4, located at the end of the chapter.
 
@@ -396,6 +398,58 @@
 
             </p><br><br>
 
+
+        <h2 id="unit4-seminar-prep"><br>Unit 4 Seminar Preparation</h2>
+            <p>The fourth seminar activity consisted of answering the following questions through the use of the Prolog programming language:<br><br>
+
+            "<i>1. Prolog can be used to test the questions included in Unit 2. For example, to test exercise 1 carry out the following steps.<br><br>
+                * Surf to https://swi-prolog.org<br>
+                * Click on “try swi-prolog online”.<br>
+                * On the SWISH page click on notebook.<br>
+                * Click on Query.<br>
+                * In the 'query' box enter “member(c, [a,b,c,2,3,4])”.<br>
+                * Click the go (>) button - it should give the answer 'true' (I.e., c is a member of the set).<br>
+                * How many of the questions in exercise 1 can you check in this way?<br><br>
+
+                2. Read Ritchie (2002) section 8.2 (starting on pg 12). Input the facts into the SWI-SWISH page and run the queries. To do this:<br><br>
+                * Click the + sign next to the word notebook.<br>
+                * Choose program.<br>
+                * Enter the facts (printed in the Ritchie book) into the large window.<br>
+                * On the right hand side of the screen you will see a smaller window, with a “?- “ at the top corner - this is the query box.<br>
+                * Enter your queries into the box then click the run button.<br>
+                * Try all the queries presented in sections 8.2 and 8.3 of the Ritchie book.<br><br>
+
+                3. Enter the Prolog version of the “crossing problem” into the SWISH program window and run it. What is the result?</i>"<br><br>
+
+            For the first question, we can quickly verify that we can answer all questions included in exercise one from Unit 2 as they can be readily adapted to a format that Prolog can handle. Some examples of this look as follows:<br><br>
+
+            i.a) ~P<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/prolog_1_i_a.png" height="150" width="350"><br>
+                
+            <font size="2">Figure 18: Exercise i.a) in Prolog, highlighting the use of "not" (\+)</font></center><br><br>
+
+            i.c) P v Q<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/prolog_1_i_c.png" height="150" width="550"><br>
+                
+            <font size="2">Figure 19: Exercise i.c) in Prolog, highlighting the use of "or" (;)</font></center><br><br>
+
+            i.f) P → (~Q)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/prolog_1_i_f.png" height="150" width="600"><br>
+                
+            <font size="2">Figure 20: Exercise i.f) in Prolog, highlighting the use of "if then" (->)</font></center><br><br>
+            
+            iv.a) ~(P ∧ Q)<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/prolog_1_iv_a.png" height="150" width="600"><br>
+                
+            <font size="2">Figure 21: Exercise iv.a) in Prolog, highlighting the use of "not" and "and" (\+ and ,)</font></center><br><br>
+
+            For the second question
+
+            </p><br><br>
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>

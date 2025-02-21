@@ -447,7 +447,35 @@
                 
             <font size="2">Figure 21: Exercise iv.a) in Prolog, highlighting the use of "not" and "and" (\+ and ,)</font></center><br><br>
 
-            For the second question
+            For the second question, reading through Ritche (2002) section 8.2 illustrates the use of facts in Prolog and how they can be used in building sophisticated programs. Inputting the facts into the SWI-SWISH page results in the following:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/ritchie_facts.png" height="250" width="400"><br>
+                
+            <font size="2">Figure 22: The facts from Ritchie (2002) section 8.2. in SWI-SWISH</font></center><br><br>
+
+            With these facts ready, we're ready to start "asking" questions. Using the queries in the same section allows us to do so, and the results are as follows:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/ritchie_queries.png" height="550" width="400"><br>
+                
+            <font size="2">Figure 22: The queries from Ritchie (2002) section 8.2. in SWI-SWISH</font></center><br><br>
+
+            Moving on to section 8.3., new facts are introduced and which result in the expansion of the information available from our queries, which now looks as follows:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/ritchie_new_facts.png" height="450" width="400"><br>
+                
+            <font size="2">Figure 23: The facts from Ritchie (2002) section 8.3. in SWI-SWISH</font></center><br><br>
+
+            Given the new facts, making inquiries on new relationships has become possible, such as the following:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/ritchie_new_queries.png" height="350" width="400"><br>
+                
+            <font size="2">Figure 24: The queries from Ritchie (2002) section 8.3. in SWI-SWISH</font></center><br><br>
+
+            Finally, for the last question, entering the Prolog version of the "crossing problem" in SWI-Prolog (as well as its dependency, <i>adts</i>) results in the following when consulting it:<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/prolog_crossing_problem.png" height="550" width="350"><br>
+                
+            <font size="2">Figure 25: Consulting the 'crossing problem' algorithm with the query <i>go(state(w,w,w,w), state(e,e,e,e)).</i></font></center><br><br>
 
             </p><br><br>
 

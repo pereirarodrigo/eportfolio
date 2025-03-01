@@ -16,6 +16,8 @@
         </li>
         <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
         </li>
+        <li><a href="#unit5-activity">Unit 5 Activity</a>
+        </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
@@ -478,6 +480,52 @@
             <font size="2">Figure 25: Consulting the 'crossing problem' algorithm with the query <i>go(state(w,w,w,w), state(e,e,e,e)).</i></font></center><br><br>
 
             </p><br><br>
+
+
+        <h2 id="unit5-activity"><br>Unit 5 Activity</h2>
+            <p>The unit 5 activity consisted of answering the following:<br><br>
+
+            "<i>Activity 1<br><br>
+                Read the article by Bimba et al (2016) and then answer the following questions:<br><br>
+
+                a) What are the 3 knowledge bases identified by the authors?<br>
+                b) What are the differences between them?<br>
+                c) How are these related to ontologies?<br><br>
+
+            Activity 2<br><br>
+                Read the article by Leydesdorff, L. (2010) and then answer the questions below:<br><br>
+
+                a) How does the author define a 'Knowledge based economy'?<br>
+                b) What is the triple helix model?<br><br>
+                
+            Activity 3<br><br>
+                Read the Fensel et al (2000) paper then answer the following questions:<br><br>
+
+                a) What are the components of the Onto Knowledge model/ framework?<br>
+                b) What are the example use cases given for the framework?</i>"<br><br>
+
+            For the first activity, we have the following:<br><br>
+
+            1. a) The three linguistic bases identified are <b>linguistic knowledge</b>, which focus on language semantics (such as WordNet), <b>expert knowledge</b>, which contain domain-specific rules for problem-solving, and <b>cognitive knowledge</b>, which model human cognition by integrating linguistic and expert knowledge.<br><br>
+
+            1. b) Linguistic knowledge bases handle semantics, while expert knowledge bases encode specialised rules and cognitive knowledge bases integrate both for adaptive reasoning.<br><br>
+
+            1. c) Ontologies provide a structured framework for organising and sharing knowledge, which supports all three knowledge bases types.<br><br>
+
+            For the second activity, we have:<br><br>
+
+            2. a) Leydesdorff (2010) defines a 'knowledge-based economy' as one where <b>knowledge</b> drives innovation, economic growth, and employment.<br><br>
+
+            2. b) The triple helix model is defined as the interaction between <b>universities</b> (knowledge generation), <b>industry</b> (application of knowledge), and <b>government</b> (policy and regulation) to foster innovation.<br><br>
+
+            For the third activity, we have the following:<br><br>
+
+            3. a) The components of the OntoKnowledge model are <b>ontology-based data access</b>, <b>knowledge acquisition tools</b>, <b>annotation tools</b>, and <b>inference engines</b> for reasoning and decision support.<br><br>
+
+            3. b) Some examples include corporate knowledge management for efficient knowledge organisation, semantic search engines for more relevant search results, and e-learning systems for personalised education.
+
+            </p><br><br>
+
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>

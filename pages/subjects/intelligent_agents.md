@@ -2,7 +2,7 @@
 <h2 class="verticalText">Summary</h2>
 <ul class="summary">
     <li><a href="#introduction">Introduction</a></li>
-        <li><a href="#team-discussions1">Initial Team Discussions</a>
+        <li><a href="#team-discussions1">Team Project: Initial Discussions</a>
         </li>
         <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
             <ul class="sect">
@@ -10,13 +10,14 @@
                 <li><a href="#colab-12">Summary post</a></li>
             </ul>
         </li>
-        <li><a href="#team-discussions2">Team Project Formulations: Contract and Roles</a>
+        <li><a href="#team-discussions2">Team Project: Formulations, Contract, and Roles</a>
+        </li>
+        <li><a href="#team-discussions3">Team Project: Report Draft and Architecture Definitions</a>
         </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
                 <li><a href="#colab-21">Peer feedback</a></li>
                 <li><a href="#colab-22">Summary post</a></li>
-                <li><a href="#colab-23">Tutor feedback</a></li>
             </ul>
         </li>
         <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
@@ -46,7 +47,7 @@
             <p>With Dr. Stelios Sotiriadis as our tutor, the "Intelligent Agents" module introduced students to intelligent agents and its various interconnected applications, such as first-order logic, agent-based modelling, and natural language processing (NLP). It placed an emphasis on uniting the theoretical and practical components of intelligent agent systems while stimulating critical thinking and fostering collaboration, promoting an environment where students had to work together to tackle its diverse activities.</p><br><br>
 
 
-        <h2 id="team-discussions1">Initial Team Discussions</h2>
+        <h2 id="team-discussions1">Team Project: Initial Discussions</h2>
             <p>Initial contact with my team, Group C, began immediately after the module became available. Guilherme, Mohammad, Haris, and I began planning when we'd meet for our first discussion and how communication would occur (such as through Teams, WhatsApp, or Discord). While time zone differences did ultimately factor in as a challenge, we effectively managed to communicate our schedules and ideas so that we'd remain mindful of all members' available time. Ultimately, we settled on Discord and created a group chat for our discussions, while also using BigBlueButton for our meetings.</p><br><br>
 
 
@@ -73,7 +74,7 @@
 
                 <center><img src="img/intelligent_agents/georgios_disc1.png" height="500" width="1100"><br>
 
-                <font size="2">Figure 3: Georgios' peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 3: Georgios' peer response to my initial post</font></center>
                 
                 </p><br><br>
 
@@ -86,12 +87,28 @@
                 <font size="2">Figure 4: My summary post in the first discussion forum</font></center></p><br><br>
 
         
-        <h2 id="team-discussions2">Team Project Formulations: Contract and Roles</h2>
+        <h2 id="team-discussions2">Team Project: Formulations, Contract, and Roles</h2>
             <p>The group (minus Haris, who was unable to join) met on February 6th for an initial discussion and to agree on roles and terms for the team contract. Although a fairly quick meeting, it allowed us to have a proper initial contact with each other and brainstorm possible ideas for the project.<br><br>
             
             <center><img src="img/intelligent_agents/first_meeting_minutes.png" height="300" width="1000"><br>
 
             <font size="2">Figure 5: The first meeting minutes of the group, highlighting the topics that were discussed</font></center></p><br><br>
+            
+            </p><br><br>
+
+
+        <h2 id="team-discussions3">Team Project: Report Draft and Architecture Definitions</h2>
+            <p>The group progressed very quickly on the assignment and ultimately settled on the "Academic Research Online" theme. We named our approach SAGE (Scalable Academic Goal-driven Explorer) and based it on agentic AI, one of the most modern and powerful applications of agent-based systems. Frequent discussions on Discord led me to produce a draft of the final report, which was evaluated and improved upon by other team members.<br><br>
+            
+            <center><img src="img/intelligent_agents/report_draft.png" height="500" width="800"><br>
+
+            <font size="2">Figure 6: The project report draft, with some team member comments</font></center><br><br>
+            
+            Additionally, the group also finalised the final design for the proposed system. Given SAGE's basis on agentic AI, the objective was to utilise the full force of this paradigm by employing three specialised agents, avoiding a common action point and allowing for a distributed approach.<br><br>
+            
+            <center><img src="img/intelligent_agents/system_flow.png" height="400" width="600"><br>
+
+            <font size="2">Figure 7: SAGE's proposed system flow</font></center><br><br>
             
             </p><br><br>
 
@@ -132,16 +149,6 @@
                 <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
                 
                 <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
-
-                
-            <h3 id="colab-23"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback was, once more, very informative and allowed me to verify that I was on the right track in the module. His response was as follows: <br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_disc2.png" height="800" width="800"><br>
-                
-                <font size="2">Figure 8: Tutor feedback based on my performance in the second discussion forum</font></center><br><br>
-                
-                </p><br><br>
 
 
         <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>

@@ -93,8 +93,6 @@
             <center><img src="img/intelligent_agents/first_meeting_minutes.png" height="300" width="1000"><br>
 
             <font size="2">Figure 5: The first meeting minutes of the group, highlighting the topics that were discussed</font></center></p><br><br>
-            
-            </p><br><br>
 
 
         <h2 id="team-discussions3">Team Project: Report Draft and Architecture Definitions</h2>
@@ -108,24 +106,21 @@
             
             <center><img src="img/intelligent_agents/system_flow.png" height="400" width="600"><br>
 
-            <font size="2">Figure 7: SAGE's proposed system flow</font></center><br><br>
-            
-            </p><br><br>
+            <font size="2">Figure 7: SAGE's proposed system flow</font></center></p><br><br>
 
 
         <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
 
-            <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>
+            <i>"Discussion Topic: Agent Communication Languages<br><br>
 
-            Your discussion could consider:<br><br>
+            What are the potential advantages and disadvantages of the use of agent communication languages such as KQML? How do they compare with method invocation in Python or Java?"</i><br><br>
+            
+            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "The Dualism Between KQML and Modern Programming Languages", was as follows:<br><br>
+            
+            <center><img src="img/intelligent_agents/initial_post_2.png" height="550" width="1200"><br>
 
-            a) Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution? <br>
-            b)The strengths and weaknesses of this approach to learning.<br><br>
-            
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth."</i><br><br>
-            
-            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
+            <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>    
 
             
             <h3 id="colab-21"><br>Peer feedback</h3>

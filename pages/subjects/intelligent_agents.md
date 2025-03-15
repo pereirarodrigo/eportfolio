@@ -12,7 +12,11 @@
         </li>
         <li><a href="#team-discussions2">Team Project: Formulations, Contract, and Roles</a>
         </li>
-        <li><a href="#team-discussions3">Team Project: Report Draft and Architecture Definitions</a>
+        <li><a href="#team-discussions3">Team Project: Report Draft</a>
+        </li>
+        <li><a href="#team-discussions4">Team Project: Final Adjustments and Submission</a>
+        </li>
+        <li><a href="#unit6-activity">Unit 6 Activity</a>
         </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
@@ -22,10 +26,9 @@
         </li>
         <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
         </li>
-        <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
-            <ul class="sect">
-                <li><a href="#assess1-feedback">Tutor feedback</a></li>
-            </ul>
+        <li><a href="#reflective-piece1">Mid-Module Reflective Piece</a>
+        </li>
+        <li><a href="#unit8-activity">Unit 8 Activity</a>
         </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
@@ -95,18 +98,39 @@
             <font size="2">Figure 5: The first meeting minutes of the group, highlighting the topics that were discussed</font></center></p><br><br>
 
 
-        <h2 id="team-discussions3">Team Project: Report Draft and Architecture Definitions</h2>
+        <h2 id="team-discussions3">Team Project: Report Draft</h2>
             <p>The group progressed very quickly on the assignment and ultimately settled on the "Academic Research Online" theme. We named our approach SAGE (Scalable Academic Goal-driven Explorer) and based it on agentic AI, one of the most modern and powerful applications of agent-based systems. Frequent discussions on Discord led me to produce a draft of the final report, which was evaluated and improved upon by other team members.<br><br>
             
             <center><img src="img/intelligent_agents/report_draft.png" height="500" width="800"><br>
 
-            <font size="2">Figure 6: The project report draft, with some team member comments</font></center><br><br>
-            
-            Additionally, the group also finalised the final design for the proposed system. Given SAGE's basis on agentic AI, the objective was to utilise the full force of this paradigm by employing three specialised agents, avoiding a common action point and allowing for a distributed approach.<br><br>
+            <font size="2">Figure 6: The project report draft, with some team member comments</font></center></p><br><br>
+
+
+        <h2 id="team-discussions4">Team Project: Final Adjustments and Submission</h2>
+            <p>After discussions on what could be improved, as well as ideas that could be implemented, the team finalised the final version of the report, which now consisted of a comprehensive proposal for a robust agentic AI-based system for online academic research.<br><br>
             
             <center><img src="img/intelligent_agents/system_flow.png" height="400" width="600"><br>
 
-            <font size="2">Figure 7: SAGE's proposed system flow</font></center></p><br><br>
+            <font size="2">Figure 7: SAGE's proposed system flow</font></center><br><br>
+            
+            Ultimately, Haris submitted the project report almost a week before the deadline. The project itself, the quality of the submission, and the time taken for submission showcase how efficiently the team worked together and leveraged skills such as project and time management, academic writing, and criticality.</p><br><br>
+
+
+        <h2 id="unit6-activity">Unit 6 Activity</h2>
+            <p>The unit 6 activity consisted of the following:<br><br>
+
+            "<i>Activity Guidance<br><br>
+                Create an agent dialogue, using KQML and KIF, between two agents (named Alice and Bob).<br><br>
+
+                Alice is an agent designed to procure stock and Bob is an agent that controls the stock levels for a warehouse. This dialogue should see Alice asking Bob about the available stock of 50 inch televisions, and also querying the number of HDMI slots the televisions have.<br><br>
+
+                Add your completed answers to your e-Portfolio.</i>"<br><br>
+                
+            Coding the requested interaction in KQML and KIF resulted in the following:<br><br>
+            
+            <center><img src="img/intelligent_agents/kqml_activity.png" height="300" width="1000"><br>
+
+            <font size="2">Figure 8: Agent dialogue using KQML and KIF</font></center></p><br><br>
 
 
         <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
@@ -156,30 +180,47 @@
             </p><br><br>
 
 
-        <h2 id="assess1">Assessment: Artificial Intelligence and its Applications</h2>
-            <p>The first assessment involved coming up with a report that would convince the leadership of a ficticious finance startup to adopt AI technologies. The company that I created had the following profile:<br><br> 
+        <h2 id="#reflective-piece1">Mid-Module Reflective Piece</h2>
+            <p>The module progressively introduced more advanced concepts to students, rapidly progressing from an introduction to agent-based modelling to a comprehensive overview of symbolic methods. This structured approach allowed students to build a strong conceptual understanding before delving into more complex methodologies, ensuring a smooth transition between different paradigms in artificial intelligence.<br><br>
             
-            <i>Orion is a recently established finance company that specialises in efficient and secure payment processing operations and investment management, offering customers a team of investment specialists to optimise their portfolios and perform quantitative trading. Founded by industry veterans and academics, the company seeks to combine corporate and research-based methods to bring innovation to the finance industry, which is known for its high stakes and competitive nature.</i><br><br>
+            Notably, the group project saw the improvement of all students' collaborative and critical skills as we worked together towards a common goal, established roles, interacted and discussed potential approaches and challenges, and collectively developed an approach we were satisfied with, leveraging agentic AI and LangChain to develop a robust multi-agent online academic search system.</p><br><br>
 
-            The report contained the positive and negative aspects behind AI adoption, the challenges involved in such an action (such as dataset gathering and infrastructure requirements) and the potential boons that could be unlocked by Orion should it make use of this technology responsibly and ethically. Three key areas were identified that could be significantly enhanced by AI adoption, which were:<br><br><br>
 
-            a) <b>Investment planning and execution</b>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
+        <h2 id="unit8-activity">Unit 8 Activity</h2>
+            <p>The unit 8 activity consisted of the following:<br><br>
 
-            b) <b>Fraud detection</b>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
+            "<i>Activity Guidance<br><br>
+                Create a constituency-based parse tree for the following phrases:<br><br>
 
-            c) <b>Customer service</b>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
+                The government raised interest rates.<br>
+                The internet gives everyone a voice.<br>
+                The man saw the dog with the telescope.<br><br>
+
+                Add your completed answers to your e-Portfolio.</i>"<br><br>
+                
+            For the first scenario, the phrase can be converted into a fairly simple resulting constituency-based parse tree, which results in the following:<br><br>
             
-            </p><br><br>
-            
+            <center><img src="img/intelligent_agents/first_parse_tree.png" height="250" width="400"><br>
 
-            <h3 id="assess1-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback allowed me to see the flaws in my report, such as the lack of reference-backed examples. His response was instrumental in allowing me to improve my report for the next assignment, and was as follows<br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_assign1.png" height="500" width="1200"><br>
-                
-                <font size="2">Figure 9: Tutor feedback on the first assignment</font></center><br><br>
-                
-                </p><br><br>
+            <font size="2">Figure 9: The first constituency-based parse tree</font></center></p><br><br>
+
+            For the second scenario, the phrase results in a slightly more complex parse tree due to the presence of "everyone", a personal pronoun (PRP) that needs to be addressed. This results in the following:<br><br>
+            
+            <center><img src="img/intelligent_agents/second_parse_tree.png" height="300" width="400"><br>
+
+            <font size="2">Figure 10: The second constituency-based parse tree</font></center></p><br><br>
+
+            For the third scenario, the phrase's ambiguity results in two possible interpretations: that the man saw the dog by using his telescope, or that the man saw the dog in possession of the telescope. As such, this results in two possible constituency-based parse trees, the first possibility which is as follows:<br><br>
+            
+            <center><img src="img/intelligent_agents/third_parse_tree_first_variation.png" height="350" width="400"><br>
+
+            <font size="2">Figure 11: The first variation of the third constituency-based parse tree</font></center></p><br><br>
+
+            For the second possibility, we have the following parse tree:<br><br>
+            
+            <center><img src="img/intelligent_agents/third_parse_tree_second_variation.png" height="350" width="400"><br>
+
+            <font size="2">Figure 12: The second variation of the third constituency-based parse tree</font></center></p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

@@ -14,13 +14,12 @@
         </li>
         <li><a href="#team-discussions3">Team Project: Report Draft</a>
         </li>
-        <li><a href="#team-discussions4">Team Project: Final Adjustments and Submission</a>
+        <li><a href="#team-discussions4">Team Project: Final Adjustments, Submission, and Feedback</a>
         </li>
         <li><a href="#unit6-activity">Unit 6 Activity</a>
         </li>
         <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
             <ul class="sect">
-                <li><a href="#colab-21">Peer feedback</a></li>
                 <li><a href="#colab-22">Summary post</a></li>
             </ul>
         </li>
@@ -66,7 +65,7 @@
             <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>
 
             
-            <h3 id="colab-11"><br>Peer feedback</h3>
+            <h3 id="colab-11">Peer feedback</h3>
                 <p>The peer responses from Abdulhakim Bashir and Georgios Papachristou were instrumental in building upon my initial post. For Abdulhakim, his response was as follows:<br><br>
                 
                 <center><img src="img/intelligent_agents/abdulhakim_disc1.png" height="500" width="1100"><br>
@@ -82,7 +81,7 @@
                 </p><br><br>
 
 
-            <h3 id="colab-12"><br>Summary post</h3>
+            <h3 id="colab-12">Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
 
                 <center><img src="img/intelligent_agents/summary_post_disc1.png" height="550" width="1100"><br>
@@ -106,15 +105,19 @@
             <font size="2">Figure 6: The project report draft, with some team member comments</font></center></p><br><br>
 
 
-        <h2 id="team-discussions4">Team Project: Final Adjustments and Submission</h2>
+        <h2 id="team-discussions4">Team Project: Final Adjustments, Submission, and Feedback</h2>
             <p>After discussions on what could be improved, as well as ideas that could be implemented, the team finalised the final version of the report, which now consisted of a comprehensive proposal for a robust agentic AI-based system for online academic research.<br><br>
             
             <center><img src="img/intelligent_agents/system_flow.png" height="400" width="600"><br>
 
             <font size="2">Figure 7: SAGE's proposed system flow</font></center><br><br>
             
-            Ultimately, Haris submitted the project report almost a week before the deadline. The project itself, the quality of the submission, and the time taken for submission showcase how efficiently the team worked together and leveraged skills such as project and time management, academic writing, and criticality.</p><br><br>
+            Ultimately, Haris submitted the project report almost a week before the deadline. The project itself, the quality of the submission, and the time taken for submission showcase how efficiently the team worked together and leveraged skills such as project and time management, academic writing, and criticality. Our report was well-received by Professor Stelios, whose feedback was as follows:<br><br>
+            
+            <center><img src="img/intelligent_agents/assignment1_tutor_feedback.png" height="700" width="1100"><br>
 
+            <font size="2">Figure 7: Professor Stelios' comments on our report, as well as the grade assignment</font></center></p><br><br>
+            
 
         <h2 id="unit6-activity">Unit 6 Activity</h2>
             <p>The unit 6 activity consisted of the following:<br><br>
@@ -133,7 +136,7 @@
             <font size="2">Figure 8: Agent dialogue using KQML and KIF</font></center></p><br><br>
 
 
-        <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
+        <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
 
             <i>"Discussion Topic: Agent Communication Languages<br><br>
@@ -144,30 +147,15 @@
             
             <center><img src="img/intelligent_agents/initial_post_2.png" height="550" width="1200"><br>
 
-            <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>    
+            <font size="2">Figure 9: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>    
 
-            
-            <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
+
+            <h3 id="colab-22">Summary post</h3>
+                <p>Unfortunately, none of my peers responded to my initial post in time for the summary post, rendering it devoid of possible enhancements and response options. My summary post was as follows:<br><br>
+
+                <center><img src="img/intelligent_agents/summary_post.png" height="600" width="1200"><br>
                 
-                <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
-
-                <font size="2">Figure 5: Pëllumb's peer response to my initial post</font></center><br><br>
-
-                As for Guilherme, his response was the following:<br><br><br>
-
-                <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
-                
-                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center><br><br>
-                
-                </p><br><br>
-
-
-            <h3 id="colab-22"><br>Summary post</h3>
-                <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
-                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
-                
-                <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
+                <font size="2">Figure 10: My summary post in the second discussion forum</font></center></p><br><br>
 
 
         <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>
@@ -181,9 +169,9 @@
 
 
         <h2 id="#reflective-piece1">Mid-Module Reflective Piece</h2>
-            <p>The module progressively introduced more advanced concepts to students, rapidly progressing from an introduction to agent-based modelling to a comprehensive overview of symbolic methods. This structured approach allowed students to build a strong conceptual understanding before delving into more complex methodologies, ensuring a smooth transition between different paradigms in artificial intelligence.<br><br>
-            
-            Notably, the group project saw the improvement of all students' collaborative and critical skills as we worked together towards a common goal, established roles, interacted and discussed potential approaches and challenges, and collectively developed an approach we were satisfied with, leveraging agentic AI and LangChain to develop a robust multi-agent online academic search system.</p><br><br>
+            <p>The module progressively introduced more advanced concepts, rapidly transitioning from an introduction to agent-based modelling to a comprehensive overview of symbolic methods. This structured progression ensured students developed a strong conceptual foundation before engaging with complex methodologies, such as logic-based agent reasoning and communication protocols like KQML and KIF. By balancing theoretical discussions with practical implementations, the module provided a holistic understanding of intelligent agents and their applications.<br><br>
+
+            Notably, the group project was a key aspect of this learning experience. Collaborating on SAGE, an agentic AI-driven academic search system, strengthened our critical thinking and teamwork. We navigated challenges such as time zone differences, technical integration, and role allocation, ensuring effective communication and collaboration. This experience not only refined my ability to work in multidisciplinary teams but also highlighted the practical value of agent-based AI solutions in real-world problem-solving.</p><br><br>
 
 
         <h2 id="unit8-activity">Unit 8 Activity</h2>
@@ -202,25 +190,25 @@
             
             <center><img src="img/intelligent_agents/first_parse_tree.png" height="250" width="400"><br>
 
-            <font size="2">Figure 9: The first constituency-based parse tree</font></center></p><br><br>
+            <font size="2">Figure 11: The first constituency-based parse tree</font></center></p><br><br>
 
             For the second scenario, the phrase results in a slightly more complex parse tree due to the presence of "everyone", a personal pronoun (PRP) that needs to be addressed. This results in the following:<br><br>
             
             <center><img src="img/intelligent_agents/second_parse_tree.png" height="300" width="400"><br>
 
-            <font size="2">Figure 10: The second constituency-based parse tree</font></center></p><br><br>
+            <font size="2">Figure 12: The second constituency-based parse tree</font></center></p><br><br>
 
             For the third scenario, the phrase's ambiguity results in two possible interpretations: that the man saw the dog by using his telescope, or that the man saw the dog in possession of the telescope. As such, this results in two possible constituency-based parse trees, the first possibility which is as follows:<br><br>
             
             <center><img src="img/intelligent_agents/third_parse_tree_first_variation.png" height="350" width="400"><br>
 
-            <font size="2">Figure 11: The first variation of the third constituency-based parse tree</font></center></p><br><br>
+            <font size="2">Figure 13: The first variation of the third constituency-based parse tree</font></center></p><br><br>
 
             For the second possibility, we have the following parse tree:<br><br>
             
             <center><img src="img/intelligent_agents/third_parse_tree_second_variation.png" height="350" width="400"><br>
 
-            <font size="2">Figure 12: The second variation of the third constituency-based parse tree</font></center></p><br><br>
+            <font size="2">Figure 14: The second variation of the third constituency-based parse tree</font></center></p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

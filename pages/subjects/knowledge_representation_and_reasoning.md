@@ -18,19 +18,16 @@
         </li>
         <li><a href="#unit5-activity">Unit 5 Activity</a>
         </li>
-        <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
-            <ul class="sect">
-                <li><a href="#colab-21">Peer feedback</a></li>
-                <li><a href="#colab-22">Summary post</a></li>
-                <li><a href="#colab-23">Tutor feedback</a></li>
-            </ul>
+        <li><a href="#unit6-activity">Unit 6 Activity</a>
         </li>
-        <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
+        <li><a href="#reflective-piece1">Mid-Module Reflective Piece</a>
         </li>
-        <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
+        <li><a href="#assess1">Assessment: Case Study Review</a>
             <ul class="sect">
                 <li><a href="#assess1-feedback">Tutor feedback</a></li>
             </ul>
+        </li>
+        <li><a href="#unit8-activity">Unit 8 Activity</a>
         </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
@@ -401,7 +398,7 @@
             </p><br><br>
 
 
-        <h2 id="unit4-seminar-prep"><br>Unit 4 Seminar Preparation</h2>
+        <h2 id="unit4-seminar-prep">Unit 4 Seminar Preparation</h2>
             <p>The fourth seminar activity consisted of answering the following questions through the use of the Prolog programming language:<br><br>
 
             "<i>1. Prolog can be used to test the questions included in Unit 2. For example, to test exercise 1 carry out the following steps.<br><br>
@@ -477,12 +474,10 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/prolog_crossing_problem.png" height="550" width="350"><br>
                 
-            <font size="2">Figure 25: Consulting the 'crossing problem' algorithm with the query <i>go(state(w,w,w,w), state(e,e,e,e)).</i></font></center><br><br>
-
-            </p><br><br>
+            <font size="2">Figure 25: Consulting the 'crossing problem' algorithm with the query <i>go(state(w,w,w,w), state(e,e,e,e)).</i></font></center></p><br><br>
 
 
-        <h2 id="unit5-activity"><br>Unit 5 Activity</h2>
+        <h2 id="unit5-activity">Unit 5 Activity</h2>
             <p>The unit 5 activity consisted of answering the following:<br><br>
 
             "<i>Activity 1<br><br>
@@ -522,83 +517,51 @@
 
             3. a) The components of the OntoKnowledge model are <b>ontology-based data access</b>, <b>knowledge acquisition tools</b>, <b>annotation tools</b>, and <b>inference engines</b> for reasoning and decision support.<br><br>
 
-            3. b) Some examples include corporate knowledge management for efficient knowledge organisation, semantic search engines for more relevant search results, and e-learning systems for personalised education.
-
-            </p><br><br>
+            3. b) Some examples include corporate knowledge management for efficient knowledge organisation, semantic search engines for more relevant search results, and e-learning systems for personalised education.</p><br><br>
 
 
-        <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
-            <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
+        <h2 id="unit6-activity">Unit 6 Activity</h2>
+            <p>The unit 6 activity consisted of answering the following:<br><br>
 
-            <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>
+            "<i>Read the article by Demoly et al. (2019)<br><br>
 
-            Your discussion could consider:<br><br>
+                Reflect on the different strategies to developing ontologies. What are the benefits and drawbacks of each approach? Consider various scenarios and which methods would be suitable.</i>"<br><br>
 
-            a) Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution? <br>
-            b)The strengths and weaknesses of this approach to learning.<br><br>
+            Developing ontologies enables shared understanding across domains, with Demoly et al. (2019) stating that different strategies offer unique benefits and drawbacks. These strategies are:<br><br> 
             
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth."</i><br><br>
+            <b>a) The top-down approach:</b> Refines broad concepts into specific ones, with benefits being structural coherence and alignment with standards, ensuring interoperability. However, it is resource-intensive and can be too abstract, making it ideal for standardized fields like medicine or law.<br><br>
+
+            <b>b) The bottom-up approach:</b> Builds from specific data points, with benefits being practical relevance and flexibility. However, it risks fragmentation and scalability issues, making it suited for data-driven fields lacking predefined structures.<br><br>
+
+            <b>c) The middle-out approach:</b> Expands from core concepts, with benefits being balance between coherence and adaptability and efficiency. However, it requires careful coordination to avoid redundancy, making it ideal for domains with well-defined key concepts.<br><br>
+
+            <b>d) The automated approach:</b> extracts ontology structures using AI, with benefits being scalability and speed. However, it may lack accuracy and struggle with contextual nuances, making it best for large-scale data extraction.<br><br>
+
+            Choosing the right approach depends on domain complexity, data availability, and project goals, with hybrid methods often providing the best balance.</p><br><br>
+
+        
+        <h2 id="reflective-piece1">Mid-Module Reflective Piece</h2>
+            <p>The "Knowledge Representation and Reasoning" module has deepened my understanding of how AI structures and processes knowledge. Engaging with logic programming, first-order logic (FOL), and ontologies has strengthened my problem-solving skills. The crossing problem and truth table exercises demonstrated how structured reasoning supports AI decision-making. Comparing ontology development strategies—top-down, bottom-up, middle-out, and automated—highlighted their strengths and trade-offs, reinforcing the importance of structured knowledge in AI transparency.<br><br>
+
+            Beyond technical learning, collaborative discussions refined my ability to articulate ideas and critically evaluate different perspectives. Engaging with peers helped me improve my arguments and recognize diverse viewpoints. This iterative learning approach mirrored real-world research, where feedback and discourse drive progress. Overall, this module has significantly enhanced my logical reasoning and symbolic AI skills, preparing me for more advanced applications in AI research and knowledge-based systems.</p><br><br>
+
+
+        <h2 id="assess1">Assessment: Case Study Review</h2>
+            <p>The first assessment involved coming up with a report discussing the paper 'A curated ontology-based large-scale knowledge graph of artificial intelligence tasks and benchmarks', by Blagec et al. (2022). It introduces the Intelligence Task Ontology (ITO) framework and addresses the growing complexity of AI research, focusing on task classification, benchmarking, and performance metrics within a structured, ontology-based framework. My approach focused on discussing the paper through the following topics:<br><br> 
             
-            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
+            a) <b>Background and objectives</b>, which provided a definition of ITO, the desiderata for its creation, and what were this approach's objectives;<br><br>
 
-            
-            <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
+            b) <b>Methodology</b>, which provided an in-depth analysis of ITO's methodology, such as its use of knowledge graphs and the way it models AI tasks;<br><br>
+
+            c) <b>Applications and impact</b>, where areas of application for ITO and the impact behind this approach, such as in explainable AI and open science, were elaborated upon;<br><br>
+
+            d) <b>Strengths and weaknesses</b>, where this approach's major advantages and flaws were discussed and exemplified to provide a critical, but fair, analysis;<br><br>
+
+            e) <b>Conclusion</b>, where possible next steps for this framework are laid out and could help in it becoming more widely known and used in AI research.<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/case_study_snippet.png" height="600" width="600"><br>
                 
-                <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
-
-                <font size="2">Figure 5: Pëllumb's peer response to my initial post</font></center><br><br>
-
-                As for Guilherme, his response was the following:<br><br><br>
-
-                <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
-                
-                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center><br><br>
-                
-                </p><br><br>
-
-
-            <h3 id="colab-22"><br>Summary post</h3>
-                <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
-                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
-                
-                <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
-
-                
-            <h3 id="colab-23"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback was, once more, very informative and allowed me to verify that I was on the right track in the module. His response was as follows: <br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_disc2.png" height="800" width="800"><br>
-                
-                <font size="2">Figure 8: Tutor feedback based on my performance in the second discussion forum</font></center><br><br>
-                
-                </p><br><br>
-
-
-        <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>
-            <p>The collaborative learning discussions allowed me to engage with my peers in informative and respectful discussions regarding the proposed topics, thus contributing to my growth in two very important aspects:<br><br><br>
-            
-            a) <b>Critical thinking:</b> The topics were, by nature, geared towards instigating students to work on identifying and addressing their positive and negative aspects. By the time that we had to take part in the second discussion forum, I was much more proficient at thinking critically and this skill only improved by the end of the second collaborative learning discussion;<br><br>
-            
-            b) <b>Collaboration:</b> I interacted with several students' posts and directly addressed the content present in them. Not only did I agree or disagree as required but I also provided further material that could be of interest to my peers, such as articles and papers, thus collaborating with them in broadening our perspective of a given topic.<br><br>
-            
-            </p><br><br>
-
-
-        <h2 id="assess1">Assessment: Artificial Intelligence and its Applications</h2>
-            <p>The first assessment involved coming up with a report that would convince the leadership of a ficticious finance startup to adopt AI technologies. The company that I created had the following profile:<br><br> 
-            
-            <i>Orion is a recently established finance company that specialises in efficient and secure payment processing operations and investment management, offering customers a team of investment specialists to optimise their portfolios and perform quantitative trading. Founded by industry veterans and academics, the company seeks to combine corporate and research-based methods to bring innovation to the finance industry, which is known for its high stakes and competitive nature.</i><br><br>
-
-            The report contained the positive and negative aspects behind AI adoption, the challenges involved in such an action (such as dataset gathering and infrastructure requirements) and the potential boons that could be unlocked by Orion should it make use of this technology responsibly and ethically. Three key areas were identified that could be significantly enhanced by AI adoption, which were:<br><br><br>
-
-            a) <b>Investment planning and execution</b>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
-
-            b) <b>Fraud detection</b>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
-
-            c) <b>Customer service</b>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
-            
-            </p><br><br>
+            <font size="2">Figure 26: A snippet of the case study report, focusing on the "Applications and impact" section</font></center></p><br><br>
             
 
             <h3 id="assess1-feedback"><br>Tutor feedback</h3>
@@ -609,6 +572,15 @@
                 <font size="2">Figure 9: Tutor feedback on the first assignment</font></center><br><br>
                 
                 </p><br><br>
+
+
+        <h2 id="unit8-activity">Unit 8 Activity</h2>
+            <p>The unit 8 activity consisted of doing the following:<br><br>
+
+            "<i>1. Work through a practical example by following Chapter 4 of Debellis, M. (2021) A Practical Guide to Building OWL Ontologies Using Protégé 5.5 and Plugins.<br>
+            2. Create an ontology following the steps outlined in Exercises 1-7.</i>"<br><br>
+
+            </p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

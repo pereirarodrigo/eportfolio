@@ -580,7 +580,47 @@
             "<i>1. Work through a practical example by following Chapter 4 of Debellis, M. (2021) A Practical Guide to Building OWL Ontologies Using Protégé 5.5 and Plugins.<br>
             2. Create an ontology following the steps outlined in Exercises 1-7.</i>"<br><br>
 
-            </p><br><br>
+            In exercise 1, Debelis (2021) goes through the several important steps that are required when configuring Protégé, such as which tab should be active, how to create a new ontology project, and which format is ideal for saving the work produced in the system. 
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_uri.png" height="300" width="800"><br>
+                
+            <font size="2">Figure 10: The URI of the tutorial Protégé project</font></center><br><br>
+
+            Subsequently, in exercise 2, preferences are defined for new entities and rendering, with "Render by entity IRI short name (ID)" is selected as the default entity rendering method.<br><br>
+             
+            <center><img src="img/knowledge_repr_and_reasoning/protege_renderer_tab.png" height="400" width="700"><br>
+                
+            <font size="2">Figure 11: The renderer tab in Protégé, highlighting the new preferences</font></center><br><br>
+
+            In exercise 3, an overview is given on how to add comment annotations to ontologies by using the <i>rdfs:comment</i> annotation. Additionally, creating named classes, the main building blocks of OWL-based ontologies, is introduced here.<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/protege_named_classes.png" height="300" width="800"><br>
+                
+            <font size="2">Figure 12: The entities tab in Protégé, showing the "Pizza" entity</font></center><br><br>
+
+            In exercise 4, the creation of classes is expanded upon and additional classes are created, such as "PizzaTopping" and "PizzaBase", both of which sit under "owl:Thing" alongside the previously created "Pizza" class. Additionally, a brief introduction is given to reasoners in Protégé, which essentially function as class consistency verifiers.<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_more_classes.png" height="300" width="800"><br>
+                
+            <font size="2">Figure 13: The entities tab in Protégé, showing the new "PizzaTopping" and "PizzaBase" entities</font></center><br><br>
+
+            Afterwards, in exercise 5, the reasoner concept is expanded upon as the Pellet Reasoner, a plugin, is installed and started. This will verify if the classes are consistent, and will run fairly quickly given the ontology is very small. Additionally, a brief commentary is provided on disjoint classes, a concept where an individual cannot be an instance of more than one of those classes.<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_reasoner_prefs.png" height="600" width="700"><br>
+                
+            <font size="2">Figure 14: The reasoner preferences tab in Protégé</font></center><br><br>
+
+            In exercise 6, the concept of disjoint classes is applied on the existing "PizzaTopping", "PizzaBase", and "Pizza" classes. This section also briefly introduces the class hierarchy creation section, showcasing its capability to create multiple classes at once.<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_disjoint.png" height="300" width="800"><br>
+                
+            <font size="2">Figure 15: The description of the "Pizza" class in Protégé, showing the classes it's disjoint with</font></center><br><br>
+
+            Finally, exercise 7 consists of using the class hierarchy creation functionality to create subclasses of "PizzaBase", resulting in the creation of "DeepPanBase" and "ThinAndCrispyBase". The creation of a more interesting hierarchy is also teased in this exercise.<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_hierarchy.png" height="500" width="700"><br>
+                
+            <font size="2">Figure 16: The new subclasses of "PizzaBase" in Protégé, which were created with the class hierarchy creation functionality</font></center></p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

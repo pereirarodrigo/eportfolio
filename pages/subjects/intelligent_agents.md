@@ -29,6 +29,12 @@
         </li>
         <li><a href="#unit8-activity">Unit 8 Activity</a>
         </li>
+        <li><a href="#colab-3">Collaborative Learning Discussion 3</a>
+            <ul class="sect">
+                <li><a href="#colab-31">Peer feedback</a></li>
+                <li><a href="#colab-32">Summary post</a></li>
+            </ul>
+        </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
@@ -209,6 +215,44 @@
             <center><img src="img/intelligent_agents/third_parse_tree_second_variation.png" height="350" width="400"><br>
 
             <font size="2">Figure 14: The second variation of the third constituency-based parse tree</font></center></p><br><br>
+
+
+        <h2 id="colab-3">Collaborative Learning Discussion 3</h2>
+            <p>The third collaborative learning discussion served as the culmination of students' earlier engagements. For it, we had the following topic to elaborate on:<br><br>
+            
+            "<i>The advent of new technologies supported by Deep Learning models mean that it is now possible to generate ‘new’ content, for example, Dall-E AI to generate images or ChatGPT to create prose.<br><br>
+
+            Do you think that these new technologies offer any ethical issues that should be considered, and if not, why not?"</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Deep Learning and Ethics: An Ongoing Struggle", was as follows:<br><br>
+            
+            <center><img src="img/intelligent_agents/initial_post_3.png" height="600" width="1200"><br>
+
+            <font size="2">Figure 15: My initial post in the third collaborative learning discussion forum</font></center></p><br><br>
+
+            
+            <h3 id="colab-31">Peer feedback</h3>
+                <p>The peer responses from Abdulhakim Bashir and Georgios Papachristou were instrumental in building upon my initial post. For Abdulhakim, his response was as follows:<br><br>
+                
+                <center><img src="img/intelligent_agents/abdulhakim_disc1.png" height="500" width="1100"><br>
+
+                <font size="2">Figure 2: Abdulhakim's peer response to my initial post</font></center><br><br>
+                
+                As for Georgios, his response was:
+
+                <center><img src="img/intelligent_agents/georgios_disc1.png" height="500" width="1100"><br>
+
+                <font size="2">Figure 3: Georgios' peer response to my initial post</font></center>
+                
+                </p><br><br>
+
+
+            <h3 id="colab-32">Summary post</h3>
+                <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+
+                <center><img src="img/intelligent_agents/summary_post_disc1.png" height="550" width="1100"><br>
+                
+                <font size="2">Figure 4: My summary post in the first discussion forum</font></center></p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

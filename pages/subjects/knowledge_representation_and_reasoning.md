@@ -29,6 +29,12 @@
         </li>
         <li><a href="#unit8-activity">Unit 8 Activity</a>
         </li>
+        <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
+            <ul class="sect">
+                <li><a href="#colab-21">Peer feedback</a></li>
+                <li><a href="#colab-22">Summary post</a></li>
+            </ul>
+        </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
@@ -621,6 +627,49 @@
             <center><img src="img/knowledge_repr_and_reasoning/protege_hierarchy.png" height="500" width="700"><br>
                 
             <font size="2">Figure 16: The new subclasses of "PizzaBase" in Protégé, which were created with the class hierarchy creation functionality</font></center></p><br><br>
+
+
+        <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
+            <p>The second collaborative learning discussion served as a way for students to further hone their argumentative skills by discussing the following:<br><br>
+            
+            "<i>Kalibatiene & Vasilecas (2011) posit that 'An ontology is a formal, explicit specification of a shared conceptualization'.<br><br>
+
+                Based on this definition, which language do you believe is the most useful to express ontologies that can be utilised by software agents on the WWW: KIF, OWL2, RDF or OWL-lite?"</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Ontology Languages: The Case for OWL 2", was as follows:<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/initial_post_2.png" height="600" width="1150"><br>
+
+            <font size="2">Figure 17: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
+
+            
+            <h3 id="colab-21"><br>Peer feedback</h3>
+                <p>The peer responses from James Adams, Zhu Zhang, and Jaafar El Komati were instrumental in building upon my initial post. For James, his response was as follows:<br><br>
+                
+                <center><img src="img/knowledge_repr_and_reasoning/james_response.png" height="550" width="1100"><br>
+
+                <font size="2">Figure 2: James' peer response to my initial post</font></center><br><br></font></center><br><br>
+                
+                As for Zhu, his response was:<br><br>
+                
+                <center><img src="img/knowledge_repr_and_reasoning/zhu_response.png" height="350" width="950"><br>
+
+                <font size="2">Figure 3: Zhu's peer response to my initial post</font></center></p><br><br>
+
+                Finally, Jaafar's response was:<br><br>
+                
+                <center><img src="img/knowledge_repr_and_reasoning/jaafar_response.png" height="500" width="1100"><br>
+
+                <font size="2">Figure 4: Jaafar's peer response to my initial post</font></center></p><br><br>
+
+
+            <h3 id="colab-22"><br>Summary post</h3>
+                <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+
+                <center><img src="img/knowledge_repr_and_reasoning/summary_post_disc1.png" height="600" width="1100"><br>
+                
+                <font size="2">Figure 5: My summary post in the first discussion forum</font></center></p><br><br>
+
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

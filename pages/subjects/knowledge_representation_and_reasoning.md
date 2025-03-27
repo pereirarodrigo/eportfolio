@@ -35,6 +35,8 @@
                 <li><a href="#colab-22">Summary post</a></li>
             </ul>
         </li>
+        <li><a href="#unit10-activity">Unit 10 Activity</a>
+        </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
@@ -573,9 +575,9 @@
             <h3 id="assess1-feedback"><br>Tutor feedback</h3>
                 <p>Dr. Samuel Danso's feedback allowed me to see the flaws in my report, such as the lack of reference-backed examples. His response was instrumental in allowing me to improve my report for the next assignment, and was as follows<br><br>
                 
-                <center><img src="img/understanding_ai/tutor_feedback_assign1.png" height="500" width="1200"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/tutor_feedback_assign1.png" height="550" width="1000"><br>
                 
-                <font size="2">Figure 9: Tutor feedback on the first assignment</font></center><br><br>
+                <font size="2">Figure 27: Tutor feedback on the first assignment</font></center><br><br>
                 
                 </p><br><br>
 

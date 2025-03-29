@@ -592,43 +592,43 @@
             
             <center><img src="img/knowledge_repr_and_reasoning/protege_uri.png" height="300" width="800"><br>
                 
-            <font size="2">Figure 10: The URI of the tutorial Protégé project</font></center><br><br>
+            <font size="2">Figure 28: The URI of the tutorial Protégé project</font></center><br><br>
 
             Subsequently, in exercise 2, preferences are defined for new entities and rendering, with "Render by entity IRI short name (ID)" is selected as the default entity rendering method.<br><br>
              
             <center><img src="img/knowledge_repr_and_reasoning/protege_renderer_tab.png" height="400" width="700"><br>
                 
-            <font size="2">Figure 11: The renderer tab in Protégé, highlighting the new preferences</font></center><br><br>
+            <font size="2">Figure 29: The renderer tab in Protégé, highlighting the new preferences</font></center><br><br>
 
             In exercise 3, an overview is given on how to add comment annotations to ontologies by using the <i>rdfs:comment</i> annotation. Additionally, creating named classes, the main building blocks of OWL-based ontologies, is introduced here.<br><br>
 
             <center><img src="img/knowledge_repr_and_reasoning/protege_named_classes.png" height="300" width="800"><br>
                 
-            <font size="2">Figure 12: The entities tab in Protégé, showing the "Pizza" entity</font></center><br><br>
+            <font size="2">Figure 30: The entities tab in Protégé, showing the "Pizza" entity</font></center><br><br>
 
             In exercise 4, the creation of classes is expanded upon and additional classes are created, such as "PizzaTopping" and "PizzaBase", both of which sit under "owl:Thing" alongside the previously created "Pizza" class. Additionally, a brief introduction is given to reasoners in Protégé, which essentially function as class consistency verifiers.<br><br>
             
             <center><img src="img/knowledge_repr_and_reasoning/protege_more_classes.png" height="300" width="800"><br>
                 
-            <font size="2">Figure 13: The entities tab in Protégé, showing the new "PizzaTopping" and "PizzaBase" entities</font></center><br><br>
+            <font size="2">Figure 31: The entities tab in Protégé, showing the new "PizzaTopping" and "PizzaBase" entities</font></center><br><br>
 
             Afterwards, in exercise 5, the reasoner concept is expanded upon as the Pellet Reasoner, a plugin, is installed and started. This will verify if the classes are consistent, and will run fairly quickly given the ontology is very small. Additionally, a brief commentary is provided on disjoint classes, a concept where an individual cannot be an instance of more than one of those classes.<br><br>
             
             <center><img src="img/knowledge_repr_and_reasoning/protege_reasoner_prefs.png" height="600" width="700"><br>
                 
-            <font size="2">Figure 14: The reasoner preferences tab in Protégé</font></center><br><br>
+            <font size="2">Figure 32: The reasoner preferences tab in Protégé</font></center><br><br>
 
             In exercise 6, the concept of disjoint classes is applied on the existing "PizzaTopping", "PizzaBase", and "Pizza" classes. This section also briefly introduces the class hierarchy creation section, showcasing its capability to create multiple classes at once.<br><br>
             
             <center><img src="img/knowledge_repr_and_reasoning/protege_disjoint.png" height="300" width="800"><br>
                 
-            <font size="2">Figure 15: The description of the "Pizza" class in Protégé, showing the classes it's disjoint with</font></center><br><br>
+            <font size="2">Figure 33: The description of the "Pizza" class in Protégé, showing the classes it's disjoint with</font></center><br><br>
 
             Finally, exercise 7 consists of using the class hierarchy creation functionality to create subclasses of "PizzaBase", resulting in the creation of "DeepPanBase" and "ThinAndCrispyBase". The creation of a more interesting hierarchy is also teased in this exercise.<br><br>
             
             <center><img src="img/knowledge_repr_and_reasoning/protege_hierarchy.png" height="500" width="700"><br>
                 
-            <font size="2">Figure 16: The new subclasses of "PizzaBase" in Protégé, which were created with the class hierarchy creation functionality</font></center></p><br><br>
+            <font size="2">Figure 34: The new subclasses of "PizzaBase" in Protégé, which were created with the class hierarchy creation functionality</font></center></p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
@@ -642,7 +642,7 @@
             
             <center><img src="img/knowledge_repr_and_reasoning/initial_post_2.png" height="600" width="1150"><br>
 
-            <font size="2">Figure 17: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
+            <font size="2">Figure 35: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
 
             
             <h3 id="colab-21"><br>Peer feedback</h3>
@@ -672,6 +672,43 @@
                 
                 <font size="2">Figure 5: My summary post in the first discussion forum</font></center></p><br><br>
 
+
+        <h2 id="unit10-activity">Unit 10 Activity</h2>
+            <p>The unit 10 activity consisted of doing the following:<br><br>
+
+            "<i>Read section 4.1.2 onwards of Debellis, M. (2021) A Practical Guide to Building OWL Ontologies Using Protégé 5.5 and Plugins.<br><br>
+
+            Then work through exercises 22-26.</i>"<br><br>
+
+            In exercise 22, Debelis, M. (2021) explores the creation of defined classes in Protégé by using the "VegetarianPizza" class as an example, outlining its usefulness of such a concept and potential pitfalls to be aware of, such as using intersections instead of unions. The class is subsequently transformed into a defined class.<br><br>
+
+            <center><img src="img/knowledge_repr_and_reasoning/protege_vegetarian_pizza.png" height="450" width="1100"><br>
+                
+            <font size="2">Figure 39: The "VegetarianPizza" subclass as a defined class</font></center><br><br>
+
+            In exercise 23, closure axioms are introduced and explored via the "hasTopping" property for the "MargheritaPizza" and "SohoPizza" classes. The concept of enumerated classes, which are powerful tools in object-oriented programming (OOP), is also touched upon here and which OWL as an ontology language borrows extensively from.<br><br> 
+            
+            <center><img src="img/knowledge_repr_and_reasoning/protege_closure_axioms.png" height="550" width="1100"><br>
+                
+            <font size="2">Figure 40: The use of closure axioms on the "MargheritaPizza" and "SohoPizza" classes</font></center><br><br>
+
+            In exercise 24, an enumerated class is used to represent the spiciness of a pizza through three individuals: "Hot", "Medium", and "Mild". The process is finalised by the reasoner after it's supplied the DL axiom <i>{Hot, Medium, Mild}</i>, which results all individuals becoming instances of Spiciness.<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/protege_enum_class.png" height="550" width="1100"><br>
+                
+            <font size="2">Figure 41: The use of closure axioms on the "MargheritaPizza" and "SohoPizza" classes</font></center><br><br>
+
+            In exercise 25, the property "hasSpiciness" is created and used. This property is applied to the "JalapenoPepperTopping" with the DL axiom <i>hasSpiciness value Hot</i>, and is, afterwards, used to create a new "Pizza" subclass for spicy pizzas, "SpicyPizza", which is converted into a defined class afterwards.<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/protege_spiciness.png" height="550" width="1100"><br>
+                
+            <font size="2">Figure 42: The new "JalapenoPepperTopping" subclass' information and the "SpicyPizza" subclass</font></center><br><br>
+
+            In exercise 26, the subclass "InterestingPizza" is created, which is comprised of at least three distinct toppings. Because of this definition, pizzas that are of the same type will be associated with "InterestingPizza" by the reasoner.<br><br> 
+
+            <center><img src="img/knowledge_repr_and_reasoning/protege_interesting_pizza.png" height="550" width="1100"><br>
+                
+            <font size="2">Figure 43: The "InterestingPizza" subclass</font></center><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

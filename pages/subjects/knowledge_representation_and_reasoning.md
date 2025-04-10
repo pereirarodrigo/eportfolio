@@ -37,6 +37,8 @@
         </li>
         <li><a href="#unit10-activity">Unit 10 Activity</a>
         </li>
+        <li><a href="#unit11-seminar-prep">Unit 11 Seminar Preparation</a>
+        </li>
         <li><a href="#assess2">Assessment: AI Solution Implementation</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
@@ -646,31 +648,25 @@
 
             
             <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>The peer responses from James Adams, Zhu Zhang, and Jaafar El Komati were instrumental in building upon my initial post. For James, his response was as follows:<br><br>
+                <p>The peer responses from Linga Murthy Kanuri and James Adams were instrumental in building upon my initial post. For James, his response was as follows:<br><br>
                 
-                <center><img src="img/knowledge_repr_and_reasoning/james_response.png" height="550" width="1100"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/murthy_response.png" height="550" width="1100"><br>
 
-                <font size="2">Figure 2: James' peer response to my initial post</font></center><br><br></font></center><br><br>
+                <font size="2">Figure 36: Murthy's peer response to my initial post</font></center><br><br></font></center><br><br>
                 
-                As for Zhu, his response was:<br><br>
+                As for James, his response was:<br><br>
                 
-                <center><img src="img/knowledge_repr_and_reasoning/zhu_response.png" height="350" width="950"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/james_response_2.png" height="450" width="1100"><br>
 
-                <font size="2">Figure 3: Zhu's peer response to my initial post</font></center></p><br><br>
-
-                Finally, Jaafar's response was:<br><br>
-                
-                <center><img src="img/knowledge_repr_and_reasoning/jaafar_response.png" height="500" width="1100"><br>
-
-                <font size="2">Figure 4: Jaafar's peer response to my initial post</font></center></p><br><br>
+                <font size="2">Figure 37: James' peer response to my initial post</font></center></p><br><br>
 
 
             <h3 id="colab-22"><br>Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
 
-                <center><img src="img/knowledge_repr_and_reasoning/summary_post_disc1.png" height="600" width="1100"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/summary_post_disc2.png" height="500" width="1100"><br>
                 
-                <font size="2">Figure 5: My summary post in the first discussion forum</font></center></p><br><br>
+                <font size="2">Figure 38: My summary post in the second discussion forum</font></center></p><br><br>
 
 
         <h2 id="unit10-activity">Unit 10 Activity</h2>
@@ -708,7 +704,23 @@
 
             <center><img src="img/knowledge_repr_and_reasoning/protege_interesting_pizza.png" height="550" width="1100"><br>
                 
-            <font size="2">Figure 43: The "InterestingPizza" subclass</font></center><br><br>
+            <font size="2">Figure 43: The "InterestingPizza" subclass</font></center></p><br><br>
+
+
+        <h2 id="unit11-seminar-prep">Unit 11 Seminar Preparation</h2>
+            <p>The unit 11 seminar preparation task consisted of the following activity:<br><br>
+            
+            <i>"In preparation for this seminar, read article by Bright, T.J., Furuya, E.Y., Kuperman, G.J., Cimino, J.J. & Bakken, S. (2012) Development and evaluation of an ontology for guiding appropriate antibiotic prescribing. Journal of biomedical informatics 45(1): 120-128.<br><br>
+
+            Reflect on the following:<br><br>
+
+                * The ontology design principles used.<br>
+                * Artefacts produced.<br>
+                * Method of ontology evaluation employed."</i><br><br>
+
+            Bright et al. (2012) employed a structured and methodical approach to ontology design, using a six-step process that began with defining the domain and scope and concluded with formal implementation in OWL via Protégé. Key design principles were informed by established guides, including Cimino’s Desiderata, which emphasized qualities like formal definitions, context representation, and polyhierarchy. They integrated domain knowledge from the Sanford Guide and local hospital guidelines, producing a middle-out ontology structure with 199 classes, 10 properties, and over 1600 DL restrictions. Notably, they used the Basic Formal Ontology (BFO) for upper-level consistency and RacerPro for automated reasoning, which supported logical classification.<br><br>
+
+            For evaluation, they conducted both intrinsic and extrinsic assessments. Internally, they validated correctness through expert reviews using the laddering technique and compared outcomes to ontology structures, confirming alignment with domain knowledge. Externally, they tested the ontology's utility in guiding antibiotic prescribing through SWRL rules and a custom-built alert system. Three types of alerts were created—antibiotic-pathogen mismatch, allergy alerts, and non-recommended empiric therapy. Feedback from clinicians indicated the system improved prescribing accuracy and patient safety, despite some usability concerns. Overall, the study showcases how ontologies, when properly developed and evaluated, can serve as robust foundations for clinical decision support.</p><br><br>
 
 
         <h2 id="assess2">Assessment: AI Application Solution</h2>

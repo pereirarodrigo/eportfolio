@@ -35,14 +35,12 @@
                 <li><a href="#colab-32">Summary post</a></li>
             </ul>
         </li>
-        <li><a href="#assess2">Assessment: AI Solution Implementation</a>
+        <li><a href="#assess2">Final Assessment: Development Individual Project: Presentation</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
             </ul>
         </li>
-        <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
-        </li>
-        <li><a href="#reflection">Reflective Piece</a>
+        <li><a href="#reflection">Final Reflective Piece</a>
         </li>
     </div>
 </div>
@@ -255,56 +253,40 @@
                 <font size="2">Figure 18: My summary post in the third discussion forum</font></center></p><br><br>
 
 
-        <h2 id="assess2">Assessment: AI Application Solution</h2>
-            <p>The second assignment was a direct continuation of the previous one. In this report, we had to come up with an experiment using one of the previously defined three key areas to demonstrate that our AI claims were achievable. My experiment focused on identifying fraudulent credit card transactions via machine learning (ML) algorithms, more specifically supervised learning approaches. To make the experiment as organised and reproducible as possible, the CRISP-DM process was employed.<br><br>
+        <h2 id="assess2">Final Assessment: Development Individual Project: Presentation</h2>
+            <p>The final assignment was a direct continuation of the previous, group-focused one. This time, we had to implement the solution we proposed in unit 6, complemented by a presentation that clearly detailed its relevance. Instead of reusing what I had built with my peers in the group assignment, I decided to restructure the project by emphasising explainability: thus, the Scalable Academic Goal-driven Explorer (SAGE) system was redone using symbolic methods instead of agentic AI, trading raw processing power for simplicity and accountability.<br><br>
 
-            <center><img src="https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png" height="500" width="600"><br>
+            <center><img src="img/intelligent_agents/symbolic_sage_diagram.png" height="400" width="1000"><br>
                 
-            <font size="2">Figure 10: The CRISP-DM process (<a href="https://www.sv-europe.com/crisp-dm-methodology/">Smart Vision Europe</a>)</font></center><br><br>
+            <font size="2">Figure 19: A diagram representing SAGE's overall functionalities in its symbolic form</font></center><br><br>
 
-            As such, the experiment focused on business understanding, data understanding and preparation, modelling and evaluation. Deployment was not addressed as it was out of scope, but recommendations were made when it comes to monitoring data and model drift.<br><br>
+            Additionally, SAGE was further enhanced via a Streamlit-based user interface. This allows users to interact with the system from a webpage, see results being fetched in real time and, should they desire it, clear the database entirely and start anew with fresh academic records.<br><br>
             
-            When it comes to the candidate models that were considered, the following research-backed options were evaluated:<br><br>
-            
-            a) J48 (decision tree);<br> 
-            b) Naive Bayes;<br>
-            c) Random forest;<br>
-            d) Logistic regression;<br>
-            e) Multilayer perceptron.<br><br>
-            
-            The models were trained and evaluated using stratified k-fold cross-validation, and the best-fit model underwent a limited hyperparameter tuning process to ascertain if it could be improved even further. 
-            
+            <center><img src="img/intelligent_agents/sage_interface.png" height="500" width="1000"><br>
+                
+            <font size="2">Figure 20: SAGE's Streamlit-based user interface</font></center><br><br>
+
+            The final project allowed us to apply everything we had learned during the module into a concrete solution, which not only had to emphasise its agent-based nature but also be a useful system in its own right. I believe that SAGE could very well stand on its own as an academic-driven solution, one that would allow researchers to delegate some of the time they use to search for academic references to a tool that can do it automatically.
+
             </p><br><br>
                 
 
             <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
+                <p>Dr. Stelios Sotiriadis' feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
                 
                 <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
                 
                 <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
                 
                 </p><br><br>
-        
-    
-        <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>
-            <p>The assignments were incredibly useful in demonstrating to students that, in industry (and even in academia), hard skills (such as programming) alone are not enough. Soft skills (such as communication) will always be required, especially for the following reasons:<br><br><br>
+
+
+        <h2 id="reflection">Final Reflective Piece</h2>
+            <p>The “Intelligent Agents” module has been a major milestone in my academic and technical growth. It offered a balanced combination of theory and application, encouraging not just passive understanding but active problem-solving. Transitioning from group collaboration to an individual development project gave me the freedom to rethink and redesign our original idea in a way that aligned with my interests, especially in explainability and modularity.<br><br>
             
-            a) <b>Technical barrier:</b> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
+            Redesigning SAGE using symbolic methods rather than agentic AI was a deliberate choice. It allowed me to focus on transparency and traceability over sheer complexity. Through this, I gained valuable experience in modular architecture, object-oriented design, and data validation. Integrating FastAPI and Streamlit also introduced me to practical tools that enhanced both the functionality and usability of the system. The inclusion of a testing suite further solidified my understanding of reliable, maintainable software development.<br><br>
 
-            b) <b>Politics:</b> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
-
-            c) <b>Collaboration:</b> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
-
-            d) <b>Conflict resolution:</b> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
-
-            </p><br><br>
-
-
-        <h2 id="reflection">Reflective Piece</h2>
-            <p>The "Understanding Artificial Intelligence" module was instrumental in not only introducing students to the world of AI, but also in enabling us to engage in meaningful and reference-backed discussions and conducting independent experiments. All of the tasks in the module required us to think independently and critically, evaluating all possible actions and outcomes in an impartial manner and choosing the best path based on the available constraints. The module was designed in such a way that it allowed even newcomers to the field to understand how complex implementing and maintaining AI systems is, both from technical and business perspectives.<br><br> 
-            
-            Additionally, the legal, ethical and professional principles behind AI are vast and were carefully addressed in the module, allowing students to grasp just how large of an impact this technology is making in modern society. This field is evolving in such a rapid pace that indiscriminate usage, both by individuals and companies alike, will result in substantial damage should it not be monitored and regulated effectively. Balancing this regulatory process will be important in allowing innovative creations to help shape the future of AI while blocking nefarious practices that may arise out of it.</p>
+            Beyond the technical aspects, the collaborative discussions throughout the module were instrumental in developing my critical thinking and communication skills. Engaging with peers, offering feedback, and refining my own ideas based on their input was both humbling and enriching. Overall, this module has strengthened my ability to build intelligent systems that are thoughtful, explainable, and grounded in real-world needs.</p>
     </div>
   </div>
 </div>

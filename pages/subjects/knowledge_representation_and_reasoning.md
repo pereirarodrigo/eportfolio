@@ -39,12 +39,10 @@
         </li>
         <li><a href="#unit11-seminar-prep">Unit 11 Seminar Preparation</a>
         </li>
-        <li><a href="#assess2">Assessment: AI Solution Implementation</a>
+        <li><a href="#assess2">Final Assessment: Modelling Assignment</a>
             <ul class="sect">
                 <li><a href="#assess2-feedback">Tutor feedback</a></li>
             </ul>
-        </li>
-        <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
         </li>
         <li><a href="#reflection">Reflective Piece</a>
         </li>
@@ -723,56 +721,34 @@
             For evaluation, they conducted both intrinsic and extrinsic assessments. Internally, they validated correctness through expert reviews using the laddering technique and compared outcomes to ontology structures, confirming alignment with domain knowledge. Externally, they tested the ontology's utility in guiding antibiotic prescribing through SWRL rules and a custom-built alert system. Three types of alerts were created—antibiotic-pathogen mismatch, allergy alerts, and non-recommended empiric therapy. Feedback from clinicians indicated the system improved prescribing accuracy and patient safety, despite some usability concerns. Overall, the study showcases how ontologies, when properly developed and evaluated, can serve as robust foundations for clinical decision support.</p><br><br>
 
 
-        <h2 id="assess2">Assessment: AI Application Solution</h2>
-            <p>The second assignment was a direct continuation of the previous one. In this report, we had to come up with an experiment using one of the previously defined three key areas to demonstrate that our AI claims were achievable. My experiment focused on identifying fraudulent credit card transactions via machine learning (ML) algorithms, more specifically supervised learning approaches. To make the experiment as organised and reproducible as possible, the CRISP-DM process was employed.<br><br>
-
-            <center><img src="https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png" height="500" width="600"><br>
+        <h2 id="assess2">Final Assessment: Modelling Assignment</h2>
+            <p>In the final assessment, we had to leverage all of our gained knowledge to implement an ontology in Protégé to tackle AI-driven job-matching. My solution, called Matchmaking Ontology for Relevant Employment (MORE), proposes a symbolic, ontology-based system that, while less computationally powerful than current state-of-the-art solutions, offers improved transparency, accountability, and traceability, addressing key ethical concerns associated with modern AI systems.<br><br>
+            
+            <center><img src="img/knowledge_repr_and_reasoning/more_diagram.png" height="200" width="1000"><br>
                 
-            <font size="2">Figure 10: The CRISP-DM process (<a href="https://www.sv-europe.com/crisp-dm-methodology/">Smart Vision Europe</a>)</font></center><br><br>
+            <font size="2">Figure 44: A diagram detailing MORE's classes and object properties</font></center><br><br>
 
-            As such, the experiment focused on business understanding, data understanding and preparation, modelling and evaluation. Deployment was not addressed as it was out of scope, but recommendations were made when it comes to monitoring data and model drift.<br><br>
-            
-            When it comes to the candidate models that were considered, the following research-backed options were evaluated:<br><br>
-            
-            a) J48 (decision tree);<br> 
-            b) Naive Bayes;<br>
-            c) Random forest;<br>
-            d) Logistic regression;<br>
-            e) Multilayer perceptron.<br><br>
-            
-            The models were trained and evaluated using stratified k-fold cross-validation, and the best-fit model underwent a limited hyperparameter tuning process to ascertain if it could be improved even further. 
+            Another objective was to make this ontology as simple as possible. As such, other than DL queries, MORE also leverages SWRL for a job-matching rule. This results in candidates being automatically tagged with fitting job postings as soon as the individual has the proper attributes.
+
+            <center><img src="img/knowledge_repr_and_reasoning/more_swrl_rule.png" height="400" width="1000"><br>
+                
+            <font size="2">Figure 45: MORE's "IdealCandidate" SWRL rule for automatic job-matching</font></center><br><br>
+
+            The final project allowed us to apply everything we had learned during the module into a concrete solution, which not only had to emphasise its ontology-based nature but also be a useful system in its own right. I believe that MORE could very well stand on its own as an recruitment-driven solution, albeit one that would benefit from integrations with more powerful systems due to weaknesses from the symbolic paradigm, such as the need for direct human intervention.
             
             </p><br><br>
                 
 
             <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
-                
-                <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
+                <p>
                 
                 </p><br><br>
-        
-    
-        <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>
-            <p>The assignments were incredibly useful in demonstrating to students that, in industry (and even in academia), hard skills (such as programming) alone are not enough. Soft skills (such as communication) will always be required, especially for the following reasons:<br><br><br>
-            
-            a) <b>Technical barrier:</b> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
-
-            b) <b>Politics:</b> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
-
-            c) <b>Collaboration:</b> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
-
-            d) <b>Conflict resolution:</b> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
-
-            </p><br><br>
 
 
         <h2 id="reflection">Reflective Piece</h2>
-            <p>The "Understanding Artificial Intelligence" module was instrumental in not only introducing students to the world of AI, but also in enabling us to engage in meaningful and reference-backed discussions and conducting independent experiments. All of the tasks in the module required us to think independently and critically, evaluating all possible actions and outcomes in an impartial manner and choosing the best path based on the available constraints. The module was designed in such a way that it allowed even newcomers to the field to understand how complex implementing and maintaining AI systems is, both from technical and business perspectives.<br><br> 
-            
-            Additionally, the legal, ethical and professional principles behind AI are vast and were carefully addressed in the module, allowing students to grasp just how large of an impact this technology is making in modern society. This field is evolving in such a rapid pace that indiscriminate usage, both by individuals and companies alike, will result in substantial damage should it not be monitored and regulated effectively. Balancing this regulatory process will be important in allowing innovative creations to help shape the future of AI while blocking nefarious practices that may arise out of it.</p>
+            <p>The Knowledge Representation and Reasoning module provided a comprehensive exploration into how symbolic systems can structure and interpret knowledge within AI. Through engaging with logic-based tools such as first-order logic, Prolog, and ontology development in Protégé, I gained a clearer understanding of how machines can emulate reasoning patterns. Activities such as the truth table exercises and the formalisation of paradoxes, like the barber's puzzle, challenged me to think with precision and to appreciate the foundational role of logic in knowledge processing. These tasks were instrumental in strengthening my problem-solving abilities and in deepening my respect for symbolic AI, especially in contexts where transparency and interpretability are essential.
+
+            Beyond the technical aspects, the collaborative discussions and peer feedback throughout the module helped me develop stronger academic communication skills. By responding to diverse viewpoints and refining my posts accordingly, I learned to articulate complex arguments more clearly and persuasively. The final assignment, where I built the MORE ontology for AI-driven recruitment, tied together all the concepts in a meaningful, applied way. Overall, the module has prepared me to approach knowledge-based systems not only as a programmer but also as a thinker—one who values the interplay between structure, reasoning, and real-world relevance.</p>
     </div>
   </div>
 </div>

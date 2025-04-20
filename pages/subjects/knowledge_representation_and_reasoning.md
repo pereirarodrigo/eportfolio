@@ -740,7 +740,11 @@
                 
 
             <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>
+                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved and was overall excellent, although there was room for further improvement when it came to providing more details on the evaluation methodology. His feedback was as follows:<br><br>
+                
+                <center><img src="img/knowledge_repr_and_reasoning/sammy_feedback.png" height="350" width="1200"><br>
+                
+                <font size="2">Figure 46: Tutor feedback on the second assignment</font></center><br><br>
                 
                 </p><br><br>
 

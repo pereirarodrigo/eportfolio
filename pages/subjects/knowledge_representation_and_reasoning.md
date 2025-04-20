@@ -728,9 +728,9 @@
                 
             <font size="2">Figure 44: A diagram detailing MORE's classes and object properties</font></center><br><br>
 
-            Another objective was to make this ontology as simple as possible. As such, other than DL queries, MORE also leverages SWRL for a job-matching rule. This results in candidates being automatically tagged with fitting job postings as soon as the individual has the proper attributes.
+            Another objective was to make this ontology as simple as possible. As such, other than DL queries, MORE also leverages SWRL for a job-matching rule. This results in candidates being automatically tagged with fitting job postings as soon as the individual has the proper attributes.<br><br>
 
-            <center><img src="img/knowledge_repr_and_reasoning/more_swrl_rule.png" height="400" width="1000"><br>
+            <center><img src="img/knowledge_repr_and_reasoning/more_swrl_rule.png" height="300" width="900"><br>
                 
             <font size="2">Figure 45: MORE's "IdealCandidate" SWRL rule for automatic job-matching</font></center><br><br>
 
@@ -739,10 +739,10 @@
             </p><br><br>
                 
 
-            <h3 id="assess2-feedback"><br>Tutor feedback</h3>
+            <h3 id="assess2-feedback">Tutor feedback</h3>
                 <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved and was overall excellent, although there was room for further improvement when it came to providing more details on the evaluation methodology. His feedback was as follows:<br><br>
                 
-                <center><img src="img/knowledge_repr_and_reasoning/sammy_feedback.png" height="350" width="1200"><br>
+                <center><img src="img/knowledge_repr_and_reasoning/sammy_feedback.png" height="500" width="1000"><br>
                 
                 <font size="2">Figure 46: Tutor feedback on the second assignment</font></center><br><br>
                 

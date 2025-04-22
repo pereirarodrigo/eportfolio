@@ -116,11 +116,11 @@
 
             <font size="2">Figure 7: SAGE's proposed system flow</font></center><br><br>
             
-            Ultimately, Haris submitted the project report almost a week before the deadline. The project itself, the quality of the submission, and the time taken for submission showcase how efficiently the team worked together and leveraged skills such as project and time management, academic writing, and criticality. Our report was well-received by Professor Stelios, whose feedback was as follows:<br><br>
+            Ultimately, Haris submitted the project report almost a week before the deadline. The project itself, the quality of the submission, and the time taken for submission showcase how efficiently the team worked together and leveraged skills such as project and time management, academic writing, and criticality. Our report was well-received by Professor Stelios Sotiriadis, whose feedback was as follows:<br><br>
             
             <center><img src="img/intelligent_agents/assignment1_tutor_feedback.png" height="700" width="1100"><br>
 
-            <font size="2">Figure 7: Professor Stelios' comments on our report, as well as the grade assignment</font></center></p><br><br>
+            <font size="2">Figure 7: Professor Stelios Sotiriadis' comments on our report, as well as the grade assignment</font></center></p><br><br>
             
 
         <h2 id="unit6-activity">Unit 6 Activity</h2>
@@ -135,7 +135,7 @@
                 
             Coding the requested interaction in KQML and KIF resulted in the following:<br><br>
             
-            <center><img src="img/intelligent_agents/kqml_activity.png" height="300" width="1000"><br>
+            <center><img src="img/intelligent_agents/kqml_activity.png" height="300" width="1100"><br>
 
             <font size="2">Figure 8: Agent dialogue using KQML and KIF</font></center></p><br><br>
 
@@ -272,11 +272,11 @@
                 
 
             <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Stelios Sotiriadis' feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
+                <p>Dr. Stelios Sotiriadis' feedback showed that SAGE had become a very robust system, excelling at what it was meant to do while offering a simplistic interface, while also offering me several areas of improvement, all of which would undoubtedly make SAGE an even more powerful and flexible system. His feedback was as follows:<br><br>
                 
-                <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
+                <center><img src="img/intelligent_agents/tutor_response.png" height="500" width="1000"><br>
                 
-                <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
+                <font size="2">Figure 21: Professor Stelios Sotiriadis' feedback on the final assignment</font></center><br><br>
                 
                 </p><br><br>
 

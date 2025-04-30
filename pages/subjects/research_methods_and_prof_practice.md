@@ -44,13 +44,67 @@
         <h2 id="reflective1">Reflective Activity 1: Ethics in Computing in the age of Generative AI</h2>
             <p>The first module assignment consisted of a reflective piece, which had to be elaborated according to the following:<br><br>
 
-            <i>"Read Correa et al. (2023) and Deckard (2023).<br><br>
+            <i>"Read Corrêa et al. (2023) and Deckard (2023).<br><br>
 
                 From late 2022, generative AI has taken the world by storm, and there is no field of activity that has not been impacted in some way. This is so much truer for Computer Science, which is where it all began. It is important to realise, however, that AI itself is nothing new, per se; and if the renaissance of the field after the ‘winter’ of the 1980s has been slow but constant, today there is the need of a different set of rules.<br><br>
 
-                In the Correa et al (2023) paper, the authors state that 'a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.'<br><br>
+                In the Corrêa et al (2023) paper, the authors state that 'a lot of work is taking place to define the values and ideas that should guide AI advances. A key challenge, however, lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse. Researchers and policy makers need better tools to catalogue and compare AI governance documents from around the world and to identify points of divergence and commonality.'<br><br>
 
                 After reviewing the article and reading how different countries across the world deal with the generative AI revolution, discuss your views on the subject and recommend what you think could be a suitable course of action. You should justify your stance by also reviewing any papers included in this study or other relevant literature (additional links to industry have been provided as ‘Other Resources’ to the module). Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues. Please note that there is no right or wrong answer here, this exercise is to help you evaluate the legal, social ethical and professional issues that affect computing professionals in industry."</i><br><br>
+
+            <strong>Evaluating AI Ethics and Governance in the Generative AI Era</strong><br><br>
+
+            The rapid ascent of generative AI, exemplified by models like ChatGPT, Midjourney, and AlphaCode, has triggered a global reckoning with the ethical, legal, social, and professional responsibilities surrounding artificial intelligence. The review by Corrêa et al. (2023), encompassing over 200 global AI ethics guidelines, and Richard Deckard’s concise overview (2023) both highlight the fragmented yet converging concerns nations share about this technological shift. Yet, despite growing consensus on ethical principles like transparency, accountability, and fairness, stark asymmetries in regulation, enforcement, and cultural framing persist.<br><br>
+
+            <strong>Global Ethical Convergence vs. Local Fragmentation</strong><br><br>
+
+            The study by Corrêa et al. (2023) reveals that most AI guidelines—irrespective of origin—emphasize five core principles: beneficence, non-maleficence, autonomy, justice, and explicability. These are echoed across regions, from the EU’s High-Level Expert Group on AI to Japan’s Social Principles of Human-Centric AI and Brazil’s Resolution No. 2/2021 on AI ethics. However, the actual implementation of these principles varies significantly. While the EU has made strides toward binding regulation with its AI Act, other regions like Latin America and parts of Asia rely primarily on non-binding guidelines or industry-led codes of conduct. This discrepancy creates ethical blind spots and legal uncertainty—especially when generative AI systems cross jurisdictional borders.<br><br>
+
+            For instance, a model trained in a lightly regulated country may later be deployed in stricter regions, raising concerns about imported biases, data privacy violations, or unvetted use cases. The lack of standardized global enforcement exacerbates the risk of AI misuse, especially in domains like facial recognition, disinformation generation, or synthetic media fraud.<br><br>
+
+            <strong>The Professional Dilemma: Between Innovation and Responsibility</strong><br><br>
+
+            From a professional standpoint, computing practitioners often find themselves at the crossroads of technical innovation and ethical uncertainty. While many developers are motivated by intellectual curiosity or economic incentives, the unintended consequences of generative AI—such as copyright infringement, misinformation propagation, and labor displacement, are rarely considered in early development cycles.<br><br>
+
+            Deckard (2023) argues that ethics must be embedded not just in regulation, but in professional culture. The British Computer Society, ACM, and IEEE, for example, emphasize that developers must actively mitigate harm, respect data privacy, and ensure inclusivity. Yet such ideals can be hard to uphold when commercial pressures prioritize speed and market dominance. Hence, a more deeply ingrained ethical mindset—beyond checklist compliance—is needed in technical education, hiring practices, and project management.
+
+            <strong>Recommended Course of Action</strong><br><br>
+            
+            Given this context, a multilayered governance approach is essential. I recommend the following actions:
+
+            <ul>
+            <li>
+                <strong>Mandatory Impact Assessments:</strong> any organization developing or deploying generative AI should be required to conduct socio-technical impact assessments—similar to data protection impact assessments under GDPR. These should cover risks like output bias, explainability gaps, dual-use misuse, and labor disruption.<br>
+            </li>
+            <li>
+                <strong>AI ethics by design:</strong> development pipelines should embed ethics as a first-class component, not an afterthought. This includes incorporating fairness metrics, model interpretability tools, and human-in-the-loop feedback from the earliest stages of model training.<br>
+            </li>
+            <li>
+                <strong>International harmonisation with cultural sensitivity:</strong> while global AI principles should converge on shared values (e.g., dignity, fairness), implementation must allow for cultural adaptation. For example, autonomy may carry different weight in collectivist societies compared to individualistic ones. This calls for globally aligned yet locally adaptable ethical frameworks.<br>
+            </li>
+            <li>
+                <strong>Legal backstops for high-risk AI:</strong> in line with the EU AI Act, any generative AI system with potential for significant harm (e.g., autonomous weapons, deceptive media generation, biometric surveillance) should be tightly regulated, with legal liabilities attached to both developers and deployers.<br>
+            </li>
+            <li>
+                <strong>Public AI literacy and feedback channels:</strong> ethical AI cannot succeed without public understanding and input. Educational programs and community feedback mechanisms should be institutionalized, especially in marginalized regions disproportionately affected by AI decisions.<br><br>
+            </li>
+            </ul>
+
+            <strong>Legal, Social, and Professional Impact</strong><br><br>
+
+            Legally, such actions would clarify developer liability, reduce regulatory arbitrage, and ensure user rights (such as opt-out mechanisms or contestable decisions) are enforceable. Socially, improved transparency and oversight could mitigate erosion of trust in digital media and democratic discourse. Professionally, computing practitioners would be held to higher accountability standards, which could shift hiring and certification practices to prioritize ethics and interdisciplinary knowledge.<br><br>
+
+            Crucially, these actions would not stifle innovation, but rather channel it toward socially constructive outcomes. Ethical rigor and technological advancement are not mutually exclusive—rather, they are complementary in ensuring that AI serves human flourishing.<br><br>
+
+            <strong>Conclusion</strong><br><br>
+
+            The global AI ethics landscape, while increasingly unified in language, remains divergent in practice. Bridging the gap between ethical intention and operational reality will require robust governance, professional responsibility, and active societal participation. Generative AI, with its creative potential and disruptive force, must be guided not just by what we can build, but by what we should.<br><br>
+
+            <strong>References</strong><br><br>
+
+            Corrêa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. and de Oliveira, N. (2023) 'Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance', <i>Patterns</i> 4(10), 100857. Available at: https://doi.org/10.1016/j.patter.2023.100857.<br><br>
+
+            Deckard, R. (2023) <i>What are ethics in AI?</i>. Available at: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ (Accessed: 30 April).</p><br><br>
 
 
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
@@ -131,9 +185,9 @@
         <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>
             <p>The collaborative learning discussions allowed me to engage with my peers in informative and respectful discussions regarding the proposed topics, thus contributing to my growth in two very important aspects:<br><br><br>
             
-            a) <b>Critical thinking:</b> The topics were, by nature, geared towards instigating students to work on identifying and addressing their positive and negative aspects. By the time that we had to take part in the second discussion forum, I was much more proficient at thinking critically and this skill only improved by the end of the second collaborative learning discussion;<br><br>
+            a) <strong>Critical thinking:</strong> The topics were, by nature, geared towards instigating students to work on identifying and addressing their positive and negative aspects. By the time that we had to take part in the second discussion forum, I was much more proficient at thinking critically and this skill only improved by the end of the second collaborative learning discussion;<br><br>
             
-            b) <b>Collaboration:</b> I interacted with several students' posts and directly addressed the content present in them. Not only did I agree or disagree as required but I also provided further material that could be of interest to my peers, such as articles and papers, thus collaborating with them in broadening our perspective of a given topic.<br><br>
+            b) <strong>Collaboration:</strong> I interacted with several students' posts and directly addressed the content present in them. Not only did I agree or disagree as required but I also provided further material that could be of interest to my peers, such as articles and papers, thus collaborating with them in broadening our perspective of a given topic.<br><br>
             
             </p><br><br>
 
@@ -145,11 +199,11 @@
 
             The report contained the positive and negative aspects behind AI adoption, the challenges involved in such an action (such as dataset gathering and infrastructure requirements) and the potential boons that could be unlocked by Orion should it make use of this technology responsibly and ethically. Three key areas were identified that could be significantly enhanced by AI adoption, which were:<br><br><br>
 
-            a) <b>Investment planning and execution</b>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
+            a) <strong>Investment planning and execution</strong>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
 
-            b) <b>Fraud detection</b>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
+            b) <strong>Fraud detection</strong>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
 
-            c) <b>Customer service</b>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
+            c) <strong>Customer service</strong>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
             
             </p><br><br>
             
@@ -199,13 +253,13 @@
         <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>
             <p>The assignments were incredibly useful in demonstrating to students that, in industry (and even in academia), hard skills (such as programming) alone are not enough. Soft skills (such as communication) will always be required, especially for the following reasons:<br><br><br>
             
-            a) <b>Technical barrier:</b> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
+            a) <strong>Technical barrier:</strong> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
 
-            b) <b>Politics:</b> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
+            b) <strong>Politics:</strong> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
 
-            c) <b>Collaboration:</b> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
+            c) <strong>Collaboration:</strong> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
 
-            d) <b>Conflict resolution:</b> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
+            d) <strong>Conflict resolution:</strong> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
 
             </p><br><br>
 

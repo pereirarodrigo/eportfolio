@@ -54,19 +54,19 @@
 
             <strong>Evaluating AI Ethics and Governance in the Generative AI Era</strong><br><br>
 
-            The rapid ascent of generative AI, exemplified by models like ChatGPT, Midjourney, and AlphaCode, has triggered a global reckoning with the ethical, legal, social, and professional responsibilities surrounding artificial intelligence. The review by Corrêa et al. (2023), encompassing over 200 global AI ethics guidelines, and Richard Deckard’s concise overview (2023) both highlight the fragmented yet converging concerns nations share about this technological shift. Yet, despite growing consensus on ethical principles like transparency, accountability, and fairness, stark asymmetries in regulation, enforcement, and cultural framing persist.<br><br>
+            The rapid ascent of generative AI, exemplified by models like ChatGPT, Midjourney, and AlphaCode, has triggered a global reckoning with the ethical, legal, social, and professional responsibilities surrounding artificial intelligence. The review by Corrêa et al. (2023), encompassing over 200 global AI ethics guidelines, and Deckard’s concise overview (2023) both highlight the fragmented yet converging concerns nations share about this technological shift. Yet, despite growing consensus on ethical principles like transparency, accountability, and fairness, stark asymmetries in regulation, enforcement, and cultural framing persist.<br><br>
 
             <strong>Global Ethical Convergence vs. Local Fragmentation</strong><br><br>
 
-            The study by Corrêa et al. (2023) reveals that most AI guidelines—irrespective of origin—emphasize five core principles: beneficence, non-maleficence, autonomy, justice, and explicability. These are echoed across regions, from the EU’s High-Level Expert Group on AI to Japan’s Social Principles of Human-Centric AI and Brazil’s Resolution No. 2/2021 on AI ethics. However, the actual implementation of these principles varies significantly. While the EU has made strides toward binding regulation with its AI Act, other regions like Latin America and parts of Asia rely primarily on non-binding guidelines or industry-led codes of conduct. This discrepancy creates ethical blind spots and legal uncertainty—especially when generative AI systems cross jurisdictional borders.<br><br>
+            The study by Corrêa et al. (2023) reveals that most AI guidelines—irrespective of origin—emphasize five core principles: beneficence, non-maleficence, autonomy, justice, and explicability. These are echoed across regions, from the EU’s High-Level Expert Group on AI (European Commission, 2024) to Japan’s Social Principles of Human-Centric AI (Cabinet Secretariat, 2019) and Brazil’s PL 2338/2023 on AI national strategy (UNESCO, N.D.). However, the actual implementation of these principles varies significantly. While the EU has made strides toward binding regulation with its AI Act, other regions like Latin America and parts of Asia rely primarily on non-binding guidelines or industry-led codes of conduct. This discrepancy creates ethical blind spots and legal uncertainty, especially when generative AI systems cross jurisdictional borders.<br><br>
 
             For instance, a model trained in a lightly regulated country may later be deployed in stricter regions, raising concerns about imported biases, data privacy violations, or unvetted use cases. The lack of standardized global enforcement exacerbates the risk of AI misuse, especially in domains like facial recognition, disinformation generation, or synthetic media fraud.<br><br>
 
             <strong>The Professional Dilemma: Between Innovation and Responsibility</strong><br><br>
 
-            From a professional standpoint, computing practitioners often find themselves at the crossroads of technical innovation and ethical uncertainty. While many developers are motivated by intellectual curiosity or economic incentives, the unintended consequences of generative AI—such as copyright infringement, misinformation propagation, and labor displacement, are rarely considered in early development cycles.<br><br>
+            From a professional standpoint, computing practitioners often find themselves at the crossroads of technical innovation and ethical uncertainty. While many developers are motivated by intellectual curiosity or economic incentives, the unintended consequences of generative AI, such as copyright infringement, misinformation propagation, and labor displacement, are rarely considered in early development cycles. Therefore, many ethical concerns in AI arise when a particular system is already available for use, thus making the propagation of such undesired effects almost inevitable.<br><br>
 
-            Deckard (2023) argues that ethics must be embedded not just in regulation, but in professional culture. The British Computer Society, ACM, and IEEE, for example, emphasize that developers must actively mitigate harm, respect data privacy, and ensure inclusivity. Yet such ideals can be hard to uphold when commercial pressures prioritize speed and market dominance. Hence, a more deeply ingrained ethical mindset—beyond checklist compliance—is needed in technical education, hiring practices, and project management.
+            Deckard (2023) argues that ethics must be embedded not just in regulation, but in professional culture. The British Computer Society (British Computer Society, 2024), ACM (ACM, 2018), and IEEE (IEEE Standards Association, 2023), for example, emphasize that developers must actively mitigate harm, respect data privacy, and ensure inclusivity. Yet such ideals can be hard to uphold when commercial pressures prioritize speed and market dominance. Hence, a more deeply ingrained ethical mindset—beyond checklist compliance—is needed in technical education, hiring practices, and project management.
 
             <strong>Recommended Course of Action</strong><br><br>
             
@@ -74,16 +74,16 @@
 
             <ul>
             <li>
-                <strong>Mandatory Impact Assessments:</strong> any organization developing or deploying generative AI should be required to conduct socio-technical impact assessments—similar to data protection impact assessments under GDPR. These should cover risks like output bias, explainability gaps, dual-use misuse, and labor disruption.<br>
+                <strong>Mandatory Impact Assessments:</strong> any organization developing or deploying generative AI should be required to conduct socio-technical impact assessments—similar to data protection impact assessments under GDPR. These should cover risks like output bias, explainability gaps, dual-use misuse, and labor disruption.<br><br>
             </li>
             <li>
-                <strong>AI ethics by design:</strong> development pipelines should embed ethics as a first-class component, not an afterthought. This includes incorporating fairness metrics, model interpretability tools, and human-in-the-loop feedback from the earliest stages of model training.<br>
+                <strong>AI ethics by design:</strong> development pipelines should embed ethics as a first-class component, not an afterthought. This includes incorporating fairness metrics, model interpretability tools, and human-in-the-loop feedback from the earliest stages of model training.<br><br>
             </li>
             <li>
-                <strong>International harmonisation with cultural sensitivity:</strong> while global AI principles should converge on shared values (e.g., dignity, fairness), implementation must allow for cultural adaptation. For example, autonomy may carry different weight in collectivist societies compared to individualistic ones. This calls for globally aligned yet locally adaptable ethical frameworks.<br>
+                <strong>International harmonisation with cultural sensitivity:</strong> while global AI principles should converge on shared values (e.g., dignity, fairness), implementation must allow for cultural adaptation. For example, autonomy may carry different weight in collectivist societies compared to individualistic ones. This calls for globally aligned yet locally adaptable ethical frameworks.<br><br>
             </li>
             <li>
-                <strong>Legal backstops for high-risk AI:</strong> in line with the EU AI Act, any generative AI system with potential for significant harm (e.g., autonomous weapons, deceptive media generation, biometric surveillance) should be tightly regulated, with legal liabilities attached to both developers and deployers.<br>
+                <strong>Legal backstops for high-risk AI:</strong> in line with the EU AI Act, any generative AI system with potential for significant harm (e.g., autonomous weapons, deceptive media generation, biometric surveillance) should be tightly regulated, with legal liabilities attached to both developers and deployers.<br><br>
             </li>
             <li>
                 <strong>Public AI literacy and feedback channels:</strong> ethical AI cannot succeed without public understanding and input. Educational programs and community feedback mechanisms should be institutionalized, especially in marginalized regions disproportionately affected by AI decisions.<br><br>
@@ -104,7 +104,19 @@
 
             Corrêa, N.K., Galvão, C., Santos, J.W., Del Pino, C., Pinto, E.P., Barbosa, C., Massmann, D., Mambrini, R., Galvão, L., Terem, E. and de Oliveira, N. (2023) 'Worldwide AI ethics: A review of 200 guidelines and recommendations for AI governance', <i>Patterns</i> 4(10), 100857. Available at: https://doi.org/10.1016/j.patter.2023.100857.<br><br>
 
-            Deckard, R. (2023) <i>What are ethics in AI?</i>. Available at: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ (Accessed: 30 April).</p><br><br>
+            Deckard, R. (2023) <i>What are ethics in AI?</i>. Available at: https://www.bcs.org/articles-opinion-and-research/what-are-ethics-in-ai/ (Accessed: 30 April 2025).<br><br>
+            
+            European Commission. (2024) <i>High-level expert group on artificial intelligence</i>. Available at: https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai (Accessed: 1 May 2025).<br><br>
+            
+            Cabinet Secretariat. (2019) <i>Social Principles of Human-Centric AI</i>. Available at: https://www.cas.go.jp/jp/seisaku/jinkouchinou/pdf/humancentricai.pdf (Accessed: 1 May 2025).<br><br>
+            
+            UNESCO. (N.D.) <i>Brazil: Country profile capturing the sociotechnical landscape of AI in Brazil, drawing from both publicly available data and the completed Readiness Assessment Methodology (RAM)</i>. Available at: https://www.unesco.org/ethics-ai/en/brazil (Accessed: 1 May 2025).<br><br>
+            
+            British Computer Society. (2024) <i>Understanding the Role of Ethics in the Responsible Use of AI</i>. Available at: https://www.bcs.org/media/u4whsvfv/ai-pathway-role-ethics-syllabus.pdf (Accessed: 1 May 2025).<br><br>
+            
+            ACM. (2018) <i>ACM Code of Ethics and Professional Conduct</i>. Available at: https://www.acm.org/code-of-ethics (Accessed: 1 May 2025).<br><br>
+            
+            IEEE Standards Association. (2023) <i>IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards</i>. Available at: https://standards.ieee.org/news/get-program-ai-ethics/ (Accessed: 1 May 2025).</p><br><br>
 
 
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>

@@ -120,18 +120,21 @@
 
 
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
-            <p>The first collaborative learning discussion served as an introduction for students when it comes to discussing themes related to AI. For it, we had the following topic to elaborate on:<br><br>
+            <p>The first collaborative learning discussion served as a way for students to warm up to the module by discussing about ethics and codes of conduct in AI. For it, we had the following topic to elaborate on:<br><br>
             
-            "<i>Discuss why Artificial Intelligence is now ubiquitous and why it is important for companies to invest in Artificial Intelligence technologies. <br><br>
+            "<i>Pick a case study from the examples provided by the Association of Computing Machinery (ACM).<br><br>
 
-            Your discussion could consider/identify:<br><br>
-                
-                a) A typical company or industry that employs AI technologies, as well as the nature of the business to set the context for the discussion.<br>
-                b) The economic benefits to the company or industry, and other implications of using Artificial Intelligence (AI) technology.<br><br>
+            Review the application of the ethics code to the situation described and highlight the impact on any relevant legal (jurisdictional or non-jurisdictional) and social issues, as well as on the professionalism of the computing professionals involved. You should provide comparisons to the British Computer Society (BCS) Code of Conduct.<br><br>
 
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This activity will provide evidence of your personal growth."</i><br><br>
+            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (including journals, books, and reports). This activity will provide evidence of your personal growth and your summary post is required in your e-portfolio.<br><br>
 
-            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "The impact of artificial intelligence-driven consulting companies", discussed the organizational and ethical impact of consulting companies that make heavy use of AI, to the point of being considered AI-driven.</p><br><br>
+            Your initial posting should respond to the question and be at least 200 words long. Your initial post should be labelled 'initial post'."</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 3 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Death Machines - The Ethics of Autonomous Weapons", was as follows:<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/initial_post.png" height="600" width="1200"><br>
+
+            <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>

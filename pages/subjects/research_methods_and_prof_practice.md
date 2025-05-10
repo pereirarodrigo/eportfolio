@@ -138,13 +138,13 @@
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>
-                <p>The peer responses from Mateusz Niewczas and Guilherme Pessoa-Amorim, two of my peers, were instrumental in building upon my initial post. For Mateusz, his response was as follows.<br><br>
+                <p>The peer responses from Stephanie Irina and <WIP>, two of my peers, were instrumental in building upon my initial post. For Stephanie, her response was as follows.<br><br>
                 
-                <center><img src="img/understanding_ai/mateusz_disc1.png" height="400" width="1200"><br>
+                <center><img src="img/research_methods_and_prof_prac/stephanie_disc1.png" height="600" width="1200"><br>
 
-                <font size="2">Figure 1: Mateusz's peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 1: Stephanie's peer response to my initial post</font></center><br><br>
 
-                As for Guilherme, his response was the following:<br><br><br>
+                As for <WIP>, his response was the following:<br><br><br>
 
                 <center><img src="img/understanding_ai/guilherme_disc1.png" height="700" width="1200"><br>
                 

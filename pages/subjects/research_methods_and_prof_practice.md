@@ -3,34 +3,36 @@
 <ul class="summary">
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#reflective1">Reflective Activity 1: Ethics in Computing in the age of Generative AI</a></li>
-        <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
-            <ul class="sect">
-                <li><a href="#colab-11">Peer feedback</a></li>
-                <li><a href="#colab-12">Summary post</a></li>
-            </ul>
-        </li>
-        <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
-            <ul class="sect">
-                <li><a href="#colab-21">Peer feedback</a></li>
-                <li><a href="#colab-22">Summary post</a></li>
-            </ul>
-        </li>
-        <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
-        </li>
-        <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
-            <ul class="sect">
-                <li><a href="#assess1-feedback">Tutor feedback</a></li>
-            </ul>
-        </li>
-        <li><a href="#assess2">Assessment: AI Solution Implementation</a>
-            <ul class="sect">
-                <li><a href="#assess2-feedback">Tutor feedback</a></li>
-            </ul>
-        </li>
-        <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
-        </li>
-        <li><a href="#reflection">Reflective Piece</a>
-        </li>
+    <li><a href="#eportfolio1">e-Portfolio Activity: Literature Review and Research Proposal Outlines</a></li>
+    <li><a href="#colab-1">Collaborative Learning Discussion 1</a>
+        <ul class="sect">
+            <li><a href="#colab-11">Peer feedback</a></li>
+            <li><a href="#colab-12">Summary post</a></li>
+        </ul>
+    </li>
+    <li><a href="#eportfolio2">e-Portfolio Activity: Research Proposal Review</a></li>
+    <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
+        <ul class="sect">
+            <li><a href="#colab-21">Peer feedback</a></li>
+            <li><a href="#colab-22">Summary post</a></li>
+        </ul>
+    </li>
+    <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
+    </li>
+    <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
+        <ul class="sect">
+            <li><a href="#assess1-feedback">Tutor feedback</a></li>
+        </ul>
+    </li>
+    <li><a href="#assess2">Assessment: AI Solution Implementation</a>
+        <ul class="sect">
+            <li><a href="#assess2-feedback">Tutor feedback</a></li>
+        </ul>
+    </li>
+    <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
+    </li>
+    <li><a href="#reflection">Reflective Piece</a>
+    </li>
 </div>
 
 <main class="summaryContent">
@@ -119,6 +121,18 @@
             IEEE Standards Association. (2023) <i>IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards</i>. Available at: https://standards.ieee.org/news/get-program-ai-ethics/ (Accessed: 1 May 2025).</p><br><br>
 
 
+        <h2 id="eportfolio1">e-Portfolio Activity: Literature Review and Research Proposal Outlines</h2>
+            <p>The first e-portfolio activity consisted of the following:<br><br>
+            
+            <i>"Start planning your literature review based on your chosen topic from the list provided in unit 1. Your outline of the literature review can be submitted for formative feedback in unit 4 before final submission in unit 7. You can use the guidance document for the outline submission, and to prepare your review.<br><br>
+
+            You should also take some time to consider your research proposal which could be based around the area you have chosen to investigate in your literature review or the topic of your capstone project (MSc students). Your outline of the proposal can be submitted for formative feedback in unit 8 before final submission in unit 10. Units 8 and 9 will be focussed on analysing data which, along with research methods, will also need to be considered in your presentation."</i><br><br>
+
+            My literature review, titled "Uplifting Voices: Technology as a Means of Language Preservation", will be focused on exploring how technology, especially artificial intelligence-related methods, can be used to not only ensure the continued relevance of minority languages but also safeguard their future via preservation in digital form. The outline will be submitted for formative feedback in unit 4.<br><br>
+
+            As for my capstone project, it's titled "Simulating Risk-Based Decision-Making and Dopaminergic Dysfunctions Using Hierarchical Reinforcement Learning". In it, I aim to develop a prototype system that can simulate risk-based decision making with dopaminergetic stimuli, as well as dopamine depletion and overactivity, in a gambling scenario by leveraging hierarchical reinforcement learning. The outline will be submitted for formative feedback in unit 8.</p><br><br>
+
+
         <h2 id="colab-1">Collaborative Learning Discussion 1</h2>
             <p>The first collaborative learning discussion served as a way for students to warm up to the module by discussing about ethics and codes of conduct in AI. For it, we had the following topic to elaborate on:<br><br>
             
@@ -158,8 +172,30 @@
                 
                 <font size="2">Figure 3: My summary post in the first discussion forum</font></center><br><br>
 
+        
+        <h2 id="eportfolio2">e-Portfolio Activity: Research Proposal Review</h2>
+            <p>The second e-portfolio activity consisted of the following:<br><br>
 
-        <h2 id="colab-2"><br>Collaborative Learning Discussion 2</h2>
+            <i>"Considering your thoughts on your chosen area of interest for your project:<br>
+
+            <ul>
+                <li>Which of the methods described in this week's reading would you think would suit your purpose?</li>
+                <li>Which data collection methods would you consider using?</li>
+                <li>Which required skills will you need to have or develop for the chosen project?</li>
+            </ul>
+
+            Note that you may find that you could be using a mixture of both the research methods and the data collection methods. These considerations will be included in your presentation of the Project Proposal in unit 10."</i><br><br>
+
+            The method that would best suit my purpose with my research proposal is "cognitive task analysis", a psychological method which aims to explain the mental processes, such as decision-making, problem solving, attention and judgment, involved in processing a task (Sage, 2021). As for the data collection methods I'd consider using, they'd mostly revolve around psychometrics, which is defined by Sage (2021) as the application of mathematical principles to the measurement of psychological constructs. Finally, for the skills I'll need to have or develop for the chosen project, they'd mostly constituted by reinforcement learning, psychology, cognitive modelling, and computational neuroscience.<br><br>
+
+            <strong>References</strong><br><br>
+
+            Sage. (2021) <i>Sage Research Methods: Cognitive task analysis</i>. Available at: https://methods.sagepub.com/methods-map/cognitive-task-analysis (Accessed: 11 May 2025).<br><br>
+            
+            Sage. (2021) <i>Sage Research Methods: Psychometrics</i>. Available at: https://methods.sagepub.com/methods-map/psychometrics (Accessed: 11 May 2025)./p><br><br>
+
+
+        <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
             <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
 
             <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>

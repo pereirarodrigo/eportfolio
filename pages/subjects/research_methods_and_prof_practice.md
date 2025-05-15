@@ -11,6 +11,7 @@
         </ul>
     </li>
     <li><a href="#eportfolio2">e-Portfolio Activity: Research Proposal Review</a></li>
+    <li><a href="#unit3-seminar-prep">Unit 3 Seminar Preparation</a>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
             <li><a href="#colab-21">Peer feedback</a></li>
@@ -192,7 +193,46 @@
 
             Sage. (2021) <i>Sage Research Methods: Cognitive task analysis</i>. Available at: https://methods.sagepub.com/methods-map/cognitive-task-analysis (Accessed: 11 May 2025).<br><br>
             
-            Sage. (2021) <i>Sage Research Methods: Psychometrics</i>. Available at: https://methods.sagepub.com/methods-map/psychometrics (Accessed: 11 May 2025)./p><br><br>
+            Sage. (2021) <i>Sage Research Methods: Psychometrics</i>. Available at: https://methods.sagepub.com/methods-map/psychometrics (Accessed: 11 May 2025).</p><br><br>
+
+
+        <h2 id="unit3-seminar-prep">Unit 3 Seminar Preparation</h2>
+            <p>The third seminar preparation activity consisted of the following:<br><br>
+            
+            <i>"In preparation for this week’s seminar, you will need to source at least 2 papers in a Computing subject of your choice (AI, Cybersecurity, Data Science, or Computer Science), provided they utilise two different types of research methods. Now answer the following questions:<br>
+
+            <ul> 
+                <li>Familiarise yourself with the purpose, problem, objective or research question of each paper. Are they in line with your experience or thoughts on the topic, contributing to the collective body of knowledge in this area?</li> 
+                <li>Is the research methodology utilised in each paper appropriate for the stated purpose or question?</li> 
+                <li>In terms of data collection and analysis, is this also appropriate for the stated purpose or question?</li> <li>Does each paper support its claims and conclusions with explicit arguments or evidence?</li> 
+                <li>How would you enhance the work/paper?</li> 
+            </ul>
+            
+            Be prepared to discuss your findings in the seminar session."</i><br><br>
+
+            For this activity, I selected two papers within the AI field that utilize different research methodologies: one empirical and one theoretical.<br><br>
+
+            <strong>Paper 1:</strong> "Emergent Abilities of Large Language Models" by Jason Wei et al. (2022).<br><br>
+
+            The purpose of this paper was to investigate whether large language models (LLMs) exhibit emergent capabilities not present in smaller models. The problem addressed is the unpredictability of model scaling, where qualitative leaps in performance ("emergence") occur. Their objective was to systematically analyse this phenomenon across various tasks. This aligns well with my experience in AI, particularly in observing how LLMs behave unpredictably at scale. It contributes significantly to understanding scaling laws and emergent behaviours.<br><br>
+
+            The chosen methodology was empirical experimentation, which is highly appropriate given the need to benchmark LLM performance across scales. Data collection was done using standard benchmark datasets (e.g., MMLU, HumanEval), and analysis involved plotting performance against model size, making it suitable for the research aim.<br><br>
+
+            The authors supported their claims with clear empirical evidence, performance graphs, and statistical analysis, making their conclusions well-founded. To enhance the paper, I would suggest expanding the task variety beyond QA and coding tasks, adding interpretability studies to explore the causes of emergent behaviour, and conducting cross-architecture comparisons.<br><br>
+
+            <strong>Paper 2:</strong> "A Formal Definition of General Intelligence" by Shane Legg & Marcus Hutter (2007).<br><br>
+
+            This paper aimed to provide a rigorous, mathematical definition of general intelligence, addressing the lack of a universal formalisation. Their objective was to define intelligence based on an agent's ability to achieve goals across diverse environments. This resonates with my interests in AI and cognitive science, offering a foundational contribution to the field.<br><br>
+
+            The methodology was theoretical and analytical, relying on algorithmic information theory, Solomonoff induction, and Kolmogorov complexity. This approach was appropriate as the research problem required formalisation rather than empirical validation. Data collection was not applicable; instead, formal proofs and deductive reasoning formed the basis of analysis, which is fitting for the study's goals.<br><br>
+
+            The paper's claims are thoroughly supported through logical arguments and mathematical derivations. To enhance this work, empirical approximations using modern AI agents could be explored to test the formal intelligence measures. Additionally, expanding the definition to include embodied and multi-modal intelligence in the context of modern AI developments would be valuable.<br><br>
+
+            <strong>References</strong><br><br>
+
+            Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Le, Q. V. (2022) <i>Emergent abilities of large language models</i>. arXiv preprint arXiv:2206.07682. Available at: https://arxiv.org/abs/2206.07682 (Accessed: 15 May 2025).<br><br>
+
+            Legg, S. and Hutter, M. (2007) <i>A collection of definitions of intelligence</i>. Frontiers in Artificial Intelligence and Applications, 157, pp.17-24. Available at: https://arxiv.org/abs/0706.3639 (Accessed: 15 May 2025).</p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>

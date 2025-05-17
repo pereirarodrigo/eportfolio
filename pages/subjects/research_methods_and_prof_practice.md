@@ -153,25 +153,31 @@
 
             
             <h3 id="colab-11"><br>Peer feedback</h3>
-                <p>The peer responses from Stephanie Irina and <WIP>, two of my peers, were instrumental in building upon my initial post. For Stephanie, her response was as follows.<br><br>
+                <p>The peer responses from Stephanie Irina, Ali Alzahmi, and Fahad Abdallah, three of my peers, were instrumental in building upon my initial post. For Stephanie, her response was as follows.<br><br>
                 
-                <center><img src="img/research_methods_and_prof_prac/stephanie_disc1.png" height="600" width="1200"><br>
+                <center><img src="img/research_methods_and_prof_prac/stephanie_disc1.png" height="650" width="1200"><br>
 
                 <font size="2">Figure 1: Stephanie's peer response to my initial post</font></center><br><br>
 
-                As for <WIP>, his response was the following:<br><br><br>
+                As for Ali, his response was the following:<br><br>
 
-                <center><img src="img/understanding_ai/guilherme_disc1.png" height="700" width="1200"><br>
+                <center><img src="img/research_methods_and_prof_prac/ali_disc1.png" height="550" width="1200"><br>
                 
-                <font size="2">Figure 2: Guilherme's peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 2: Ali's peer response to my initial post</font></center><br><br>
+
+                Finally, for Fahad, his respose was as follows:<br><br>
+
+                <center><img src="img/research_methods_and_prof_prac/fahad_disc1.png" height="550" width="1200"><br>
+                
+                <font size="2">Figure 3: Fahad's peer response to my initial post</font></center></p><br><br>
 
 
             <h3 id="colab-12"><br>Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
 
-                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
+                <center><img src="img/research_methods_and_prof_prac/summary_post_disc1.png" height="600" width="1200"><br>
                 
-                <font size="2">Figure 3: My summary post in the first discussion forum</font></center><br><br>
+                <font size="2">Figure 4: My summary post in the first discussion forum</font></center></p><br><br>
 
         
         <h2 id="eportfolio2">e-Portfolio Activity: Research Proposal Review</h2>

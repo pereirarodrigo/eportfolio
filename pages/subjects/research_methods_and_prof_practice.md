@@ -12,6 +12,7 @@
     </li>
     <li><a href="#eportfolio2">e-Portfolio Activity: Research Proposal Review</a></li>
     <li><a href="#unit3-seminar-prep">Unit 3 Seminar Preparation</a>
+    <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
             <li><a href="#colab-21">Peer feedback</a></li>
@@ -239,6 +240,38 @@
             Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Le, Q. V. (2022) <i>Emergent abilities of large language models</i>. arXiv preprint arXiv:2206.07682. Available at: https://arxiv.org/abs/2206.07682 (Accessed: 15 May 2025).<br><br>
 
             Legg, S. and Hutter, M. (2007) <i>A collection of definitions of intelligence</i>. Frontiers in Artificial Intelligence and Applications, 157, pp.17-24. Available at: https://arxiv.org/abs/0706.3639 (Accessed: 15 May 2025).</p><br><br>
+
+
+        <h2 id="unit4-seminar-prep">Unit 4 Seminar Preparation</h2>
+            <p>The fourth seminar preparation activity consisted of the following:<br><br>
+
+            <i>"Please read the case below and answer the questions. You need to determine the ethical issues involved with this case.<br><br>
+
+            <strong>The Case</strong><br><br>
+
+            Ricardo works for the records department of his local government as a computer records clerk, where he has access to files of property tax records. For a scientific study, a researcher, Beth, has been granted access to the numerical portion “but not the corresponding names” of some records.<br><br>
+
+            Beth finds some information that she would like to use, but she needs the names and addresses corresponding with certain properties. Beth asks Ricardo to retrieve these names and addresses, so she can contact these people for more information and for permission to do further study.<br><br>
+
+            Now consider, what are the ethical issues involved in deciding which of these options to pursue?
+
+            <ul>
+                <li>If Ricardo is not responsible for determining allowable access, should he release the names and addresses?</li>
+                <li>Suppose Ricardo were responsible for determining allowable access to the files. What ethical issues would be involved in his deciding whether to grant access to Beth?</li>
+                <li>Should Beth be allowed to contact the individuals involved? That is, should the Records department release individuals' names to a researcher? What are the ethical issues for the Records department to consider?</li>
+                <li>Suppose Beth contacts the individuals to ask their permission, and one-third of them respond giving permission, one-third respond denying permission, and one-third do not respond. Beth claims that at least one-half of the individuals are needed to make a valid study. What options are available to Beth?</li>
+            </ul>
+            
+            Be prepared to discuss your answers during the seminar session."</i><br><br>
+
+            Considering the topic and questions presented, here are the following issues with each option:<br><br>
+
+            <ul>
+                <li>If Ricardo is not responsible for determining allowable access, he should not release the names and addresses. As this is not his responsibility, he should escalate Beth's request to his manager so that the right individual, and procedures, can be identified.</li>
+                <li>Ricardo would need to be very careful with what kind of information he is going to grant Beth access to. He'd need to comply with local data laws and, as names and addresses are sensitive information, people whose information is granted to the researcher could have their privacy compromised.</li>
+                <li>Beth should contact the individuals only if there is express authorisation for this. Suddenly reaching out to people who have no idea about her research could be seen very negatively, and even as a breach of privacy. Ultimately, the Records department should release individuals' names only if it's allowed by law and there is a clause that allows them to, which all individuals must consent to as well.</li>
+                <li>Beth could try reaching out to other organisations to verify if they have similar records and, crucially, she has express authorisation to reach out to individuals in their records. In the worst case scenario, she would need to simplify her study with sampling methods given the viable population number would not be met.</li>
+            </ul></p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>

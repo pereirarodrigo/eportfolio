@@ -13,6 +13,7 @@
     <li><a href="#eportfolio2">e-Portfolio Activity: Research Proposal Review</a></li>
     <li><a href="#unit3-seminar-prep">Unit 3 Seminar Preparation</a>
     <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
+    <li><a href="#eportfolio3">e-Portfolio Activity: Reflective Activity 2</a></li>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
             <li><a href="#colab-21">Peer feedback</a></li>
@@ -272,6 +273,47 @@
                 <li>Beth should contact the individuals only if there is express authorisation for this. Suddenly reaching out to people who have no idea about her research could be seen very negatively, and even as a breach of privacy. Ultimately, the Records department should release individuals' names only if it's allowed by law and there is a clause that allows them to, which all individuals must consent to as well.</li>
                 <li>Beth could try reaching out to other organisations to verify if they have similar records and, crucially, she has express authorisation to reach out to individuals in their records. In the worst case scenario, she would need to simplify her study with sampling methods given the viable population number would not be met.</li>
             </ul></p><br><br>
+
+        
+        <h2 id="eportfolio3">e-Portfolio Activity: Reflective Activity 2</h2>
+            <p>The second e-portfolio reflective activity consisted of the following:<br><br>
+
+            <i>"<strong>Case Study: Inappropriate Use of Surveys</strong><br><br>
+
+            In 2018, Cambridge Analytica was in the news in the United Kingdom and the USA (Confessore, 2018) for obtaining and sharing data obtained from millions of Facebook users. They obtained the data through innocuous surveys on Facebook (you may have seen this type of survey and probably participated at times). This is probably the highest profile of surveys used for alternative means and, probably, monetary gains. However, this happens often through various media.<br><br>
+
+            Consider how exactly this happened and why it was used. Find one or two further examples of inappropriate use of surveys and highlight the impact of all these examples from the various ethical, social, legal and professional standpoints that apply.<br><br>
+
+            Record your findings in your e-Portfolio. You can also submit your findings to your tutor for formative feedback."</i><br><br>
+
+            Considering the topic and questions presented, here are the key points:<br><br>
+
+            <ul>
+                <li><strong>Cambridge Analytica used deceptive surveys</strong> to harvest data from millions (Cadwalladr and Graham-Harrison, 2018). Participants were unaware of the full scope of data access, violating their privacy and informed consent.</li>
+                <li><strong>Google’s Street View cars (2010)</strong> accidentally collected personal data from Wi-Fi networks, including emails and passwords (Kiss, 2010). Though unintended, it exposed gaps in data handling practices.</li>
+                <li><strong>TikTok has also faced scrutiny</strong> for collecting behavioural data on minors through in-app surveys and engagement without adequate transparency or parental consent (Gerken, 2025), showcasing how user control may be bypassed entirely at a company's whim.</li>
+            </ul>
+
+            <strong>Ethical, Legal, Social, and Professional Implications:</strong>
+
+            <ul>
+                <li><strong>Ethical:</strong> All examples demonstrate a lack of informed consent and respect for individual autonomy. Especially in TikTok’s case, child data protection is a major ethical concern.</li>
+                <li><strong>Legal:</strong> These cases led to regulatory action, such as GDPR penalties in Europe and FTC investigations in the US. They highlight the importance of compliance with data protection laws.</li>
+                <li><strong>Social:</strong> Public trust in tech platforms was significantly damaged. People became more cautious about sharing personal data online.</li>
+                <li><strong>Professional:</strong> Developers and data scientists have a duty to uphold ethical standards like those from ACM and IEEE. These cases reveal a need for stronger accountability in digital research and product design.</li>
+            </ul>
+            
+            The misuse of surveys for covert data collection shows how ethical lapses in design can lead to large-scale consequences. Transparency, consent, and lawful processing must be prioritised to protect individuals and maintain public trust.<br><br>
+
+            <strong>References</strong><br><br>
+
+            Cadwalladr, C. and Graham-Harrison, E. (2018) <i>Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach</i>. Available at: https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election (Accessed: 25 May 2025).<br><br>
+
+            Kiss, J. <i>Google admits collecting Wi-Fi data through Street View cars</i>. Available at: https://www.theguardian.com/technology/2010/may/15/google-admits-storing-private-data (Accessed: 25 May 2025).<br><br>
+
+            Gerken, T. (2025) <i>TikTok investigated over use of children's data</i>. Available at: https://www.bbc.com/news/articles/c62xxz141plo (Accessed: 25 May 2025).
+            
+            </p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>

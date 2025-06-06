@@ -14,6 +14,7 @@
     <li><a href="#unit3-seminar-prep">Unit 3 Seminar Preparation</a>
     <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
     <li><a href="#eportfolio3">e-Portfolio Activity: Reflective Activity 2</a></li>
+    <li><a href="reflective-piece1">Mid-Module Reflective Piece</a></li>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
             <li><a href="#colab-21">Peer feedback</a></li>
@@ -314,6 +315,12 @@
             Gerken, T. (2025) <i>TikTok investigated over use of children's data</i>. Available at: https://www.bbc.com/news/articles/c62xxz141plo (Accessed: 25 May 2025).
             
             </p><br><br>
+
+
+        <h2 id="reflective-piece1">Mid-Module Reflective Piece</h2>
+            <p>Reaching the halfway point of the Research Methods and Professional Practice module, I’ve come to appreciate how ethical considerations are deeply woven into the fabric of modern computing—especially in the context of generative AI. Reflecting on global governance frameworks through texts like Corrêa et al. (2023) and Deckard (2023), I’ve gained a nuanced understanding of how different cultural and regulatory perspectives shape AI development. Engaging in collaborative discussions, such as the debate on autonomous weapons, further challenged me to reconcile innovation with responsibility, while peer feedback expanded my view on the broader implications of AI technologies.
+
+            In parallel, the portfolio activities and seminar preparations have helped solidify both my academic and practical grounding. Planning my literature review on language preservation and outlining my capstone project on dopamine-driven decision-making have allowed me to apply research methods to deeply personal and interdisciplinary areas of interest. Altogether, the module is shaping my development not just as a researcher, but as a more ethically aware and critically reflective computing professional.</p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>

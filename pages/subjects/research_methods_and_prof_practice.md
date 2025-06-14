@@ -21,7 +21,8 @@
             <li><a href="#colab-22">Summary post</a></li>
         </ul>
     </li>
-    <li><a href="#colab-outcome">Learning Outcome: Peer Discussions</a>
+    <li><a href="#summary-measures">Summary Measures</a>
+    <li><a href="#hypothesis-testing">Hypothesis Testing</a>
     </li>
     <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
         <ul class="sect">
@@ -155,7 +156,7 @@
             <font size="2">Figure 1: My initial post in the first collaborative learning discussion forum</font></center></p><br><br>
 
             
-            <h3 id="colab-11"><br>Peer feedback</h3>
+            <h3 id="colab-11">Peer feedback</h3>
                 <p>The peer responses from Stephanie Irina, Ali Alzahmi, and Fahad Abdallah, three of my peers, were instrumental in building upon my initial post. For Stephanie, her response was as follows.<br><br>
                 
                 <center><img src="img/research_methods_and_prof_prac/stephanie_disc1.png" height="650" width="1200"><br>
@@ -175,7 +176,7 @@
                 <font size="2">Figure 3: Fahad's peer response to my initial post</font></center></p><br><br>
 
 
-            <h3 id="colab-12"><br>Summary post</h3>
+            <h3 id="colab-12">Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
 
                 <center><img src="img/research_methods_and_prof_prac/summary_post_disc1.png" height="600" width="1200"><br>
@@ -338,7 +339,7 @@
             The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
 
             
-            <h3 id="colab-21"><br>Peer feedback</h3>
+            <h3 id="colab-21">Peer feedback</h3>
                 <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
                 
                 <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
@@ -349,26 +350,93 @@
 
                 <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
                 
-                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center>
                 
                 </p><br><br>
 
 
-            <h3 id="colab-22"><br>Summary post</h3>
+            <h3 id="colab-22">Summary post</h3>
                 <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
+
                 <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
                 
                 <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
 
 
-        <h2 id="colab-outcome">Learning Outcome: Peer Discussions</h2>
-            <p>The collaborative learning discussions allowed me to engage with my peers in informative and respectful discussions regarding the proposed topics, thus contributing to my growth in two very important aspects:<br><br><br>
+        <h2 id="summary-measures">Summary Measures</h2>
+            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 6.1, we had the following:<br><br>
+
+            <i>"Open the Excel workbook Exa 8.1B.xlsx from the Exercises folder. Obtain the sample size, sample mean weight loss and the sample standard deviation of the weight loss for Diet B. Place these results in the block of cells F23 to F25, using the same format as that employed for the Diet A results in the above example.<br><br>
             
-            a) <strong>Critical thinking:</strong> The topics were, by nature, geared towards instigating students to work on identifying and addressing their positive and negative aspects. By the time that we had to take part in the second discussion forum, I was much more proficient at thinking critically and this skill only improved by the end of the second collaborative learning discussion;<br><br>
+            Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?"</i><br><br>
+
+            <center><img src="img/research_methods_and_prof_prac/exercise_6_1.png" height="150" width="450"><br>
+                
+            <font size="2">Figure 8: The results from the exercise 6.1 Excel sheet</font></center><br><br>
+
+            From the results, it's clear that both diets were effective. However, it's possible to infer that diet A has proven more successful than diet B, given it has a larger average weight loss and smaller standard deviation.<br><br>
+
+            For exercise 6.2, we had the following:<br><br>
+
+            <i>"Open the Excel workbook Exa 8.2B.xlsx from the Exercises folder. Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the above example.<br><br>
+
+            Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?"</i><br><br>
+
+            <center><img src="img/research_methods_and_prof_prac/exercise_6_2.png" height="300" width="450"><br>
+                
+            <font size="2">Figure 9: The results from the exercise 6.2 Excel sheet</font></center><br><br>
+
+            From the results, it's once more clear that both diets were effective. Diet A continues to have an edge, as it possesses larger median, first quartile and third quartile values.<br><br>
+
+            For exercise 6.3, we had the following:<br><br>
+
+            <i>"Open the Excel workbook Exa 8.3D.xlsx from the Exercises folder. Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example.<br><br>
             
-            b) <strong>Collaboration:</strong> I interacted with several students' posts and directly addressed the content present in them. Not only did I agree or disagree as required but I also provided further material that could be of interest to my peers, such as articles and papers, thus collaborating with them in broadening our perspective of a given topic.<br><br>
+            Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?"</i><br><br>
+
+            <center><img src="img/research_methods_and_prof_prac/exercise_6_3.png" height="500" width="350"><br>
+                
+            <font size="2">Figure 10: The results from the exercise 6.3 Excel sheet</font></center><br><br>
+
+            Out of the 90 respondends in Area 2, 21.1% preferred Brand A, 33.3% preferred Brand B, and the remaining 45.6% preferred some other brand of breakfast cereal. Thus, it can be argued that both Area A and B respondents tend to favour other breakfast cereal brands rather than Brands A or B.<br><br></p>
+
+
+        <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 7.3, on the related samples T-test, we had the following:<br><br>
+
+            <i>"Consider the filtration data of Data Set G. Open the Excel workbook Exa8.4G.xlsx which contains these data from the Exercises folder.<br><br>
             
-            </p><br><br>
+            Assuming the data to be suitably distributed, complete a two-tailed test of whether the population mean impurity differs between the two filtration agents, and interpret your findings."</i><br><br>
+
+            <center><img src="img/research_methods_and_prof_prac/exercise_7_3.png" height="350" width="450"><br>
+                
+            <font size="2">Figure 11: The results from the exercise 7.3 Excel sheet</font></center><br><br>
+
+            The sample mean numbers of impurity for Filter Agents 1 and 2 were, respectively, 8.25 and 8.683. The data reveals that there's significant evidence that the underlying mean impurity is greater for Filter Agent 2, by an estimated 8.683 - 8.25 = 0.433 units. The results, therefore, suggest that Filter Agent 1 should be preferred.<br><br>
+
+            For exercise 7.4, on the one-tailed T-test, we have:<br><br>
+
+            <i>"Recall that in Exercise 8.4, a two-tailed test was undertaken of whether the population mean impurity differs between the two filtration agents in Data Set G.<br><br>
+            
+            Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?"</i><br><br>
+
+            The sample mean numbers of impurity for Filter Agents 1 and 2 were, respectively, 8.25 and 8.683. The data reveals that there's significant evidence that the underlying mean impurity is greater for Filter Agent 2, by an estimated 8.683 - 8.25 = 0.433 units. The results continue to suggest that Filter Agent 1 should be preferred.<br><br>
+
+            Assume that the null hypothesis (h0) to be that Filter Agent 1 is not more effective than Filter Agent 2, and the alternative hypothesis (h1) states otherwise. The p-value for the one-tailed t-test is 0.004, which is less than 0.05. Therefore, we reject the null hypothesis in favour of the alternative, concluding that Filter Agent 1 is statistically more effective (lower mean impurity) than Filter Agent 2.<br><br>
+
+            For exercise 7.5, on the independent samples t-test, we have:<br><br>
+
+            <i>"Consider the bank cardholder data of Data Set C. Open the Excel workbook Exa7.6C.xlsx which contains this data from the Exercises folder.<br><br>
+            
+            Assuming the data to be suitably distributed, complete an appropriate test of whether the population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them?"</i><br><br>
+
+            <center><img src="img/research_methods_and_prof_prac/exercise_7_5.png" height="350" width="650"><br>
+                
+            <font size="2">Figure 12: The results from the exercise 7.5 Excel sheet</font></center><br><br>
+
+            The sample variances for male and female income are 233.129 and 190.176, respectively. The observed F-statistic is 1.226 with 59 and 59 degrees of freedom, yielding a two-tailed p-value of 0.436. This p-value exceeds the 0.05 significance level, so we do not reject the null hypothesis of equal variances. Therefore, and to validate such claims, we proceed with the equal variances form of the independent samples t-test.<br><br>
+
+            A separate t-test yields a two-tailed p-value of 0.0014, which is significant at the 1% level. The sample mean income for males and females are, respectively, 52.913 and 44.233. The data therefore constitute strong evidence that the underlying mean income was greater for males, by an estimated 52.913 - 44.233 = 8.68 units. The results strongly suggest that the mean income for males exceeds that of females.</p><br><br>
 
 
         <h2 id="assess1">Assessment: Artificial Intelligence and its Applications</h2>

@@ -319,48 +319,50 @@
 
 
         <h2 id="reflective-piece1">Mid-Module Reflective Piece</h2>
-            <p>Reaching the halfway point of the Research Methods and Professional Practice module, I’ve come to appreciate how ethical considerations are deeply woven into the fabric of modern computing, especially in the context of generative AI. Reflecting on global governance frameworks through texts like Corrêa et al. (2023) and Deckard (2023), I’ve gained a nuanced understanding of how different cultural and regulatory perspectives shape AI development. Engaging in collaborative discussions, such as the debate on autonomous weapons, further challenged me to reconcile innovation with responsibility, while peer feedback expanded my view on the broader implications of AI technologies.
+            <p>Reaching the halfway point of the Research Methods and Professional Practice module, I’ve come to appreciate how ethical considerations are deeply woven into the fabric of modern computing, especially in the context of generative AI. Reflecting on global governance frameworks through texts like Corrêa et al. (2023) and Deckard (2023), I’ve gained a nuanced understanding of how different cultural and regulatory perspectives shape AI development. Engaging in collaborative discussions, such as the debate on autonomous weapons, further challenged me to reconcile innovation with responsibility, while peer feedback expanded my view on the broader implications of AI technologies.<br><br>
 
             In parallel, the portfolio activities and seminar preparations have helped solidify both my academic and practical grounding. Planning my literature review on language preservation and outlining my capstone project on dopamine-driven decision-making have allowed me to apply research methods to deeply personal and interdisciplinary areas of interest. Altogether, the module is shaping my development not just as a researcher, but as a more ethically aware and critically reflective computing professional.</p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
-            <p>The second collaborative learning discussion further honed students' argumentative skills. This time, we had to elaborate on the following topic:<br><br>
-
-            <i>"Identify and discuss two machine learning algorithms and the context in which they can be employed.<br><br>
-
-            Your discussion could consider:<br><br>
-
-            a) Supervised and/or unsupervised learning algorithms. For example, if considering supervised learning, what type of learning algorithms would be ideal for the solution? <br>
-            b)The strengths and weaknesses of this approach to learning.<br><br>
+            <p>The second collaborative learning discussion served as a way for students to deepen their understanding of ethics in research. We had the following topic to elaborate on:<br><br>
             
-            You should demonstrate that you understand the topic covered and ensure you use references to academic literature (journals, books, reports, etc.). This is activity will provide evidence of your personal growth."</i><br><br>
+            "<i>Abi is a researcher at an institute and also a statistical programmer. Abi has received a project from a manufacturer to review the nutritional value of a new cereal, Whizzz. Having collected the necessary data, he now needs to perform the appropriate analyses and print the reports for him to send to the manufacturer. Unfortunately, the data Abi has collected seems to refute the claim that Whizzz is nutritious, and, in fact, they may indicate that Whizzz is harmful.<br><br>
+
+            Abi also realises that some other correlations could be performed that would cast Whizzz in a more favourable light. “After all,” he thinks, “I can use statistics to support either side of any issue.”<br><br>
+
+            <strong>Ethical Concerns</strong>
+
+            <ul>
+                <li>Clearly, if Abi changed data values in this study he would be acting unethically. But is it any more ethical for him to suggest analysing correct data in a way that supports two or more different conclusions?</li>
+                <li>Is Abi obligated to present both the positive and the negative analyses?</li>
+                <li>Is Abi responsible for the use to which others put his program results?</li>
+                <li>If Abi does put forward both sets of results to the manufacturer, he suspects that they will publicise only the positive ones. What other courses of action has he?</li>
+            </ul>
+
+            You should also highlight legal, social and professional impacts of any choices made. Please note that there are no right or wrong answers here and you may introduce local, as well as international, legislature in your responses."</i><br><br>
+
+            Students were required to create an initial post and, then, address at least 2 of their peers' submissions before creating a summary post. This final entry would serve as an evolved version of a student's initial post, incorporating peer responses and directly addressing them by either agreeing or not and providing the reasons for either case. My initial post, "Initial Post", was as follows.<br><br>
             
-            The second collaborative discussion followed the same structure as the first discussion, where a student had to submit an initial post, address at least 3 of their peers' entries and then create a summary post that incorporated peer responses submitted in the initial entry. My initial post, "Autoencoders and imitation learning", focused on giving an overview of the strengths and weaknesses of these, respectively, unsupervised and supervised algorithms</p>    
+            <center><img src="img/research_methods_and_prof_prac/initial_post_2.png" height="600" width="1200"><br>
+
+            <font size="2">Figure 5: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
 
             
-            <h3 id="colab-21">Peer feedback</h3>
-                <p>My initial entry was significantly enhanced by the comments from two of my peers, Pëllumb Dalipi and Georgios Papachristou. For Pëllumb, his response was as follows:
+            <h3 id="colab-21"><br>Peer feedback</h3>
+                <p>The peer responses from Natali Nikolic were instrumental in building upon my initial post. Her response was as follows.<br><br>
                 
-                <center><img src="img/understanding_ai/pëllumb_disc2.png" height="600" width="1200"><br>
+                <center><img src="img/machine_learning/natali_disc2.png" height="550" width="1000"><br>
 
-                <font size="2">Figure 5: Pëllumb's peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 31: Natali's peer response to my initial post</font></center><br><br>
 
-                As for Guilherme, his response was the following:<br><br><br>
 
-                <center><img src="img/understanding_ai/georgios_disc2.png" height="400" width="1200"><br>
+            <h3 id="colab-22"><br>Summary post</h3>
+                <p>My initial entry was significantly enhanced by Natali's feedback. Her comments were addressed by my summary post, which was as follows:<br><br>
+
+                <center><img src="img/machine_learning/summary_post_disc2.png" height="600" width="1100"><br>
                 
-                <font size="2">Figure 6: Georgios' peer response to my initial post</font></center>
-                
-                </p><br><br>
-
-
-            <h3 id="colab-22">Summary post</h3>
-                <p>My initial entry was, like in the previous discussion forum, significantly enhanced by my peers' feedback. Their comments were addressed by my summary post, which was as follows:<br><br>
-
-                <center><img src="img/understanding_ai/summary_post_disc1.png" height="550" width="1200"><br>
-                
-                <font size="2">Figure 7: My summary post in the second discussion forum</font></center></p><br><br>
+                <font size="2">Figure 32: My summary post in the second discussion forum</font></center></p><br><br>
 
 
         <h2 id="summary-measures">Summary Measures</h2>

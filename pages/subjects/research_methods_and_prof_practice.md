@@ -349,20 +349,26 @@
             <font size="2">Figure 5: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
 
             
-            <h3 id="colab-21"><br>Peer feedback</h3>
-                <p>The peer responses from Natali Nikolic were instrumental in building upon my initial post. Her response was as follows.<br><br>
+            <h3 id="colab-21">Peer feedback</h3>
+                <p>The peer responses from Kingsley Onyeemeosi and Ali Yousef Ebrahim Mohammed Alshehhi were instrumental in building upon my initial post. Kingsley's response was as follows:<br><br>
                 
-                <center><img src="img/machine_learning/natali_disc2.png" height="550" width="1000"><br>
+                <center><img src="img/research_methods_and_prof_prac/kingsley_disc2.png" height="550" width="1200"><br>
 
-                <font size="2">Figure 31: Natali's peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 6: Kingsley's peer response to my initial post</font></center><br>
+                
+                As for Ali Yousef's reponse, it was as follows:
+
+                <center><img src="img/research_methods_and_prof_prac/ali_yousef_disc2.png" height="550" width="1200"><br>
+
+                <font size="2">Figure 7: Ali Yousef's peer response to my initial post</font></center><br><br>
 
 
-            <h3 id="colab-22"><br>Summary post</h3>
-                <p>My initial entry was significantly enhanced by Natali's feedback. Her comments were addressed by my summary post, which was as follows:<br><br>
+            <h3 id="colab-22">Summary post</h3>
+                <p>My initial entry was significantly enhanced by my peers' comments. Their comments were addressed by my summary post, which was as follows:<br><br>
 
                 <center><img src="img/machine_learning/summary_post_disc2.png" height="600" width="1100"><br>
                 
-                <font size="2">Figure 32: My summary post in the second discussion forum</font></center></p><br><br>
+                <font size="2">Figure 8: My summary post in the second discussion forum</font></center></p><br><br>
 
 
         <h2 id="summary-measures">Summary Measures</h2>
@@ -374,7 +380,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_6_1.png" height="150" width="450"><br>
                 
-            <font size="2">Figure 8: The results from the exercise 6.1 Excel sheet</font></center><br><br>
+            <font size="2">Figure 9: The results from the exercise 6.1 Excel sheet</font></center><br><br>
 
             From the results, it's clear that both diets were effective. However, it's possible to infer that diet A has proven more successful than diet B, given it has a larger average weight loss and smaller standard deviation.<br><br>
 
@@ -386,7 +392,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_6_2.png" height="300" width="450"><br>
                 
-            <font size="2">Figure 9: The results from the exercise 6.2 Excel sheet</font></center><br><br>
+            <font size="2">Figure 10: The results from the exercise 6.2 Excel sheet</font></center><br><br>
 
             From the results, it's once more clear that both diets were effective. Diet A continues to have an edge, as it possesses larger median, first quartile and third quartile values.<br><br>
 
@@ -398,7 +404,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_6_3.png" height="500" width="350"><br>
                 
-            <font size="2">Figure 10: The results from the exercise 6.3 Excel sheet</font></center><br><br>
+            <font size="2">Figure 11: The results from the exercise 6.3 Excel sheet</font></center><br><br>
 
             Out of the 90 respondends in Area 2, 21.1% preferred Brand A, 33.3% preferred Brand B, and the remaining 45.6% preferred some other brand of breakfast cereal. Thus, it can be argued that both Area A and B respondents tend to favour other breakfast cereal brands rather than Brands A or B.<br><br></p>
 
@@ -412,7 +418,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_7_3.png" height="350" width="450"><br>
                 
-            <font size="2">Figure 11: The results from the exercise 7.3 Excel sheet</font></center><br><br>
+            <font size="2">Figure 12: The results from the exercise 7.3 Excel sheet</font></center><br><br>
 
             The sample mean numbers of impurity for Filter Agents 1 and 2 were, respectively, 8.25 and 8.683. The data reveals that there's significant evidence that the underlying mean impurity is greater for Filter Agent 2, by an estimated 8.683 - 8.25 = 0.433 units. The results, therefore, suggest that Filter Agent 1 should be preferred.<br><br>
 
@@ -434,7 +440,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_7_5.png" height="350" width="650"><br>
                 
-            <font size="2">Figure 12: The results from the exercise 7.5 Excel sheet</font></center><br><br>
+            <font size="2">Figure 13: The results from the exercise 7.5 Excel sheet</font></center><br><br>
 
             The sample variances for male and female income are 233.129 and 190.176, respectively. The observed F-statistic is 1.226 with 59 and 59 degrees of freedom, yielding a two-tailed p-value of 0.436. This p-value exceeds the 0.05 significance level, so we do not reject the null hypothesis of equal variances. Therefore, and to validate such claims, we proceed with the equal variances form of the independent samples t-test.<br><br>
 

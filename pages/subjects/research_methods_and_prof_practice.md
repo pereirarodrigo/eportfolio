@@ -366,7 +366,7 @@
             <h3 id="colab-22">Summary post</h3>
                 <p>My initial entry was significantly enhanced by my peers' comments. Their comments were addressed by my summary post, which was as follows:<br><br>
 
-                <center><img src="img/machine_learning/summary_post_disc2.png" height="600" width="1100"><br>
+                <center><img src="img/research_methods_and_prof_prac/summary_post_disc2.png" height="600" width="1200"><br>
                 
                 <font size="2">Figure 8: My summary post in the second discussion forum</font></center></p><br><br>
 

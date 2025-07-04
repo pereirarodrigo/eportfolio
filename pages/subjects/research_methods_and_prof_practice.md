@@ -23,20 +23,7 @@
     </li>
     <li><a href="#summary-measures">Summary Measures</a>
     <li><a href="#hypothesis-testing">Hypothesis Testing</a>
-    </li>
-    <li><a href="#assess1">Assessment: Artificial Intelligence and its Applications</a>
-        <ul class="sect">
-            <li><a href="#assess1-feedback">Tutor feedback</a></li>
-        </ul>
-    </li>
-    <li><a href="#assess2">Assessment: AI Solution Implementation</a>
-        <ul class="sect">
-            <li><a href="#assess2-feedback">Tutor feedback</a></li>
-        </ul>
-    </li>
-    <li><a href="#assess-outcome">Learning Outcome: Soft and Hard Skills in Business</a>
-    </li>
-    <li><a href="#reflection">Reflective Piece</a>
+    <li><a href="#bar-charts-and-histograms">Bar Charts and Histograms</a>
     </li>
 </div>
 
@@ -288,7 +275,7 @@
 
             Record your findings in your e-Portfolio. You can also submit your findings to your tutor for formative feedback."</i><br><br>
 
-            Considering the topic and questions presented, here are the key points:<br><br>
+            Considering the topic and questions presented, here are the key points:
 
             <ul>
                 <li><strong>Cambridge Analytica used deceptive surveys</strong> to harvest data from millions (Cadwalladr and Graham-Harrison, 2018). Participants were unaware of the full scope of data access, violating their privacy and informed consent.</li>
@@ -296,7 +283,7 @@
                 <li><strong>TikTok has also faced scrutiny</strong> for collecting behavioural data on minors through in-app surveys and engagement without adequate transparency or parental consent (Gerken, 2025), showcasing how user control may be bypassed entirely at a company's whim.</li>
             </ul>
 
-            <strong>Ethical, Legal, Social, and Professional Implications:</strong>
+            <strong>Ethical, Legal, Social, and Professional Implications:</strong><br><br>
 
             <ul>
                 <li><strong>Ethical:</strong> All examples demonstrate a lack of informed consent and respect for individual autonomy. Especially in TikTok’s case, child data protection is a major ethical concern.</li>
@@ -311,7 +298,7 @@
 
             Cadwalladr, C. and Graham-Harrison, E. (2018) <i>Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach</i>. Available at: https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election (Accessed: 25 May 2025).<br><br>
 
-            Kiss, J. <i>Google admits collecting Wi-Fi data through Street View cars</i>. Available at: https://www.theguardian.com/technology/2010/may/15/google-admits-storing-private-data (Accessed: 25 May 2025).<br><br>
+            Kiss, J. (2010) <i>Google admits collecting Wi-Fi data through Street View cars</i>. Available at: https://www.theguardian.com/technology/2010/may/15/google-admits-storing-private-data (Accessed: 25 May 2025).<br><br>
 
             Gerken, T. (2025) <i>TikTok investigated over use of children's data</i>. Available at: https://www.bbc.com/news/articles/c62xxz141plo (Accessed: 25 May 2025).
             
@@ -372,157 +359,75 @@
 
 
         <h2 id="summary-measures">Summary Measures</h2>
-            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 6.1, we had the following:<br><br>
+            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 8.1D, we had the following:<br><br>
 
-            <i>"Open the Excel workbook Exa 8.1B.xlsx from the Exercises folder. Obtain the sample size, sample mean weight loss and the sample standard deviation of the weight loss for Diet B. Place these results in the block of cells F23 to F25, using the same format as that employed for the Diet A results in the above example.<br><br>
-            
-            Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?"</i><br><br>
-
-            <center><img src="img/research_methods_and_prof_prac/exercise_6_1.png" height="150" width="450"><br>
+            <center><img src="img/research_methods_and_prof_prac/exercise_8_1B.png" height="150" width="450"><br>
                 
-            <font size="2">Figure 9: The results from the exercise 6.1 Excel sheet</font></center><br><br>
+            <font size="2">Figure 9: The results from the exercise 8.1B Excel sheet</font></center><br><br>
 
             From the results, it's clear that both diets were effective. However, it's possible to infer that diet A has proven more successful than diet B, given it has a larger average weight loss and smaller standard deviation.<br><br>
 
-            For exercise 6.2, we had the following:<br><br>
+            For exercise 8.2B, we had the following:<br><br>
 
-            <i>"Open the Excel workbook Exa 8.2B.xlsx from the Exercises folder. Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the above example.<br><br>
-
-            Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets?"</i><br><br>
-
-            <center><img src="img/research_methods_and_prof_prac/exercise_6_2.png" height="300" width="450"><br>
+            <center><img src="img/research_methods_and_prof_prac/exercise_8_2B.png" height="300" width="450"><br>
                 
-            <font size="2">Figure 10: The results from the exercise 6.2 Excel sheet</font></center><br><br>
+            <font size="2">Figure 10: The results from the exercise 8.2B Excel sheet</font></center><br><br>
 
             From the results, it's once more clear that both diets were effective. Diet A continues to have an edge, as it possesses larger median, first quartile and third quartile values.<br><br>
 
-            For exercise 6.3, we had the following:<br><br>
+            For exercise 8.3D, we had the following:<br><br>
 
-            <i>"Open the Excel workbook Exa 8.3D.xlsx from the Exercises folder. Obtain the frequencies and percentage frequencies of the variable Brand, but this time for the Area 2 respondents, using the same format as that employed for the Area1 results in the above example.<br><br>
-            
-            Briefly interpret your findings. What do these results tell you about the patterns of brand preferences for each of the two demographic areas?"</i><br><br>
-
-            <center><img src="img/research_methods_and_prof_prac/exercise_6_3.png" height="500" width="350"><br>
+            <center><img src="img/research_methods_and_prof_prac/exercise_8_3D.png" height="500" width="350"><br>
                 
-            <font size="2">Figure 11: The results from the exercise 6.3 Excel sheet</font></center><br><br>
+            <font size="2">Figure 11: The results from the exercise 8.3D Excel sheet</font></center><br><br>
 
             Out of the 90 respondends in Area 2, 21.1% preferred Brand A, 33.3% preferred Brand B, and the remaining 45.6% preferred some other brand of breakfast cereal. Thus, it can be argued that both Area A and B respondents tend to favour other breakfast cereal brands rather than Brands A or B.<br><br></p>
 
 
         <h2 id="hypothesis-testing">Hypothesis Testing</h2>
-            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 7.3, on the related samples T-test, we had the following:<br><br>
+            <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 8.4G, on the related samples T-test, we had the following:<br><br>
 
-            <i>"Consider the filtration data of Data Set G. Open the Excel workbook Exa8.4G.xlsx which contains these data from the Exercises folder.<br><br>
-            
-            Assuming the data to be suitably distributed, complete a two-tailed test of whether the population mean impurity differs between the two filtration agents, and interpret your findings."</i><br><br>
-
-            <center><img src="img/research_methods_and_prof_prac/exercise_7_3.png" height="350" width="450"><br>
+            <center><img src="img/research_methods_and_prof_prac/exercise_8_4G.png" height="350" width="450"><br>
                 
-            <font size="2">Figure 12: The results from the exercise 7.3 Excel sheet</font></center><br><br>
+            <font size="2">Figure 12: The results from the exercise 8.4G Excel sheet</font></center><br><br>
 
             The sample mean numbers of impurity for Filter Agents 1 and 2 were, respectively, 8.25 and 8.683. The data reveals that there's significant evidence that the underlying mean impurity is greater for Filter Agent 2, by an estimated 8.683 - 8.25 = 0.433 units. The results, therefore, suggest that Filter Agent 1 should be preferred.<br><br>
 
-            For exercise 7.4, on the one-tailed T-test, we have:<br><br>
+            For exercise 8.6C, on the independent samples t-test, we have:<br><br>
 
-            <i>"Recall that in Exercise 8.4, a two-tailed test was undertaken of whether the population mean impurity differs between the two filtration agents in Data Set G.<br><br>
-            
-            Suppose instead a one-tailed test had been conducted to determine whether Filter Agent 1 was the more effective. What would your conclusions have been?"</i><br><br>
-
-            The sample mean numbers of impurity for Filter Agents 1 and 2 were, respectively, 8.25 and 8.683. The data reveals that there's significant evidence that the underlying mean impurity is greater for Filter Agent 2, by an estimated 8.683 - 8.25 = 0.433 units. The results continue to suggest that Filter Agent 1 should be preferred.<br><br>
-
-            Assume that the null hypothesis (h0) to be that Filter Agent 1 is not more effective than Filter Agent 2, and the alternative hypothesis (h1) states otherwise. The p-value for the one-tailed t-test is 0.004, which is less than 0.05. Therefore, we reject the null hypothesis in favour of the alternative, concluding that Filter Agent 1 is statistically more effective (lower mean impurity) than Filter Agent 2.<br><br>
-
-            For exercise 7.5, on the independent samples t-test, we have:<br><br>
-
-            <i>"Consider the bank cardholder data of Data Set C. Open the Excel workbook Exa7.6C.xlsx which contains this data from the Exercises folder.<br><br>
-            
-            Assuming the data to be suitably distributed, complete an appropriate test of whether the population mean income for males exceeds that of females and interpret your findings. What assumptions underpin the validity of your analysis, and how could you validate them?"</i><br><br>
-
-            <center><img src="img/research_methods_and_prof_prac/exercise_7_5.png" height="350" width="650"><br>
+            <center><img src="img/research_methods_and_prof_prac/exercise_8_6C.png" height="350" width="700"><br>
                 
-            <font size="2">Figure 13: The results from the exercise 7.5 Excel sheet</font></center><br><br>
+            <font size="2">Figure 13: The results from the exercise 8.6C Excel sheet</font></center><br><br>
 
             The sample variances for male and female income are 233.129 and 190.176, respectively. The observed F-statistic is 1.226 with 59 and 59 degrees of freedom, yielding a two-tailed p-value of 0.436. This p-value exceeds the 0.05 significance level, so we do not reject the null hypothesis of equal variances. Therefore, and to validate such claims, we proceed with the equal variances form of the independent samples t-test.<br><br>
 
             A separate t-test yields a two-tailed p-value of 0.0014, which is significant at the 1% level. The sample mean income for males and females are, respectively, 52.913 and 44.233. The data therefore constitute strong evidence that the underlying mean income was greater for males, by an estimated 52.913 - 44.233 = 8.68 units. The results strongly suggest that the mean income for males exceeds that of females.</p><br><br>
 
-
-        <h2 id="assess1">Assessment: Artificial Intelligence and its Applications</h2>
-            <p>The first assessment involved coming up with a report that would convince the leadership of a ficticious finance startup to adopt AI technologies. The company that I created had the following profile:<br><br> 
-            
-            <i>Orion is a recently established finance company that specialises in efficient and secure payment processing operations and investment management, offering customers a team of investment specialists to optimise their portfolios and perform quantitative trading. Founded by industry veterans and academics, the company seeks to combine corporate and research-based methods to bring innovation to the finance industry, which is known for its high stakes and competitive nature.</i><br><br>
-
-            The report contained the positive and negative aspects behind AI adoption, the challenges involved in such an action (such as dataset gathering and infrastructure requirements) and the potential boons that could be unlocked by Orion should it make use of this technology responsibly and ethically. Three key areas were identified that could be significantly enhanced by AI adoption, which were:<br><br><br>
-
-            a) <strong>Investment planning and execution</strong>, with AI being employed in tasks such as forecast generation on market trends, market sentiment analysis and trading bots;<br><br>
-
-            b) <strong>Fraud detection</strong>, with AI being employed in tasks such as detecting anomalous credit card transactions and email phishing attempts;<br><br>
-
-            c) <strong>Customer service</strong>, with AI being employed in tasks such as automated customer assistance via chatbots and predicting user needs or issues.
-            
-            </p><br><br>
-            
-
-            <h3 id="assess1-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback allowed me to see the flaws in my report, such as the lack of reference-backed examples. His response was instrumental in allowing me to improve my report for the next assignment, and was as follows<br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_assign1.png" height="500" width="1200"><br>
-                
-                <font size="2">Figure 9: Tutor feedback on the first assignment</font></center><br><br>
-                
-                </p><br><br>
-
-
-        <h2 id="assess2">Assessment: AI Application Solution</h2>
-            <p>The second assignment was a direct continuation of the previous one. In this report, we had to come up with an experiment using one of the previously defined three key areas to demonstrate that our AI claims were achievable. My experiment focused on identifying fraudulent credit card transactions via machine learning (ML) algorithms, more specifically supervised learning approaches. To make the experiment as organised and reproducible as possible, the CRISP-DM process was employed.<br><br>
-
-            <center><img src="https://www.sv-europe.com/wp-content/uploads/2016/04/Screenshot-2016-04-20-11.58.54.png" height="500" width="600"><br>
-                
-            <font size="2">Figure 10: The CRISP-DM process (<a href="https://www.sv-europe.com/crisp-dm-methodology/">Smart Vision Europe</a>)</font></center><br><br>
-
-            As such, the experiment focused on business understanding, data understanding and preparation, modelling and evaluation. Deployment was not addressed as it was out of scope, but recommendations were made when it comes to monitoring data and model drift.<br><br>
-            
-            When it comes to the candidate models that were considered, the following research-backed options were evaluated:<br><br>
-            
-            a) J48 (decision tree);<br> 
-            b) Naive Bayes;<br>
-            c) Random forest;<br>
-            d) Logistic regression;<br>
-            e) Multilayer perceptron.<br><br>
-            
-            The models were trained and evaluated using stratified k-fold cross-validation, and the best-fit model underwent a limited hyperparameter tuning process to ascertain if it could be improved even further. 
-            
-            </p><br><br>
-                
-
-            <h3 id="assess2-feedback"><br>Tutor feedback</h3>
-                <p>Dr. Samuel Danso's feedback showed that my report's overall structure had greatly improved, although there was room for further improvement when it came to providing more details on what was being done. His feedback was as follows:<br><br>
-                
-                <center><img src="img/understanding_ai/tutor_feedback_assign2.png" height="350" width="1200"><br>
-                
-                <font size="2">Figure 10: Tutor feedback on the second assignment</font></center><br><br>
-                
-                </p><br><br>
         
-    
-        <h2 id="assess-outcome">Learning Outcome: Soft and Hard Skills in Business</h2>
-            <p>The assignments were incredibly useful in demonstrating to students that, in industry (and even in academia), hard skills (such as programming) alone are not enough. Soft skills (such as communication) will always be required, especially for the following reasons:<br><br><br>
+        <h2 id="bar-charts-and-histograms">Bar Charts and Histograms</h2>
+            <p>The subsequent exercises were focused on bar charts and histograms. For exercise 9.1D, we have:<br><br>
             
-            a) <strong>Technical barrier:</strong> Business-oriented individuals will, in most cases, not have the technical depth and expertise that, for instance, a data scientist possesses. Communication must be levelled out so that they can understand what is being done and why;<br><br>
-
-            b) <strong>Politics:</strong> Internal politics, such as department rivalries, must be navigated so that technical projects are not affected, and the only way of achieving this is by having a clear and direct line of communication, as well as good negotiating skills;<br><br>
-
-            c) <strong>Collaboration:</strong> Technical projects often involve multiple teams with diverse expertise. Effective communication ensures that all team members are on the same page, which is essential for the successful completion of projects;<br><br>
-
-            d) <strong>Conflict resolution:</strong> Conflicts are inevitable in any collaborative setting. Having strong interpersonal skills will prove instrumental in resolving conflicts amicably, ensuring that the focus remains on the project goals.
-
-            </p><br><br>
-
-
-        <h2 id="reflection">Reflective Piece</h2>
-            <p>The "Understanding Artificial Intelligence" module was instrumental in not only introducing students to the world of AI, but also in enabling us to engage in meaningful and reference-backed discussions and conducting independent experiments. All of the tasks in the module required us to think independently and critically, evaluating all possible actions and outcomes in an impartial manner and choosing the best path based on the available constraints. The module was designed in such a way that it allowed even newcomers to the field to understand how complex implementing and maintaining AI systems is, both from technical and business perspectives.<br><br> 
+            <center><img src="img/research_methods_and_prof_prac/exercise_9_1D.png" height="400" width="800"><br>
+                
+            <font size="2">Figure 14: The results from the exercise 9.1D Excel sheet</font></center><br><br>
             
-            Additionally, the legal, ethical and professional principles behind AI are vast and were carefully addressed in the module, allowing students to grasp just how large of an impact this technology is making in modern society. This field is evolving in such a rapid pace that indiscriminate usage, both by individuals and companies alike, will result in substantial damage should it not be monitored and regulated effectively. Balancing this regulatory process will be important in allowing innovative creations to help shape the future of AI while blocking nefarious practices that may arise out of it.</p>
+            It's clear from the chart that Brand A is the least preferred, followed by Brand B, whilst most respondents preferred some other brand.<br><br>
+
+            For exercise 9.2D, we had the following:<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/exercise_9_2D.png" height="400" width="850"><br>
+                
+            <font size="2">Figure 15: The results from the exercise 9.2D Excel sheet</font></center><br><br>
+
+            It's clear from the chart that Brand A is the least preferred, followed by Brand B, whilst most respondents preferred some other brand. Interestingly, it's clear that respondents from Area 1 have a greater preference for Brand A and and other brands when compared to those from Area 2, while the opposite is observed for Brand B.<br><br>
+
+            For exercise 9.3B, we had the following:<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/exercise_9_3B.png" height="350" width="1100"><br>
+                
+            <font size="2">Figure 16: The results from the exercise 9.3B Excel sheet</font></center><br><br>
+
+            For those individuals who underwent diet A, the weight loss distribution is unimodal and symmetrical, with perhaps a hint of negative skewness.</p>
     </div>
   </div>
 </div>

@@ -11,18 +11,20 @@
         </ul>
     </li>
     <li><a href="#eportfolio2">e-Portfolio Activity: Research Proposal Review</a></li>
-    <li><a href="#unit3-seminar-prep">Unit 3 Seminar Preparation</a>
-    <li><a href="#unit4-seminar-prep">Unit 4 Seminar Preparation</a>
     <li><a href="#eportfolio3">e-Portfolio Activity: Reflective Activity 2</a></li>
+    <li><a href="#mid-module-reflection">Mid-Module Reflective Piece</a></li>
+    <li><a href="#literature-review-submission">Literature Review Submission</a></li>
     <li><a href="#colab-2">Collaborative Learning Discussion 2</a>
         <ul class="sect">
             <li><a href="#colab-21">Peer Feedback</a></li>
             <li><a href="#colab-22">Summary Post</a></li>
         </ul>
     </li>
-    <li><a href="#summary-measures">Summary Measures</a>
-    <li><a href="#hypothesis-testing">Hypothesis Testing</a>
-    <li><a href="#bar-charts-and-histograms">Bar Charts and Histograms</a>
+    <li><a href="#summary-measures">Statistical Analysis 1 - Summary Measures</a>
+    <li><a href="#hypothesis-testing">Statistical Analysis 2 - Hypothesis Testing</a>
+    <li><a href="#bar-charts-and-histograms">Statistical Analysis 3 - Bar Charts and Histograms</a>
+    <li><a href="#research-proposal-submission">Research Proposal Submission</a></li>
+    <li><a href="#final-reflection">Reflective Piece</a></li>
     </li>
 </div>
 
@@ -31,7 +33,7 @@
   <div class="swiper-wrapper">
     <div class="swiper-slide">
         <h2 id="introduction">Introduction</h2>
-            <p>Taught by Karen Outram, the "Research Methods and Professional Practice" module covered essential research tools—such as the scientific method, data analysis, and academic writing—while also addressing legal, ethical, and professional issues in computing.</p><br><br>
+            <p>Taught by Karen Outram, the "Research Methods and Professional Practice" module covered essential research tools, such as the scientific method, data analysis, and academic writing, while also addressing legal, ethical, and professional issues in computing.</p><br><br>
 
 
         <h2 id="reflective1">Reflective Activity 1: Ethics in Computing in the age of Generative AI</h2>
@@ -81,9 +83,9 @@
             
             European Commission. (2024) <i>High-level expert group on artificial intelligence</i>. Available at: https://digital-strategy.ec.europa.eu/en/policies/expert-group-ai (Accessed: 1 May 2025).<br><br>
             
-            IEEE Standards Association. (2023) <i>IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards</i>. Available at: https://standards.ieee.org/news/get-program-ai-ethics/ (Accessed: 1 May 2025).</p><br><br>
+            IEEE Standards Association. (2023) <i>IEEE Introduces New Program for Free Access to AI Ethics and Governance Standards</i>. Available at: https://standards.ieee.org/news/get-program-ai-ethics/ (Accessed: 1 May 2025).<br><br>
             
-            UNESCO. (N.D.) <i>Brazil: Country profile capturing the sociotechnical landscape of AI in Brazil, drawing from both publicly available data and the completed Readiness Assessment Methodology (RAM)</i>. Available at: https://www.unesco.org/ethics-ai/en/brazil (Accessed: 1 May 2025).<br><br>
+            UNESCO. (N.D.) <i>Brazil: Country profile capturing the sociotechnical landscape of AI in Brazil, drawing from both publicly available data and the completed Readiness Assessment Methodology (RAM)</i>. Available at: https://www.unesco.org/ethics-ai/en/brazil (Accessed: 1 May 2025).</p><br><br>
 
 
         <h2 id="eportfolio1">e-Portfolio Activity: Literature Review and Research Proposal Outlines</h2>
@@ -137,63 +139,23 @@
             
             Sage. (2021) <i>Sage Research Methods: Psychometrics</i>. Available at: https://methods.sagepub.com/methods-map/psychometrics (Accessed: 11 May 2025).</p><br><br>
 
-
-        <h2 id="unit3-seminar-prep">Unit 3 Seminar Preparation</h2>
-            <p>The third seminar task involved selecting and critiquing two AI papers using different methodologies: one empirical, one theoretical. <br><br>
-
-            <strong>Paper 1:</strong> "Emergent Abilities of Large Language Models" by Jason Wei et al. (2022).<br><br>
-
-            This paper investigates whether LLMs exhibit emergent behaviours not seen in smaller models, highlighting the unpredictability of scaling. Using benchmarks like MMLU and HumanEval, the authors empirically demonstrated performance jumps with larger models. To enhance the work, I suggest broader task variety, interpretability analysis, and architectural comparisons.<br><br>
-
-            <strong>Paper 2:</strong> "A Formal Definition of General Intelligence" by Shane Legg & Marcus Hutter (2007).<br><br>
-
-            This theoretical paper defines intelligence as the ability to achieve goals across environments, using algorithmic information theory, Solomonoff induction, and Kolmogorov complexity. It provides a rigorous formalisation, though testing it on modern AI and expanding it to embodied, multi-modal contexts would add value.<br><br>
-
-            <strong>References</strong><br><br>
-
-            Wei, J., Tay, Y., Bommasani, R., Raffel, C., Zoph, B., Borgeaud, S., ... & Le, Q. V. (2022) <i>Emergent abilities of large language models</i>. arXiv preprint arXiv:2206.07682. Available at: https://arxiv.org/abs/2206.07682 (Accessed: 15 May 2025).<br><br>
-
-            Legg, S. and Hutter, M. (2007) <i>A collection of definitions of intelligence</i>. Frontiers in Artificial Intelligence and Applications, 157, pp.17-24. Available at: https://arxiv.org/abs/0706.3639 (Accessed: 15 May 2025).</p><br><br>
-
-
-        <h2 id="unit4-seminar-prep">Unit 4 Seminar Preparation</h2>
-            <p>The fourth seminar preparation activity consisted of addressing the ethical risks of Ricardo, a clerk, allowing Beth, a researcher, unrestricted access to potentially sensitive data. Considering the topic and questions presented, here are the following issues with each option:<br><br>
-
-            <ul>
-                <li>If Ricardo isn’t authorized to grant access, he should escalate Beth’s request to the appropriate authority.</li>
-                <li>If he is responsible, Ricardo must comply with data laws, as releasing names and addresses could breach privacy.</li>
-                <li>Beth should only contact individuals if legally authorized and consent has been obtained; otherwise, it risks violating privacy.</li>
-                <li>If too few participants give consent, Beth could seek other data sources or adjust her study using sampling methods.</li>
-            </ul></p><br><br>
+        
+        <h2 id="mid-module-reflection">Mid-Module Reflective Piece</h2>
+            <p>This module has, so far, strengthened my understanding of the ethical, legal, and professional aspects of computing, especially around generative AI. The reflective activities and peer discussion highlighted the need for responsible innovation and culturally aware governance. Engaging with others broadened my perspective, while the e-portfolio tasks helped align my interests in cognitive modelling and AI ethics. I now see the importance of embedding ethics early in both research and development, and feel motivated for what's ahead.</p><br><br>
 
         
-        <h2 id="eportfolio3">e-Portfolio Activity: Reflective Activity 2</h2>
-            <p>The second e-portfolio activity involved analysing a case study on the misuse of surveys. Key examples include:<br><br>
-
-            <ul>
-                <li><strong>Cambridge Analytica</strong> misused surveys to harvest data without proper consent (Cadwalladr and Graham-Harrison, 2018).</li>
-                <li><strong>Google’s Street View cars (2010)</strong> unintentionally collected personal Wi-Fi data, exposing privacy flaws (Kiss, 2010).</li>
-                <li><strong>TikTok</strong> collected behavioural data on minors without adequate transparency or consent (Gerken, 2025).</li>
-            </ul>
-
-            <strong>Implications:</strong><br><br>
-
-            <ul>
-                <li><strong>Ethical:</strong> All cases reflect consent violations, especially concerning minors in TikTok’s case.</li>
-                <li><strong>Legal:</strong> Triggered penalties under GDPR and FTC investigations, stressing the need for compliance.</li>
-                <li><strong>Social:</strong> Public trust declined, with increased caution over data sharing.</li>
-                <li><strong>Professional:</strong> Highlights the need for ethical responsibility among developers, aligned with ACM and IEEE codes.</li>
-            </ul>
-
-            Misusing surveys for hidden data collection reveals how ethical failures in design can have major consequences. Transparency and consent must be central to responsible digital practice.<br><br>
-
-            <strong>References</strong><br><br>
-
-            Cadwalladr, C. and Graham-Harrison, E. (2018) <i>Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach</i>. Available at: https://www.theguardian.com/news/2018/mar/17/cambridge-analytica-facebook-influence-us-election (Accessed: 25 May 2025).<br><br>
+        <h2 id="literature-review-submission">Literature Review Submission</h2>
+            <p>My literature review, titled "Artificial Intelligence in Language Preservation - A World of Careful Optimism and Empowerment", addressed the use of AI technologies in language preservation efforts, highlighting how natural language processing (NLP), in particular, has become increasingly prevalent in such endeavours.<br><br>
             
-            Gerken, T. (2025) <i>TikTok investigated over use of children's data</i>. Available at: https://www.bbc.com/news/articles/c62xxz141plo (Accessed: 25 May 2025).
+            <center><img src="img/research_methods_and_prof_prac/literature_review_abstract.png" height="600" width="600"><br>
 
-            Kiss, J. (2010) <i>Google admits collecting Wi-Fi data through Street View cars</i>. Available at: https://www.theguardian.com/technology/2010/may/15/google-admits-storing-private-data (Accessed: 25 May 2025).</p><br><br>
+            <font size="2">Figure 6: The abstract section in my literature review</font></center><br><br>
+
+            While overly ambitious at times, and deviating from the original outline after tutor feedback, this literature review managed to offer a grounded perspective of both the advantages and disadvantages of relying on this technology in a topic as sensitive as language preservation, with a particular emphasis on how proper data cleaning efforts are paramount for NLP models to work effectively.<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/lit_review_final_tutor_feedback.png" height="600" width="800"><br>
+
+            <font size="2">Figure 7: A snippet of tutor Karen Outram's feedback on my summative literature review submission</font></center></p><br><br>
 
 
         <h2 id="colab-2">Collaborative Learning Discussion 2</h2>
@@ -201,7 +163,7 @@
             
             <center><img src="img/research_methods_and_prof_prac/initial_post_2.png" height="600" width="1200"><br>
 
-            <font size="2">Figure 5: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
+            <font size="2">Figure 8: My initial post in the second collaborative learning discussion forum</font></center></p><br><br>
 
             
             <h3 id="colab-21">Peer Feedback</h3>
@@ -209,13 +171,13 @@
                 
                 <center><img src="img/research_methods_and_prof_prac/kingsley_disc2.png" height="550" width="1200"><br>
 
-                <font size="2">Figure 6: Kingsley's peer response to my initial post</font></center><br>
+                <font size="2">Figure 9: Kingsley's peer response to my initial post</font></center><br>
                 
                 As for Ali Yousef's reponse, it was as follows:
 
                 <center><img src="img/research_methods_and_prof_prac/ali_yousef_disc2.png" height="550" width="1200"><br>
 
-                <font size="2">Figure 7: Ali Yousef's peer response to my initial post</font></center><br><br>
+                <font size="2">Figure 10: Ali Yousef's peer response to my initial post</font></center><br><br>
 
 
             <h3 id="colab-22">Summary Post</h3>
@@ -223,15 +185,15 @@
 
                 <center><img src="img/research_methods_and_prof_prac/summary_post_disc2.png" height="600" width="1200"><br>
                 
-                <font size="2">Figure 8: My summary post in the second discussion forum</font></center></p><br><br>
+                <font size="2">Figure 11: My summary post in the second discussion forum</font></center></p><br><br>
 
 
-        <h2 id="summary-measures">Summary Measures</h2>
+        <h2 id="summary-measures">Statistical Analysis 1 - Summary Measures</h2>
             <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 8.1D, we had the following:<br><br>
 
             <center><img src="img/research_methods_and_prof_prac/exercise_8_1B.png" height="150" width="450"><br>
                 
-            <font size="2">Figure 9: The results from the exercise 8.1B Excel sheet</font></center><br><br>
+            <font size="2">Figure 12: The results from the exercise 8.1B Excel sheet</font></center><br><br>
 
             From the results, it's clear that both diets were effective. However, it's possible to infer that diet A has proven more successful than diet B, given it has a larger average weight loss and smaller standard deviation.<br><br>
 
@@ -239,7 +201,7 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_8_2B.png" height="300" width="450"><br>
                 
-            <font size="2">Figure 10: The results from the exercise 8.2B Excel sheet</font></center><br><br>
+            <font size="2">Figure 13: The results from the exercise 8.2B Excel sheet</font></center><br><br>
 
             From the results, it's once more clear that both diets were effective. Diet A continues to have an edge, as it possesses larger median, first quartile and third quartile values.<br><br>
 
@@ -247,17 +209,17 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_8_3D.png" height="500" width="350"><br>
                 
-            <font size="2">Figure 11: The results from the exercise 8.3D Excel sheet</font></center><br><br>
+            <font size="2">Figure 14: The results from the exercise 8.3D Excel sheet</font></center><br><br>
 
             Among 90 respondents in Area 2, 21.1% preferred Brand A, 33.3% Brand B, and 45.6% other brands. This suggests that both Area A and B respondents generally favour other cereal brands over A or B.</p><br><br>
 
 
-        <h2 id="hypothesis-testing">Hypothesis Testing</h2>
+        <h2 id="hypothesis-testing">Statistical Analysis 2 - Hypothesis Testing</h2>
             <p>This section consisted of a series of exercises to be done in either Excel or LibreOffice. For exercise 8.4G, we had:<br><br>
 
             <center><img src="img/research_methods_and_prof_prac/exercise_8_4G.png" height="350" width="450"><br>
                 
-            <font size="2">Figure 12: The results from the exercise 8.4G Excel sheet</font></center><br><br>
+            <font size="2">Figure 15: The results from the exercise 8.4G Excel sheet</font></center><br><br>
 
             Filter Agent 1 and 2 had mean impurity levels of 8.25 and 8.683, respectively. The 0.433-unit difference suggests significantly higher impurity for Agent 2, indicating that Filter Agent 1 is the preferable choice.<br><br>
 
@@ -265,17 +227,17 @@
 
             <center><img src="img/research_methods_and_prof_prac/exercise_8_6C.png" height="350" width="700"><br>
                 
-            <font size="2">Figure 13: The results from the exercise 8.6C Excel sheet</font></center><br><br>
+            <font size="2">Figure 16: The results from the exercise 8.6C Excel sheet</font></center><br><br>
 
             The income variances for males and females are 233.129 and 190.176, respectively. An F-test yields a p-value of 0.436, exceeding the 0.05 threshold, so we assume equal variances. A subsequent t-test gives a significant p-value of 0.0014, indicating strong evidence that male mean income (52.913) exceeds female mean income (44.233) by approximately 8.68 units.</p><br><br>
 
         
-        <h2 id="bar-charts-and-histograms">Bar Charts and Histograms</h2>
+        <h2 id="bar-charts-and-histograms">Statistical Analysis 3 - Bar Charts and Histograms</h2>
             <p>The subsequent exercises were focused on bar charts and histograms. For exercise 9.1D, we had:<br><br>
             
             <center><img src="img/research_methods_and_prof_prac/exercise_9_1D.png" height="400" width="800"><br>
                 
-            <font size="2">Figure 14: The results from the exercise 9.1D Excel sheet</font></center><br><br>
+            <font size="2">Figure 17: The results from the exercise 9.1D Excel sheet</font></center><br><br>
             
             It's clear from the chart that Brand A is the least preferred, followed by Brand B, whilst most respondents preferred some other brand.<br><br>
 
@@ -283,7 +245,7 @@
             
             <center><img src="img/research_methods_and_prof_prac/exercise_9_2D.png" height="400" width="850"><br>
                 
-            <font size="2">Figure 15: The results from the exercise 9.2D Excel sheet</font></center><br><br>
+            <font size="2">Figure 18: The results from the exercise 9.2D Excel sheet</font></center><br><br>
 
             The chart shows Brand A is least preferred, then Brand B, with most respondents favouring other brands. Area 1 respondents preferred Brand A and other brands more than those in Area 2, who showed higher preference for Brand B.<br><br>
 
@@ -291,9 +253,67 @@
             
             <center><img src="img/research_methods_and_prof_prac/exercise_9_3B.png" height="350" width="1100"><br>
                 
-            <font size="2">Figure 16: The results from the exercise 9.3B Excel sheet</font></center><br><br>
+            <font size="2">Figure 19: The results from the exercise 9.3B Excel sheet</font></center><br><br>
 
             For those individuals who underwent diet A, the weight loss distribution is unimodal and symmetrical, with perhaps a hint of negative skewness.</p><br><br>
+
+        
+        <h2 id="research-proposal-submission">Research Proposal Submission</h2>
+            <p>My research proposal, titled "Simulating Risk-Based Decision-Making and Dopaminergic Dysfunctions Using Hierarchical Reinforcement Learning", proposes the use of hierarchical reinforcement learning (HRL) to model decision-making under risk and uncertainty, with a noted emphasis on simulating dysfunctions in dopamine-based reward processing.<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/research_proposal_introduction.png" height="550" width="900"><br>
+                
+            <font size="2">Figure 20: The introductory section of the research proposal presentation</font></center><br><br>
+            
+            This proposal is ultimately envisioned as my MSc capstone project. However, there are no misconceptions regarding its extensive scope, which is why it'll be limited to a proof-of-concept. Overall, it is expected that this project will contribute to better dopamine modelling solutions, which could prove instrumental in helping diagnose and treat dysfunctions such as Parkinson's in a more proactive manner.<br><br>
+            
+            <center><img src="img/research_methods_and_prof_prac/res_proposal_final_tutor_feedback.png" height="600" width="800"><br>
+
+            <font size="2">Figure 21: A snippet of tutor Karen Outram's feedback on my research proposal submission</font></center></p><br><br>
+
+        
+        <h2 id="final-reflection">Reflective Piece</h2>
+            <p>This module has provided a multifaceted and intellectually enriching experience, deepening my understanding of research methods, professional ethics, and statistical analysis. More than just content delivery, it has served as a framework for critical thinking and self-evaluation. As Rolfe et al. (2001) state, “critical reflection can only be mastered by doing it”, and this sentiment resonates strongly with my experience. Through continuous application, such as writing, reviewing, and receiving feedback, I have sharpened my reflective ability and come to recognise its centrality in both academic and professional practice.<br><br>
+
+            <strong>Ethical Awareness and Generative AI</strong><br><br>
+
+            My initial reflective activity, focusing on the ethics of generative AI, was one of the first true turning points in this journey. Exploring Corrêa et al. (2023) and Deckard (2023), I encountered how widespread ethical principles such as autonomy, beneficence, and explicability are interpreted differently across cultures and governance systems. The case of generative AI was not just hypothetical: it was immediate, relevant, and grounded in reality. Tools like ChatGPT and Midjourney are not confined to the lab, as they actively reshape industries, learning environments, and job markets.<br><br>
+
+            Through this task, I recognised the tension between innovation and accountability. While organisations race to deploy powerful AI systems, ethical considerations often become secondary. This sparked a realisation: as a professional in computing, I carry the responsibility not only of technical rigour but of ethical foresight. The recommended actions I outlined, including mandatory impact assessments and culturally sensitive regulation, reflect this evolving awareness. More than box-ticking exercises, these are mechanisms for embedding long-term responsibility into design and deployment cycles. I now view governance as a process that should begin with the initial concept, not follow post-deployment.<br><br>
+
+            <strong>Peer Collaboration and Growth</strong><br><br>
+
+            The collaborative learning discussions furthered this development by exposing me to new lenses of interpretation. Engaging with peers like Stephanie, Ali, Fahad, Kingsley, and Ali Yousef helped reinforce the idea that ethical dilemmas are rarely black and white. For example, in the “Death Machines” case on autonomous weapons, our exchanges highlighted the moral complexity behind military AI applications. Are autonomous weapons inherently unethical, or is the lack of human accountability the core issue? These discussions forced me to reassess my assumptions, improving both my articulation and listening skills.<br><br>
+
+            What stood out most was how peer feedback consistently improved my outputs. Comments from others illuminated blind spots, often pushing me to refine or expand my arguments in ways I hadn’t initially considered. My summary posts, shaped by such feedback, illustrate how reflective learning isn't isolated introspection, but rather a collaborative act. Through this, I developed a stronger sense of academic humility, learning to value divergent views without losing my core reasoning.<br><br>
+
+            <strong>Research Design and Conceptual Alignment</strong><br><br>
+
+            The e-portfolio activities were particularly valuable in helping me align my academic passions with concrete research practice. My literature review, “Artificial Intelligence in Language Preservation – A World of Careful Optimism and Empowerment,” exemplifies this. It examined how NLP technologies can support the preservation of minority languages, especially those at risk of disappearing in the digital age. Tutor feedback initially pointed out overreach in scope, prompting me to refocus. This was a difficult but necessary lesson in research pragmatism: ambition must be tempered by feasibility. The final review struck a better balance, and I now understand the critical importance of scope definition and iterative review in any serious research process.<br><br>
+
+            This insight carried into my research proposal on simulating dopamine-related decision-making using HRL. This project is complex by nature, bringing together neuroscience, psychology, and AI. Through this module, I began to understand the utility of methods like cognitive task analysis (Sage, 2021) and psychometrics in making such interdisciplinary ideas concrete. They provide a structured way to capture cognitive processes that would otherwise remain abstract or theoretical. The ability to translate high-level ideas into researchable hypotheses and measurable outcomes is one of the most valuable skills I have gained.<br><br>
+
+            <strong>Real-World Ethics and Case-Based Reflection</strong><br><br>
+
+            One of the most striking activities was the second reflective task, where I analysed the misuse of surveys in real-world scenarios. The Cambridge Analytica scandal, Google’s accidental data harvesting, and TikTok’s practices with minors all revealed how ethical lapses can originate not from malice, but from poor planning, hidden incentives, or lack of foresight. The recurring issue across these cases was consent, its absence, obfuscation, or violation. This led me to critically reconsider how data is collected in any of my future projects, especially in studies involving vulnerable populations.<br><br>
+
+            More importantly, these cases underscored the concept that poor ethical design is not just a personal failure—it can have massive legal and social ramifications. By exploring GDPR violations and public backlash, I began to grasp the broader ecosystem in which developers, researchers, and users interact. Ethics is not a footnote or afterthought, but rather is infrastructure. The lesson here is clear: to be technically brilliant but ethically negligent is to build on sand.<br><br>
+
+            <strong>Statistical Application and Analytical Confidence</strong><br><br>
+
+            Another domain of notable development was statistical analysis. I had prior exposure to data science, but this module taught me to revisit fundamental principles with a more critical lens. Exercises such as t-tests, bar charts, histograms, and hypothesis testing weren’t just technical drills, as they forced me to articulate the meaning behind the numbers. For example, the F-test and t-test around income differences between males and females required me to consider not only statistical significance but social interpretation. What does it mean when a difference is statistically significant in such a context? Is it enough to report the p-value, or must we explore implications and biases in the dataset?<br><br>
+
+            Similarly, visual exercises like bar charts on brand preference taught me how representation can influence interpretation. A poorly constructed graph can mislead even if the data is accurate. This helped me internalise the importance of communication in statistical work. Data doesn’t speak for itself, we speak through it.<br><br>
+
+            <strong>Personal Development and Forward Outlook</strong><br><br>
+
+            Finally, reflecting on my own development throughout the module, I’ve noticed a shift not just in knowledge, but in identity. I am no longer simply a data scientist or programmer, as I am becoming a researcher and practitioner who views computation through an ethical, analytical, and human lens. Tools like the professional skills matrix and SWOT analysis helped formalise this reflection, making me consider not just what I know, but who I am becoming. My strengths, such as curiosity, interdisciplinary thinking, and ethical awareness, have become clearer. Likewise, areas like project scoping and survey design have emerged as growth areas.<br><br>
+
+            In future projects, whether academic or industrial, I will bring with me this layered awareness: that technology does not exist in isolation, that ethics and governance are not abstract ideals but day-to-day responsibilities, and that reflection is not a one-time exercise, but a continuous act.<br><br>
+
+            <strong>References</strong><br><br>
+
+            Rolfe, G., Freshwater, D. and Jasper, M. (2001) <i>Critical Reflection for Nursing and the Helping Professionals: A User's Guide</i>. Basingstoke: Palgrave Macmillan. 
     </div>
   </div>
 </div>
